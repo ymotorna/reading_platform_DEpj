@@ -1,6 +1,9 @@
 -- all authors cols + count total #books on platform
 
-{{ config(materialized='table') }}
+{{ config(
+    materialized='table',
+    tags=['daily']
+) }}
 
 with authors as (
     select *

@@ -6,7 +6,8 @@
   config(
     materialized='incremental',
     unique_key='transaction_sk',
-    incremental_strategy='merge'
+    incremental_strategy='merge',
+    tags=['hourly'])
   )
 }}
 

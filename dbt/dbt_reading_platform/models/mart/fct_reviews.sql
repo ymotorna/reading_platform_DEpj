@@ -9,7 +9,8 @@
   config(
     materialized='incremental',
     unique_key='review_sk',
-    incremental_strategy='merge'
+    incremental_strategy='merge',
+    tags=['hourly']
   )
 }}
 

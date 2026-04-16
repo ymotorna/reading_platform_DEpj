@@ -1,5 +1,7 @@
 -- raw -> stg \\ +sk
 
+{{ config(tags=['hourly']) }}
+
 select
     {{ dbt_utils.generate_surrogate_key(['subscription_id']) }} as subscription_sk,
     *

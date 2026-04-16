@@ -1,5 +1,7 @@
 -- raw (source) -> stg \\ +sk
 
+{{ config(tags=['daily']) }}
+
 select
     {{ dbt_utils.generate_surrogate_key(['book_id']) }} as book_sk,
     *

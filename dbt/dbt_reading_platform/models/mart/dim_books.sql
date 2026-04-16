@@ -1,6 +1,9 @@
 -- all stg_books cols + author name+nationality
 
-{{ config(materialized='table') }}
+{{ config(
+    materialized='table',
+    tags=['daily']
+) }}
 
 with books as (
     select *
