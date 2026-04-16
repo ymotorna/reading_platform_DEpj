@@ -2,12 +2,12 @@ from airflow.models import Variable
 from airflow.providers.postgres.hooks.postgres import PostgresHook
 import duckdb
 import pandas as pd
-from datetime import datetime, timedelta
+from datetime import datetime
 import logging
 
 logger = logging.getLogger(__name__)
 
-duckdb_path = "/opt/airflow/data/reading_platform.db"
+duckdb_path = "/usr/local/airflow/include/reading_platform.db"
 
 def etl_tbl(tbl, col_as_watermark):
     # get watermark for tbl as Airflow Variables
@@ -31,6 +31,7 @@ def etl_tbl(tbl, col_as_watermark):
     cursor.close()
     conn.close()
 
+    # ------------------------------------------------------
     # turn -> df
     df = pd.DataFrame(rows, columns=cols)
     logger.info("Extracted %d rows from %s (pg)", len(df), tbl)
@@ -44,6 +45,7 @@ def etl_tbl(tbl, col_as_watermark):
         logger.info("Watermark set to %s", new_watermark)
         return
 
+    # ------------------------------------------------------
     # load data -> DuckDB
     conn_db = duckdb.connect(duckdb_path)
 
@@ -82,7 +84,6 @@ def etl_tbl(tbl, col_as_watermark):
                                 author_id            VARCHAR,
                                 title                VARCHAR,
                                 genre_id             VARCHAR,
-                                genre                VARCHAR,
                                 language_code        VARCHAR,
                                 published_date       DATE,
                                 page_count           INTEGER,
@@ -96,7 +97,6 @@ def etl_tbl(tbl, col_as_watermark):
                                 author_id,
                                 title,
                                 genre_id,
-                                genre,
                                 language_code,
                                 published_date::date,
                                 page_count::int,
@@ -105,7 +105,7 @@ def etl_tbl(tbl, col_as_watermark):
                         from df
                         on conflict (book_id) do update set
                             title = excluded.title,
-                            genre = excluded.genre,
+                            genre_id = excluded.genre_id,
                             language_code = excluded.language_code,
                             is_available = excluded.is_available;
                         """)

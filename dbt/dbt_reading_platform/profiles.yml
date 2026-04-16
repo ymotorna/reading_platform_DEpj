@@ -3,5 +3,5 @@ reading_platform:
   outputs:
     dev:
       type: duckdb
-      path: /opt/airflow/data/reading_platform.db
+      path: /usr/local/airflow/include/reading_platform.db
       threads: 1

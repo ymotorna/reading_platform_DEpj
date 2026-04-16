@@ -1,6 +1,4 @@
-# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
 astronomer-cosmos
-duckdb
-pandas
+duckdb==1.4.4
+pandas==2.2.3
 apache-airflow-providers-postgres
-astro-run-dag
