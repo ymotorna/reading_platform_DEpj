@@ -1,0 +1,142 @@
+version: 2
+
+seeds:
+
+  - name: genres
+    description: >
+      Canonical reference list of the 10 book genres supported on the platform.
+      Used as a lookup for books.genre_id and to decode pipe-separated values
+      in users.preferred_genres.
+    config:
+      column_types:
+        genre_id:    varchar
+        genre_name:  varchar
+        description: varchar
+    columns:
+      - name: genre_id
+        description: Surrogate key for the genre (e.g. GEN01).
+        tests:
+          - unique
+          - not_null
+
+      - name: genre_name
+        description: Human-readable genre label displayed on the platform.
+        tests:
+          - unique
+          - not_null
+
+      - name: description
+        description: Short plain-text description of the genre for UI and documentation purposes.
+        tests:
+          - not_null
+
+
+  - name: languages
+    description: >
+      ISO 639-1 language codes for the 7 languages in which books are available
+      on the platform. Used as a lookup for books.language_code.
+    config:
+      column_types:
+        language_code: varchar
+        language_name: varchar
+    columns:
+      - name: language_code
+        description: Two-letter ISO 639-1 language code (e.g. en, fr, de).
+        tests:
+          - unique
+          - not_null
+
+      - name: language_name
+        description: Full English name of the language (e.g. English, French, German).
+        tests:
+          - unique
+          - not_null
+
+
+  - name: country_codes
+    description: >
+      ISO 3166-1 alpha-2 country codes enriched with region and continent.
+      Used as a lookup for users.country_code and authors.nationality.
+      Covers 30 countries represented in the platform user base.
+    config:
+      column_types:
+        country_code:  varchar
+        country_name:  varchar
+        region:        varchar
+        continent:     varchar
+    columns:
+      - name: country_code
+        description: Two-letter ISO 3166-1 alpha-2 country code (e.g. US, GB, UA).
+        tests:
+          - unique
+          - not_null
+
+      - name: country_name
+        description: Full English name of the country.
+        tests:
+          - unique
+          - not_null
+
+      - name: region
+        description: UN geographic sub-region the country belongs to (e.g. Northern Europe, Eastern Asia).
+        tests:
+          - not_null
+
+      - name: continent
+        description: Continent the country belongs to (e.g. Europe, Americas, Asia, Africa, Oceania).
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Europe', 'Americas', 'Asia', 'Africa', 'Oceania']
+
+
+  - name: subscription_types
+    description: >
+      Reference table for the three subscription plan tiers available on the platform.
+      Defines pricing, feature flags, and reading limits per plan.
+      Used as a lookup for subscriptions.plan_type.
+    config:
+      column_types:
+        plan_type:           varchar
+        price:               float
+        description:         varchar
+        max_books_per_month: int
+        offline_access:      boolean
+        priority_support:    boolean
+    columns:
+      - name: plan_type
+        description: Unique identifier and display name for the plan tier.
+        tests:
+          - unique
+          - not_null
+          - accepted_values:
+              values: ['free', 'basic', 'premium']
+
+      - name: price
+        description: >
+          Fixed monthly price in USD for this plan.
+          Expected constant values: free = 0.00, basic = 9.99, premium = 19.99.
+        tests:
+          - not_null
+
+      - name: description
+        description: Short plain-text summary of plan benefits for UI and documentation purposes.
+        tests:
+          - not_null
+
+      - name: max_books_per_month
+        description: >
+          Maximum number of books a user may access per calendar month.
+          Value of -1 indicates unlimited access (premium tier).
+        tests:
+          - not_null
+
+      - name: offline_access
+        description: Whether users on this plan can download books for offline reading.
+        tests:
+          - not_null
+
+      - name: priority_support
+        description: Whether users on this plan receive priority customer support.
+        tests:
+          - not_null

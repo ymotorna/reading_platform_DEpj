@@ -1,0 +1,11 @@
+genre_id,genre_name,description
+GEN01,Fiction,Narrative literature created from imagination
+GEN02,Non-Fiction,Prose based on real events and factual information
+GEN03,Mystery,Fiction dealing with puzzling crimes or events
+GEN04,Science Fiction,Speculative fiction based on scientific concepts
+GEN05,Fantasy,Fiction involving magical or supernatural elements
+GEN06,Biography,Detailed description of a real person life
+GEN07,History,Non-fiction accounts of past events
+GEN08,Romance,Fiction focused on love and relationships
+GEN09,Thriller,Fiction designed to create suspense and excitement
+GEN10,Self-Help,Books aimed at personal development and improvement

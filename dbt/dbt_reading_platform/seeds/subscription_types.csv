@@ -1,0 +1,4 @@
+plan_type,price,description,max_books_per_month,offline_access,priority_support
+free,0.0,Basic free access with limited features,3,False,False
+basic,9.99,Standard access with extended library,20,False,False
+premium,19.99,Full access with offline reading and priority support,-1,True,True

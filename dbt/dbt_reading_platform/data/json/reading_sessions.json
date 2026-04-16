@@ -1,0 +1,6002 @@
+[
+  {
+    "session_id": "SES00001",
+    "user_id": "USR0119",
+    "book_id": "BOOK044",
+    "started_at": "2024-06-03T03:45:52",
+    "ended_at": "2024-06-03T04:33:52",
+    "pages_read": 44,
+    "device_type": "mobile",
+    "completion_pct": 10.7
+  },
+  {
+    "session_id": "SES00002",
+    "user_id": "USR0173",
+    "book_id": "BOOK039",
+    "started_at": "2023-05-18T00:40:56",
+    "ended_at": "2023-05-18T01:09:56",
+    "pages_read": 57,
+    "device_type": "tablet",
+    "completion_pct": 9.6
+  },
+  {
+    "session_id": "SES00003",
+    "user_id": "USR0161",
+    "book_id": "BOOK051",
+    "started_at": "2022-05-24T18:33:06",
+    "ended_at": "2022-05-24T20:30:06",
+    "pages_read": 118,
+    "device_type": "mobile",
+    "completion_pct": 63.8
+  },
+  {
+    "session_id": "SES00004",
+    "user_id": "USR0105",
+    "book_id": "BOOK014",
+    "started_at": "2022-02-01T20:44:38",
+    "ended_at": "2022-02-01T21:52:38",
+    "pages_read": 56,
+    "device_type": "desktop",
+    "completion_pct": 12.3
+  },
+  {
+    "session_id": "SES00005",
+    "user_id": "USR0075",
+    "book_id": "BOOK022",
+    "started_at": "2022-07-07T08:22:04",
+    "ended_at": "2022-07-07T09:53:04",
+    "pages_read": 134,
+    "device_type": "desktop",
+    "completion_pct": 49.3
+  },
+  {
+    "session_id": "SES00006",
+    "user_id": "USR0197",
+    "book_id": "BOOK042",
+    "started_at": "2024-07-26T12:37:05",
+    "ended_at": "2024-07-26T13:25:05",
+    "pages_read": 58,
+    "device_type": "mobile",
+    "completion_pct": 13.0
+  },
+  {
+    "session_id": "SES00007",
+    "user_id": "USR0097",
+    "book_id": "BOOK071",
+    "started_at": "2022-11-07T11:44:26",
+    "ended_at": "2022-11-07T14:04:26",
+    "pages_read": 194,
+    "device_type": "desktop",
+    "completion_pct": 60.8
+  },
+  {
+    "session_id": "SES00008",
+    "user_id": "USR0125",
+    "book_id": "BOOK037",
+    "started_at": "2024-05-24T16:17:21",
+    "ended_at": "2024-05-24T19:05:21",
+    "pages_read": 200,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00009",
+    "user_id": "USR0097",
+    "book_id": "BOOK026",
+    "started_at": "2023-11-06T08:38:30",
+    "ended_at": "2023-11-06T11:34:30",
+    "pages_read": 237,
+    "device_type": "mobile",
+    "completion_pct": 46.0
+  },
+  {
+    "session_id": "SES00010",
+    "user_id": "USR0135",
+    "book_id": "BOOK046",
+    "started_at": "2023-12-22T01:27:35",
+    "ended_at": "2023-12-22T02:39:35",
+    "pages_read": 129,
+    "device_type": "tablet",
+    "completion_pct": 75.9
+  },
+  {
+    "session_id": "SES00011",
+    "user_id": "USR0042",
+    "book_id": "BOOK068",
+    "started_at": "2024-03-30T02:22:30",
+    "ended_at": "2024-03-30T05:18:30",
+    "pages_read": 263,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00012",
+    "user_id": "USR0077",
+    "book_id": "BOOK064",
+    "started_at": "2023-11-11T09:47:44",
+    "ended_at": "2023-11-11T10:22:44",
+    "pages_read": 81,
+    "device_type": "desktop",
+    "completion_pct": 13.7
+  },
+  {
+    "session_id": "SES00013",
+    "user_id": "USR0079",
+    "book_id": "BOOK022",
+    "started_at": "2022-07-18T12:20:49",
+    "ended_at": "2022-07-18T13:51:49",
+    "pages_read": 198,
+    "device_type": "tablet",
+    "completion_pct": 72.8
+  },
+  {
+    "session_id": "SES00014",
+    "user_id": "USR0112",
+    "book_id": "BOOK040",
+    "started_at": "2024-06-02T04:32:48",
+    "ended_at": "2024-06-02T04:59:48",
+    "pages_read": 43,
+    "device_type": "mobile",
+    "completion_pct": 15.1
+  },
+  {
+    "session_id": "SES00015",
+    "user_id": "USR0135",
+    "book_id": "BOOK016",
+    "started_at": "2024-03-04T06:28:15",
+    "ended_at": "2024-03-04T08:31:15",
+    "pages_read": 163,
+    "device_type": "desktop",
+    "completion_pct": 30.5
+  },
+  {
+    "session_id": "SES00016",
+    "user_id": "USR0178",
+    "book_id": "BOOK079",
+    "started_at": "2023-01-29T14:42:12",
+    "ended_at": "2023-01-29T16:27:12",
+    "pages_read": 106,
+    "device_type": "mobile",
+    "completion_pct": 42.7
+  },
+  {
+    "session_id": "SES00017",
+    "user_id": "USR0132",
+    "book_id": "BOOK003",
+    "started_at": "2022-06-26T23:49:22",
+    "ended_at": "2022-06-27T02:02:22",
+    "pages_read": 114,
+    "device_type": "mobile",
+    "completion_pct": 60.0
+  },
+  {
+    "session_id": "SES00018",
+    "user_id": "USR0103",
+    "book_id": "BOOK006",
+    "started_at": "2022-05-10T09:17:50",
+    "ended_at": "2022-05-10T11:18:50",
+    "pages_read": 272,
+    "device_type": "desktop",
+    "completion_pct": 64.3
+  },
+  {
+    "session_id": "SES00019",
+    "user_id": "USR0083",
+    "book_id": "BOOK063",
+    "started_at": "2024-11-07T05:05:56",
+    "ended_at": "2024-11-07T07:15:56",
+    "pages_read": 227,
+    "device_type": "desktop",
+    "completion_pct": 38.0
+  },
+  {
+    "session_id": "SES00020",
+    "user_id": "USR0090",
+    "book_id": "BOOK026",
+    "started_at": "2022-11-24T21:11:57",
+    "ended_at": "2022-11-24T22:13:57",
+    "pages_read": 40,
+    "device_type": "tablet",
+    "completion_pct": 7.8
+  },
+  {
+    "session_id": "SES00021",
+    "user_id": "USR0069",
+    "book_id": "BOOK016",
+    "started_at": "2023-11-05T21:11:45",
+    "ended_at": "2023-11-05T23:42:45",
+    "pages_read": 80,
+    "device_type": "desktop",
+    "completion_pct": 15.0
+  },
+  {
+    "session_id": "SES00022",
+    "user_id": "USR0031",
+    "book_id": "BOOK002",
+    "started_at": "2022-09-24T18:45:28",
+    "ended_at": "2022-09-24T21:02:28",
+    "pages_read": 194,
+    "device_type": "desktop",
+    "completion_pct": 43.6
+  },
+  {
+    "session_id": "SES00023",
+    "user_id": "USR0177",
+    "book_id": "BOOK067",
+    "started_at": "2023-04-16T09:12:05",
+    "ended_at": "2023-04-16T12:05:05",
+    "pages_read": 367,
+    "device_type": "tablet",
+    "completion_pct": 66.4
+  },
+  {
+    "session_id": "SES00024",
+    "user_id": "USR0095",
+    "book_id": "BOOK053",
+    "started_at": "2023-04-16T03:51:29",
+    "ended_at": "2023-04-16T04:28:29",
+    "pages_read": 27,
+    "device_type": "mobile",
+    "completion_pct": 17.5
+  },
+  {
+    "session_id": "SES00025",
+    "user_id": "USR0051",
+    "book_id": "BOOK017",
+    "started_at": "2022-01-25T16:14:41",
+    "ended_at": "2022-01-25T17:17:41",
+    "pages_read": 139,
+    "device_type": "mobile",
+    "completion_pct": 60.4
+  },
+  {
+    "session_id": "SES00026",
+    "user_id": "USR0127",
+    "book_id": "BOOK021",
+    "started_at": "2024-10-06T08:03:23",
+    "ended_at": "2024-10-06T09:19:23",
+    "pages_read": 104,
+    "device_type": "tablet",
+    "completion_pct": 33.0
+  },
+  {
+    "session_id": "SES00027",
+    "user_id": "USR0141",
+    "book_id": "BOOK027",
+    "started_at": "2022-05-14T17:48:00",
+    "ended_at": "2022-05-14T19:20:00",
+    "pages_read": 187,
+    "device_type": "mobile",
+    "completion_pct": 45.2
+  },
+  {
+    "session_id": "SES00028",
+    "user_id": "USR0125",
+    "book_id": "BOOK057",
+    "started_at": "2022-02-03T21:23:25",
+    "ended_at": "2022-02-03T22:07:25",
+    "pages_read": 36,
+    "device_type": "mobile",
+    "completion_pct": 18.3
+  },
+  {
+    "session_id": "SES00029",
+    "user_id": "USR0198",
+    "book_id": "BOOK059",
+    "started_at": "2024-01-24T11:51:24",
+    "ended_at": "2024-01-24T14:06:24",
+    "pages_read": 72,
+    "device_type": "desktop",
+    "completion_pct": 16.7
+  },
+  {
+    "session_id": "SES00030",
+    "user_id": "USR0155",
+    "book_id": "BOOK034",
+    "started_at": "2022-11-09T18:26:25",
+    "ended_at": "2022-11-09T19:56:25",
+    "pages_read": 147,
+    "device_type": "desktop",
+    "completion_pct": 41.3
+  },
+  {
+    "session_id": "SES00031",
+    "user_id": "USR0014",
+    "book_id": "BOOK045",
+    "started_at": "2022-01-13T05:34:28",
+    "ended_at": "2022-01-13T06:15:28",
+    "pages_read": 72,
+    "device_type": "tablet",
+    "completion_pct": 20.2
+  },
+  {
+    "session_id": "SES00032",
+    "user_id": "USR0113",
+    "book_id": "BOOK056",
+    "started_at": "2024-02-10T01:09:18",
+    "ended_at": "2024-02-10T03:52:18",
+    "pages_read": 275,
+    "device_type": "tablet",
+    "completion_pct": 54.9
+  },
+  {
+    "session_id": "SES00033",
+    "user_id": "USR0077",
+    "book_id": "BOOK005",
+    "started_at": "2024-01-28T07:11:14",
+    "ended_at": "2024-01-28T09:08:14",
+    "pages_read": 172,
+    "device_type": "tablet",
+    "completion_pct": 33.8
+  },
+  {
+    "session_id": "SES00034",
+    "user_id": "USR0194",
+    "book_id": "BOOK067",
+    "started_at": "2022-12-27T06:04:27",
+    "ended_at": "2022-12-27T06:34:27",
+    "pages_read": 46,
+    "device_type": "desktop",
+    "completion_pct": 8.3
+  },
+  {
+    "session_id": "SES00035",
+    "user_id": "USR0152",
+    "book_id": "BOOK043",
+    "started_at": "2024-05-09T10:52:01",
+    "ended_at": "2024-05-09T11:23:01",
+    "pages_read": 32,
+    "device_type": "tablet",
+    "completion_pct": 7.1
+  },
+  {
+    "session_id": "SES00036",
+    "user_id": "USR0109",
+    "book_id": "BOOK065",
+    "started_at": "2022-07-01T15:52:00",
+    "ended_at": "2022-07-01T18:13:00",
+    "pages_read": 162,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00037",
+    "user_id": "USR0091",
+    "book_id": "BOOK062",
+    "started_at": "2023-11-09T15:50:00",
+    "ended_at": "2023-11-09T16:10:00",
+    "pages_read": 16,
+    "device_type": "tablet",
+    "completion_pct": 4.8
+  },
+  {
+    "session_id": "SES00038",
+    "user_id": "USR0052",
+    "book_id": "BOOK065",
+    "started_at": "2023-06-19T03:33:35",
+    "ended_at": "2023-06-19T05:40:35",
+    "pages_read": 122,
+    "device_type": "mobile",
+    "completion_pct": 75.3
+  },
+  {
+    "session_id": "SES00039",
+    "user_id": "USR0157",
+    "book_id": "BOOK046",
+    "started_at": "2024-07-24T07:55:11",
+    "ended_at": "2024-07-24T10:09:11",
+    "pages_read": 102,
+    "device_type": "desktop",
+    "completion_pct": 60.0
+  },
+  {
+    "session_id": "SES00040",
+    "user_id": "USR0194",
+    "book_id": "BOOK052",
+    "started_at": "2023-10-10T13:42:26",
+    "ended_at": "2023-10-10T15:29:26",
+    "pages_read": 223,
+    "device_type": "mobile",
+    "completion_pct": 43.7
+  },
+  {
+    "session_id": "SES00041",
+    "user_id": "USR0168",
+    "book_id": "BOOK029",
+    "started_at": "2023-03-15T18:46:05",
+    "ended_at": "2023-03-15T19:23:05",
+    "pages_read": 67,
+    "device_type": "mobile",
+    "completion_pct": 25.1
+  },
+  {
+    "session_id": "SES00042",
+    "user_id": "USR0047",
+    "book_id": "BOOK028",
+    "started_at": "2022-08-31T19:48:42",
+    "ended_at": "2022-08-31T22:38:42",
+    "pages_read": 252,
+    "device_type": "desktop",
+    "completion_pct": 55.9
+  },
+  {
+    "session_id": "SES00043",
+    "user_id": "USR0130",
+    "book_id": "BOOK041",
+    "started_at": "2022-12-31T14:57:18",
+    "ended_at": "2022-12-31T16:05:18",
+    "pages_read": 109,
+    "device_type": "mobile",
+    "completion_pct": 22.3
+  },
+  {
+    "session_id": "SES00044",
+    "user_id": "USR0094",
+    "book_id": "BOOK036",
+    "started_at": "2023-07-09T15:33:37",
+    "ended_at": "2023-07-09T16:28:37",
+    "pages_read": 46,
+    "device_type": "tablet",
+    "completion_pct": 16.6
+  },
+  {
+    "session_id": "SES00045",
+    "user_id": "USR0009",
+    "book_id": "BOOK010",
+    "started_at": "2023-06-09T15:39:51",
+    "ended_at": "2023-06-09T17:44:51",
+    "pages_read": 90,
+    "device_type": "mobile",
+    "completion_pct": 18.8
+  },
+  {
+    "session_id": "SES00046",
+    "user_id": "USR0033",
+    "book_id": "BOOK078",
+    "started_at": "2022-12-15T02:53:27",
+    "ended_at": "2022-12-15T05:12:27",
+    "pages_read": 141,
+    "device_type": "desktop",
+    "completion_pct": 28.7
+  },
+  {
+    "session_id": "SES00047",
+    "user_id": "USR0093",
+    "book_id": "BOOK006",
+    "started_at": "2024-05-15T07:17:54",
+    "ended_at": "2024-05-15T08:40:54",
+    "pages_read": 190,
+    "device_type": "tablet",
+    "completion_pct": 44.9
+  },
+  {
+    "session_id": "SES00048",
+    "user_id": "USR0135",
+    "book_id": "BOOK016",
+    "started_at": "2022-03-20T07:52:11",
+    "ended_at": "2022-03-20T09:59:11",
+    "pages_read": 266,
+    "device_type": "mobile",
+    "completion_pct": 49.8
+  },
+  {
+    "session_id": "SES00049",
+    "user_id": "USR0029",
+    "book_id": "BOOK016",
+    "started_at": "2024-05-23T18:30:30",
+    "ended_at": "2024-05-23T18:55:30",
+    "pages_read": 37,
+    "device_type": "mobile",
+    "completion_pct": 6.9
+  },
+  {
+    "session_id": "SES00050",
+    "user_id": "USR0170",
+    "book_id": "BOOK018",
+    "started_at": "2022-11-16T01:21:12",
+    "ended_at": "2022-11-16T03:08:12",
+    "pages_read": 87,
+    "device_type": "desktop",
+    "completion_pct": 21.4
+  },
+  {
+    "session_id": "SES00051",
+    "user_id": "USR0190",
+    "book_id": "BOOK059",
+    "started_at": "2024-02-25T21:11:34",
+    "ended_at": "2024-02-25T23:33:34",
+    "pages_read": 279,
+    "device_type": "mobile",
+    "completion_pct": 64.6
+  },
+  {
+    "session_id": "SES00052",
+    "user_id": "USR0042",
+    "book_id": "BOOK049",
+    "started_at": "2023-06-04T19:04:21",
+    "ended_at": "2023-06-04T19:54:21",
+    "pages_read": 37,
+    "device_type": "mobile",
+    "completion_pct": 6.9
+  },
+  {
+    "session_id": "SES00053",
+    "user_id": "USR0115",
+    "book_id": "BOOK056",
+    "started_at": "2022-01-11T05:36:09",
+    "ended_at": "2022-01-11T06:53:09",
+    "pages_read": 167,
+    "device_type": "desktop",
+    "completion_pct": 33.3
+  },
+  {
+    "session_id": "SES00054",
+    "user_id": "USR0090",
+    "book_id": "BOOK039",
+    "started_at": "2024-02-24T12:36:43",
+    "ended_at": "2024-02-24T13:34:43",
+    "pages_read": 38,
+    "device_type": "desktop",
+    "completion_pct": 6.4
+  },
+  {
+    "session_id": "SES00055",
+    "user_id": "USR0192",
+    "book_id": "BOOK056",
+    "started_at": "2023-07-15T05:45:38",
+    "ended_at": "2023-07-15T08:41:38",
+    "pages_read": 322,
+    "device_type": "mobile",
+    "completion_pct": 64.3
+  },
+  {
+    "session_id": "SES00056",
+    "user_id": "USR0139",
+    "book_id": "BOOK056",
+    "started_at": "2022-12-21T11:14:30",
+    "ended_at": "2022-12-21T12:04:30",
+    "pages_read": 105,
+    "device_type": "desktop",
+    "completion_pct": 21.0
+  },
+  {
+    "session_id": "SES00057",
+    "user_id": "USR0107",
+    "book_id": "BOOK063",
+    "started_at": "2024-03-12T19:39:50",
+    "ended_at": "2024-03-12T21:26:50",
+    "pages_read": 255,
+    "device_type": "desktop",
+    "completion_pct": 42.7
+  },
+  {
+    "session_id": "SES00058",
+    "user_id": "USR0040",
+    "book_id": "BOOK002",
+    "started_at": "2024-03-14T16:09:26",
+    "ended_at": "2024-03-14T16:41:26",
+    "pages_read": 21,
+    "device_type": "desktop",
+    "completion_pct": 4.7
+  },
+  {
+    "session_id": "SES00059",
+    "user_id": "USR0105",
+    "book_id": "BOOK024",
+    "started_at": "2023-11-06T07:23:15",
+    "ended_at": "2023-11-06T07:53:15",
+    "pages_read": 38,
+    "device_type": "mobile",
+    "completion_pct": 7.8
+  },
+  {
+    "session_id": "SES00060",
+    "user_id": "USR0178",
+    "book_id": "BOOK022",
+    "started_at": "2024-06-11T13:02:50",
+    "ended_at": "2024-06-11T13:31:50",
+    "pages_read": 71,
+    "device_type": "tablet",
+    "completion_pct": 26.1
+  },
+  {
+    "session_id": "SES00061",
+    "user_id": "USR0178",
+    "book_id": "BOOK073",
+    "started_at": "2023-04-05T09:24:20",
+    "ended_at": "2023-04-05T11:26:20",
+    "pages_read": 159,
+    "device_type": "tablet",
+    "completion_pct": 42.6
+  },
+  {
+    "session_id": "SES00062",
+    "user_id": "USR0188",
+    "book_id": "BOOK077",
+    "started_at": "2023-04-18T17:59:04",
+    "ended_at": "2023-04-18T19:34:04",
+    "pages_read": 220,
+    "device_type": "mobile",
+    "completion_pct": 45.0
+  },
+  {
+    "session_id": "SES00063",
+    "user_id": "USR0074",
+    "book_id": "BOOK074",
+    "started_at": "2024-08-06T05:24:03",
+    "ended_at": "2024-08-06T06:16:03",
+    "pages_read": 98,
+    "device_type": "desktop",
+    "completion_pct": 39.7
+  },
+  {
+    "session_id": "SES00064",
+    "user_id": "USR0173",
+    "book_id": "BOOK029",
+    "started_at": "2024-04-25T17:38:45",
+    "ended_at": "2024-04-25T20:32:45",
+    "pages_read": 267,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00065",
+    "user_id": "USR0117",
+    "book_id": "BOOK047",
+    "started_at": "2024-10-04T19:24:51",
+    "ended_at": "2024-10-04T21:22:51",
+    "pages_read": 241,
+    "device_type": "desktop",
+    "completion_pct": 77.5
+  },
+  {
+    "session_id": "SES00066",
+    "user_id": "USR0022",
+    "book_id": "BOOK005",
+    "started_at": "2024-04-14T20:58:22",
+    "ended_at": "2024-04-14T22:38:22",
+    "pages_read": 127,
+    "device_type": "tablet",
+    "completion_pct": 25.0
+  },
+  {
+    "session_id": "SES00067",
+    "user_id": "USR0198",
+    "book_id": "BOOK019",
+    "started_at": "2024-03-19T12:31:00",
+    "ended_at": "2024-03-19T15:04:00",
+    "pages_read": 163,
+    "device_type": "mobile",
+    "completion_pct": 28.1
+  },
+  {
+    "session_id": "SES00068",
+    "user_id": "USR0134",
+    "book_id": "BOOK077",
+    "started_at": "2023-05-01T01:36:49",
+    "ended_at": "2023-05-01T04:04:49",
+    "pages_read": 174,
+    "device_type": "tablet",
+    "completion_pct": 35.6
+  },
+  {
+    "session_id": "SES00069",
+    "user_id": "USR0043",
+    "book_id": "BOOK003",
+    "started_at": "2022-02-13T07:51:36",
+    "ended_at": "2022-02-13T10:24:36",
+    "pages_read": 190,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00070",
+    "user_id": "USR0080",
+    "book_id": "BOOK057",
+    "started_at": "2024-02-24T22:00:07",
+    "ended_at": "2024-02-24T22:43:07",
+    "pages_read": 84,
+    "device_type": "desktop",
+    "completion_pct": 42.6
+  },
+  {
+    "session_id": "SES00071",
+    "user_id": "USR0069",
+    "book_id": "BOOK070",
+    "started_at": "2023-07-05T15:43:27",
+    "ended_at": "2023-07-05T16:29:27",
+    "pages_read": 27,
+    "device_type": "tablet",
+    "completion_pct": 5.0
+  },
+  {
+    "session_id": "SES00072",
+    "user_id": "USR0034",
+    "book_id": "BOOK062",
+    "started_at": "2023-04-08T20:47:43",
+    "ended_at": "2023-04-08T23:28:43",
+    "pages_read": 317,
+    "device_type": "desktop",
+    "completion_pct": 95.2
+  },
+  {
+    "session_id": "SES00073",
+    "user_id": "USR0089",
+    "book_id": "BOOK033",
+    "started_at": "2024-06-22T11:23:21",
+    "ended_at": "2024-06-22T14:02:21",
+    "pages_read": 306,
+    "device_type": "tablet",
+    "completion_pct": 51.7
+  },
+  {
+    "session_id": "SES00074",
+    "user_id": "USR0179",
+    "book_id": "BOOK075",
+    "started_at": "2024-07-14T03:40:22",
+    "ended_at": "2024-07-14T04:54:22",
+    "pages_read": 88,
+    "device_type": "desktop",
+    "completion_pct": 17.6
+  },
+  {
+    "session_id": "SES00075",
+    "user_id": "USR0179",
+    "book_id": "BOOK080",
+    "started_at": "2024-11-10T14:08:57",
+    "ended_at": "2024-11-10T14:58:57",
+    "pages_read": 96,
+    "device_type": "tablet",
+    "completion_pct": 20.6
+  },
+  {
+    "session_id": "SES00076",
+    "user_id": "USR0197",
+    "book_id": "BOOK034",
+    "started_at": "2022-06-13T11:08:38",
+    "ended_at": "2022-06-13T12:46:38",
+    "pages_read": 150,
+    "device_type": "mobile",
+    "completion_pct": 42.1
+  },
+  {
+    "session_id": "SES00077",
+    "user_id": "USR0095",
+    "book_id": "BOOK063",
+    "started_at": "2022-06-02T05:15:04",
+    "ended_at": "2022-06-02T06:07:04",
+    "pages_read": 100,
+    "device_type": "desktop",
+    "completion_pct": 16.8
+  },
+  {
+    "session_id": "SES00078",
+    "user_id": "USR0021",
+    "book_id": "BOOK014",
+    "started_at": "2022-04-07T14:44:53",
+    "ended_at": "2022-04-07T16:47:53",
+    "pages_read": 280,
+    "device_type": "desktop",
+    "completion_pct": 61.5
+  },
+  {
+    "session_id": "SES00079",
+    "user_id": "USR0057",
+    "book_id": "BOOK062",
+    "started_at": "2022-05-02T06:45:39",
+    "ended_at": "2022-05-02T08:34:39",
+    "pages_read": 202,
+    "device_type": "desktop",
+    "completion_pct": 60.7
+  },
+  {
+    "session_id": "SES00080",
+    "user_id": "USR0157",
+    "book_id": "BOOK078",
+    "started_at": "2024-03-17T03:40:18",
+    "ended_at": "2024-03-17T05:36:18",
+    "pages_read": 260,
+    "device_type": "tablet",
+    "completion_pct": 53.0
+  },
+  {
+    "session_id": "SES00081",
+    "user_id": "USR0131",
+    "book_id": "BOOK057",
+    "started_at": "2023-11-15T15:22:11",
+    "ended_at": "2023-11-15T17:42:11",
+    "pages_read": 197,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00082",
+    "user_id": "USR0044",
+    "book_id": "BOOK021",
+    "started_at": "2024-02-25T17:03:53",
+    "ended_at": "2024-02-25T17:50:53",
+    "pages_read": 69,
+    "device_type": "desktop",
+    "completion_pct": 21.9
+  },
+  {
+    "session_id": "SES00083",
+    "user_id": "USR0036",
+    "book_id": "BOOK071",
+    "started_at": "2024-04-01T23:48:37",
+    "ended_at": "2024-04-02T00:33:37",
+    "pages_read": 85,
+    "device_type": "desktop",
+    "completion_pct": 26.6
+  },
+  {
+    "session_id": "SES00084",
+    "user_id": "USR0125",
+    "book_id": "BOOK005",
+    "started_at": "2022-09-01T15:24:27",
+    "ended_at": "2022-09-01T18:02:27",
+    "pages_read": 195,
+    "device_type": "mobile",
+    "completion_pct": 38.3
+  },
+  {
+    "session_id": "SES00085",
+    "user_id": "USR0161",
+    "book_id": "BOOK055",
+    "started_at": "2022-06-21T09:37:49",
+    "ended_at": "2022-06-21T10:22:49",
+    "pages_read": 55,
+    "device_type": "desktop",
+    "completion_pct": 24.0
+  },
+  {
+    "session_id": "SES00086",
+    "user_id": "USR0011",
+    "book_id": "BOOK073",
+    "started_at": "2022-08-27T03:36:23",
+    "ended_at": "2022-08-27T04:21:23",
+    "pages_read": 55,
+    "device_type": "desktop",
+    "completion_pct": 14.7
+  },
+  {
+    "session_id": "SES00087",
+    "user_id": "USR0080",
+    "book_id": "BOOK040",
+    "started_at": "2024-01-25T20:37:02",
+    "ended_at": "2024-01-25T20:59:02",
+    "pages_read": 45,
+    "device_type": "mobile",
+    "completion_pct": 15.8
+  },
+  {
+    "session_id": "SES00088",
+    "user_id": "USR0157",
+    "book_id": "BOOK056",
+    "started_at": "2022-03-17T13:50:32",
+    "ended_at": "2022-03-17T15:23:32",
+    "pages_read": 211,
+    "device_type": "mobile",
+    "completion_pct": 42.1
+  },
+  {
+    "session_id": "SES00089",
+    "user_id": "USR0049",
+    "book_id": "BOOK067",
+    "started_at": "2022-01-04T05:45:45",
+    "ended_at": "2022-01-04T06:31:45",
+    "pages_read": 73,
+    "device_type": "mobile",
+    "completion_pct": 13.2
+  },
+  {
+    "session_id": "SES00090",
+    "user_id": "USR0012",
+    "book_id": "BOOK056",
+    "started_at": "2024-01-18T11:33:27",
+    "ended_at": "2024-01-18T14:14:27",
+    "pages_read": 180,
+    "device_type": "desktop",
+    "completion_pct": 35.9
+  },
+  {
+    "session_id": "SES00091",
+    "user_id": "USR0089",
+    "book_id": "BOOK051",
+    "started_at": "2024-01-09T05:46:01",
+    "ended_at": "2024-01-09T08:36:01",
+    "pages_read": 130,
+    "device_type": "mobile",
+    "completion_pct": 70.3
+  },
+  {
+    "session_id": "SES00092",
+    "user_id": "USR0133",
+    "book_id": "BOOK063",
+    "started_at": "2023-11-30T22:35:00",
+    "ended_at": "2023-12-01T00:44:00",
+    "pages_read": 102,
+    "device_type": "tablet",
+    "completion_pct": 17.1
+  },
+  {
+    "session_id": "SES00093",
+    "user_id": "USR0086",
+    "book_id": "BOOK014",
+    "started_at": "2024-08-28T13:07:47",
+    "ended_at": "2024-08-28T16:01:47",
+    "pages_read": 229,
+    "device_type": "mobile",
+    "completion_pct": 50.3
+  },
+  {
+    "session_id": "SES00094",
+    "user_id": "USR0104",
+    "book_id": "BOOK046",
+    "started_at": "2024-04-20T09:44:06",
+    "ended_at": "2024-04-20T10:10:06",
+    "pages_read": 62,
+    "device_type": "desktop",
+    "completion_pct": 36.5
+  },
+  {
+    "session_id": "SES00095",
+    "user_id": "USR0197",
+    "book_id": "BOOK038",
+    "started_at": "2024-09-30T09:30:49",
+    "ended_at": "2024-09-30T10:07:49",
+    "pages_read": 82,
+    "device_type": "tablet",
+    "completion_pct": 15.3
+  },
+  {
+    "session_id": "SES00096",
+    "user_id": "USR0007",
+    "book_id": "BOOK080",
+    "started_at": "2024-09-05T20:10:26",
+    "ended_at": "2024-09-05T21:44:26",
+    "pages_read": 152,
+    "device_type": "mobile",
+    "completion_pct": 32.7
+  },
+  {
+    "session_id": "SES00097",
+    "user_id": "USR0173",
+    "book_id": "BOOK078",
+    "started_at": "2022-05-13T06:41:52",
+    "ended_at": "2022-05-13T07:45:52",
+    "pages_read": 154,
+    "device_type": "tablet",
+    "completion_pct": 31.4
+  },
+  {
+    "session_id": "SES00098",
+    "user_id": "USR0152",
+    "book_id": "BOOK007",
+    "started_at": "2024-06-04T20:15:05",
+    "ended_at": "2024-06-04T22:43:05",
+    "pages_read": 130,
+    "device_type": "desktop",
+    "completion_pct": 49.6
+  },
+  {
+    "session_id": "SES00099",
+    "user_id": "USR0132",
+    "book_id": "BOOK003",
+    "started_at": "2022-07-06T20:28:54",
+    "ended_at": "2022-07-06T22:59:54",
+    "pages_read": 129,
+    "device_type": "mobile",
+    "completion_pct": 67.9
+  },
+  {
+    "session_id": "SES00100",
+    "user_id": "USR0073",
+    "book_id": "BOOK029",
+    "started_at": "2023-01-17T00:57:02",
+    "ended_at": "2023-01-17T03:40:02",
+    "pages_read": 226,
+    "device_type": "tablet",
+    "completion_pct": 84.6
+  },
+  {
+    "session_id": "SES00101",
+    "user_id": "USR0162",
+    "book_id": "BOOK044",
+    "started_at": "2023-09-17T04:06:36",
+    "ended_at": "2023-09-17T06:51:36",
+    "pages_read": 97,
+    "device_type": "mobile",
+    "completion_pct": 23.7
+  },
+  {
+    "session_id": "SES00102",
+    "user_id": "USR0090",
+    "book_id": "BOOK058",
+    "started_at": "2022-10-08T09:49:34",
+    "ended_at": "2022-10-08T11:50:34",
+    "pages_read": 66,
+    "device_type": "tablet",
+    "completion_pct": 12.1
+  },
+  {
+    "session_id": "SES00103",
+    "user_id": "USR0084",
+    "book_id": "BOOK051",
+    "started_at": "2023-02-04T12:16:59",
+    "ended_at": "2023-02-04T12:54:59",
+    "pages_read": 27,
+    "device_type": "mobile",
+    "completion_pct": 14.6
+  },
+  {
+    "session_id": "SES00104",
+    "user_id": "USR0142",
+    "book_id": "BOOK024",
+    "started_at": "2023-03-20T06:41:00",
+    "ended_at": "2023-03-20T07:32:00",
+    "pages_read": 44,
+    "device_type": "mobile",
+    "completion_pct": 9.0
+  },
+  {
+    "session_id": "SES00105",
+    "user_id": "USR0042",
+    "book_id": "BOOK042",
+    "started_at": "2023-09-25T16:21:57",
+    "ended_at": "2023-09-25T17:19:57",
+    "pages_read": 35,
+    "device_type": "desktop",
+    "completion_pct": 7.8
+  },
+  {
+    "session_id": "SES00106",
+    "user_id": "USR0049",
+    "book_id": "BOOK004",
+    "started_at": "2022-04-01T21:06:16",
+    "ended_at": "2022-04-01T22:37:16",
+    "pages_read": 116,
+    "device_type": "desktop",
+    "completion_pct": 24.4
+  },
+  {
+    "session_id": "SES00107",
+    "user_id": "USR0039",
+    "book_id": "BOOK055",
+    "started_at": "2023-05-19T15:42:55",
+    "ended_at": "2023-05-19T17:03:55",
+    "pages_read": 101,
+    "device_type": "mobile",
+    "completion_pct": 44.1
+  },
+  {
+    "session_id": "SES00108",
+    "user_id": "USR0014",
+    "book_id": "BOOK028",
+    "started_at": "2023-01-08T05:47:29",
+    "ended_at": "2023-01-08T08:34:29",
+    "pages_read": 279,
+    "device_type": "desktop",
+    "completion_pct": 61.9
+  },
+  {
+    "session_id": "SES00109",
+    "user_id": "USR0134",
+    "book_id": "BOOK070",
+    "started_at": "2023-08-22T03:39:18",
+    "ended_at": "2023-08-22T04:23:18",
+    "pages_read": 45,
+    "device_type": "desktop",
+    "completion_pct": 8.3
+  },
+  {
+    "session_id": "SES00110",
+    "user_id": "USR0122",
+    "book_id": "BOOK077",
+    "started_at": "2023-09-25T08:54:38",
+    "ended_at": "2023-09-25T09:25:38",
+    "pages_read": 45,
+    "device_type": "desktop",
+    "completion_pct": 9.2
+  },
+  {
+    "session_id": "SES00111",
+    "user_id": "USR0171",
+    "book_id": "BOOK032",
+    "started_at": "2022-01-29T22:18:34",
+    "ended_at": "2022-01-29T23:41:34",
+    "pages_read": 133,
+    "device_type": "tablet",
+    "completion_pct": 67.2
+  },
+  {
+    "session_id": "SES00112",
+    "user_id": "USR0181",
+    "book_id": "BOOK015",
+    "started_at": "2023-01-18T15:19:46",
+    "ended_at": "2023-01-18T17:56:46",
+    "pages_read": 283,
+    "device_type": "mobile",
+    "completion_pct": 65.4
+  },
+  {
+    "session_id": "SES00113",
+    "user_id": "USR0080",
+    "book_id": "BOOK079",
+    "started_at": "2023-09-24T20:35:13",
+    "ended_at": "2023-09-24T22:44:13",
+    "pages_read": 86,
+    "device_type": "tablet",
+    "completion_pct": 34.7
+  },
+  {
+    "session_id": "SES00114",
+    "user_id": "USR0132",
+    "book_id": "BOOK029",
+    "started_at": "2022-08-10T03:49:39",
+    "ended_at": "2022-08-10T05:39:39",
+    "pages_read": 173,
+    "device_type": "mobile",
+    "completion_pct": 64.8
+  },
+  {
+    "session_id": "SES00115",
+    "user_id": "USR0065",
+    "book_id": "BOOK075",
+    "started_at": "2023-10-21T06:38:11",
+    "ended_at": "2023-10-21T09:15:11",
+    "pages_read": 220,
+    "device_type": "mobile",
+    "completion_pct": 43.9
+  },
+  {
+    "session_id": "SES00116",
+    "user_id": "USR0122",
+    "book_id": "BOOK040",
+    "started_at": "2024-10-11T11:47:54",
+    "ended_at": "2024-10-11T12:44:54",
+    "pages_read": 28,
+    "device_type": "desktop",
+    "completion_pct": 9.8
+  },
+  {
+    "session_id": "SES00117",
+    "user_id": "USR0072",
+    "book_id": "BOOK035",
+    "started_at": "2024-11-22T08:09:19",
+    "ended_at": "2024-11-22T10:01:19",
+    "pages_read": 247,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00118",
+    "user_id": "USR0057",
+    "book_id": "BOOK071",
+    "started_at": "2023-03-14T00:02:42",
+    "ended_at": "2023-03-14T00:28:42",
+    "pages_read": 21,
+    "device_type": "tablet",
+    "completion_pct": 6.6
+  },
+  {
+    "session_id": "SES00119",
+    "user_id": "USR0149",
+    "book_id": "BOOK010",
+    "started_at": "2023-04-13T00:36:36",
+    "ended_at": "2023-04-13T01:13:36",
+    "pages_read": 47,
+    "device_type": "mobile",
+    "completion_pct": 9.8
+  },
+  {
+    "session_id": "SES00120",
+    "user_id": "USR0038",
+    "book_id": "BOOK078",
+    "started_at": "2023-03-11T02:57:37",
+    "ended_at": "2023-03-11T05:02:37",
+    "pages_read": 115,
+    "device_type": "tablet",
+    "completion_pct": 23.4
+  },
+  {
+    "session_id": "SES00121",
+    "user_id": "USR0084",
+    "book_id": "BOOK046",
+    "started_at": "2024-09-13T16:50:58",
+    "ended_at": "2024-09-13T18:11:58",
+    "pages_read": 170,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00122",
+    "user_id": "USR0119",
+    "book_id": "BOOK037",
+    "started_at": "2023-01-18T00:52:15",
+    "ended_at": "2023-01-18T02:29:15",
+    "pages_read": 114,
+    "device_type": "desktop",
+    "completion_pct": 57.0
+  },
+  {
+    "session_id": "SES00123",
+    "user_id": "USR0160",
+    "book_id": "BOOK045",
+    "started_at": "2022-01-25T15:50:54",
+    "ended_at": "2022-01-25T16:39:54",
+    "pages_read": 87,
+    "device_type": "mobile",
+    "completion_pct": 24.4
+  },
+  {
+    "session_id": "SES00124",
+    "user_id": "USR0162",
+    "book_id": "BOOK065",
+    "started_at": "2022-01-07T15:32:30",
+    "ended_at": "2022-01-07T15:49:30",
+    "pages_read": 31,
+    "device_type": "desktop",
+    "completion_pct": 19.1
+  },
+  {
+    "session_id": "SES00125",
+    "user_id": "USR0147",
+    "book_id": "BOOK067",
+    "started_at": "2023-09-03T04:18:46",
+    "ended_at": "2023-09-03T06:50:46",
+    "pages_read": 100,
+    "device_type": "tablet",
+    "completion_pct": 18.1
+  },
+  {
+    "session_id": "SES00126",
+    "user_id": "USR0175",
+    "book_id": "BOOK011",
+    "started_at": "2024-04-16T18:18:09",
+    "ended_at": "2024-04-16T18:40:09",
+    "pages_read": 50,
+    "device_type": "tablet",
+    "completion_pct": 11.8
+  },
+  {
+    "session_id": "SES00127",
+    "user_id": "USR0117",
+    "book_id": "BOOK018",
+    "started_at": "2023-07-03T08:35:50",
+    "ended_at": "2023-07-03T10:26:50",
+    "pages_read": 239,
+    "device_type": "desktop",
+    "completion_pct": 58.9
+  },
+  {
+    "session_id": "SES00128",
+    "user_id": "USR0102",
+    "book_id": "BOOK025",
+    "started_at": "2022-01-14T02:20:40",
+    "ended_at": "2022-01-14T03:06:40",
+    "pages_read": 65,
+    "device_type": "mobile",
+    "completion_pct": 17.8
+  },
+  {
+    "session_id": "SES00129",
+    "user_id": "USR0117",
+    "book_id": "BOOK002",
+    "started_at": "2022-12-11T02:53:33",
+    "ended_at": "2022-12-11T03:13:33",
+    "pages_read": 40,
+    "device_type": "tablet",
+    "completion_pct": 9.0
+  },
+  {
+    "session_id": "SES00130",
+    "user_id": "USR0190",
+    "book_id": "BOOK048",
+    "started_at": "2022-10-25T12:04:22",
+    "ended_at": "2022-10-25T12:42:22",
+    "pages_read": 81,
+    "device_type": "tablet",
+    "completion_pct": 28.4
+  },
+  {
+    "session_id": "SES00131",
+    "user_id": "USR0080",
+    "book_id": "BOOK031",
+    "started_at": "2022-12-30T21:46:08",
+    "ended_at": "2022-12-31T00:07:08",
+    "pages_read": 343,
+    "device_type": "mobile",
+    "completion_pct": 77.1
+  },
+  {
+    "session_id": "SES00132",
+    "user_id": "USR0074",
+    "book_id": "BOOK068",
+    "started_at": "2024-07-30T10:19:22",
+    "ended_at": "2024-07-30T11:27:22",
+    "pages_read": 34,
+    "device_type": "tablet",
+    "completion_pct": 12.9
+  },
+  {
+    "session_id": "SES00133",
+    "user_id": "USR0104",
+    "book_id": "BOOK017",
+    "started_at": "2023-03-07T20:15:58",
+    "ended_at": "2023-03-07T22:55:58",
+    "pages_read": 230,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00134",
+    "user_id": "USR0146",
+    "book_id": "BOOK027",
+    "started_at": "2024-10-22T00:33:33",
+    "ended_at": "2024-10-22T03:12:33",
+    "pages_read": 293,
+    "device_type": "tablet",
+    "completion_pct": 70.8
+  },
+  {
+    "session_id": "SES00135",
+    "user_id": "USR0149",
+    "book_id": "BOOK025",
+    "started_at": "2022-04-12T12:49:14",
+    "ended_at": "2022-04-12T15:34:14",
+    "pages_read": 124,
+    "device_type": "mobile",
+    "completion_pct": 33.9
+  },
+  {
+    "session_id": "SES00136",
+    "user_id": "USR0035",
+    "book_id": "BOOK036",
+    "started_at": "2024-06-04T07:32:04",
+    "ended_at": "2024-06-04T08:45:04",
+    "pages_read": 165,
+    "device_type": "tablet",
+    "completion_pct": 59.6
+  },
+  {
+    "session_id": "SES00137",
+    "user_id": "USR0073",
+    "book_id": "BOOK027",
+    "started_at": "2024-11-19T04:52:43",
+    "ended_at": "2024-11-19T05:12:43",
+    "pages_read": 49,
+    "device_type": "tablet",
+    "completion_pct": 11.8
+  },
+  {
+    "session_id": "SES00138",
+    "user_id": "USR0182",
+    "book_id": "BOOK075",
+    "started_at": "2024-08-12T12:36:02",
+    "ended_at": "2024-08-12T13:55:02",
+    "pages_read": 147,
+    "device_type": "desktop",
+    "completion_pct": 29.3
+  },
+  {
+    "session_id": "SES00139",
+    "user_id": "USR0001",
+    "book_id": "BOOK057",
+    "started_at": "2024-09-22T16:57:18",
+    "ended_at": "2024-09-22T17:25:18",
+    "pages_read": 61,
+    "device_type": "desktop",
+    "completion_pct": 31.0
+  },
+  {
+    "session_id": "SES00140",
+    "user_id": "USR0113",
+    "book_id": "BOOK055",
+    "started_at": "2023-03-02T16:47:15",
+    "ended_at": "2023-03-02T17:33:15",
+    "pages_read": 85,
+    "device_type": "desktop",
+    "completion_pct": 37.1
+  },
+  {
+    "session_id": "SES00141",
+    "user_id": "USR0130",
+    "book_id": "BOOK049",
+    "started_at": "2024-03-14T12:44:07",
+    "ended_at": "2024-03-14T13:10:07",
+    "pages_read": 58,
+    "device_type": "mobile",
+    "completion_pct": 10.9
+  },
+  {
+    "session_id": "SES00142",
+    "user_id": "USR0013",
+    "book_id": "BOOK038",
+    "started_at": "2023-10-15T13:02:56",
+    "ended_at": "2023-10-15T15:33:56",
+    "pages_read": 211,
+    "device_type": "mobile",
+    "completion_pct": 39.4
+  },
+  {
+    "session_id": "SES00143",
+    "user_id": "USR0103",
+    "book_id": "BOOK027",
+    "started_at": "2023-06-04T22:44:14",
+    "ended_at": "2023-06-04T23:19:14",
+    "pages_read": 79,
+    "device_type": "mobile",
+    "completion_pct": 19.1
+  },
+  {
+    "session_id": "SES00144",
+    "user_id": "USR0197",
+    "book_id": "BOOK031",
+    "started_at": "2023-10-21T09:09:51",
+    "ended_at": "2023-10-21T09:43:51",
+    "pages_read": 79,
+    "device_type": "mobile",
+    "completion_pct": 17.8
+  },
+  {
+    "session_id": "SES00145",
+    "user_id": "USR0045",
+    "book_id": "BOOK045",
+    "started_at": "2023-04-28T19:40:56",
+    "ended_at": "2023-04-28T20:11:56",
+    "pages_read": 54,
+    "device_type": "mobile",
+    "completion_pct": 15.2
+  },
+  {
+    "session_id": "SES00146",
+    "user_id": "USR0008",
+    "book_id": "BOOK066",
+    "started_at": "2023-11-03T00:13:25",
+    "ended_at": "2023-11-03T00:34:25",
+    "pages_read": 35,
+    "device_type": "tablet",
+    "completion_pct": 6.2
+  },
+  {
+    "session_id": "SES00147",
+    "user_id": "USR0088",
+    "book_id": "BOOK035",
+    "started_at": "2023-01-19T22:33:10",
+    "ended_at": "2023-01-19T23:15:10",
+    "pages_read": 60,
+    "device_type": "desktop",
+    "completion_pct": 24.3
+  },
+  {
+    "session_id": "SES00148",
+    "user_id": "USR0014",
+    "book_id": "BOOK045",
+    "started_at": "2024-03-18T06:53:23",
+    "ended_at": "2024-03-18T08:08:23",
+    "pages_read": 179,
+    "device_type": "tablet",
+    "completion_pct": 50.3
+  },
+  {
+    "session_id": "SES00149",
+    "user_id": "USR0166",
+    "book_id": "BOOK059",
+    "started_at": "2022-05-29T14:51:50",
+    "ended_at": "2022-05-29T17:46:50",
+    "pages_read": 243,
+    "device_type": "mobile",
+    "completion_pct": 56.2
+  },
+  {
+    "session_id": "SES00150",
+    "user_id": "USR0022",
+    "book_id": "BOOK009",
+    "started_at": "2022-02-21T19:08:32",
+    "ended_at": "2022-02-21T20:59:32",
+    "pages_read": 125,
+    "device_type": "tablet",
+    "completion_pct": 28.4
+  },
+  {
+    "session_id": "SES00151",
+    "user_id": "USR0017",
+    "book_id": "BOOK019",
+    "started_at": "2022-04-07T07:36:38",
+    "ended_at": "2022-04-07T09:44:38",
+    "pages_read": 78,
+    "device_type": "tablet",
+    "completion_pct": 13.4
+  },
+  {
+    "session_id": "SES00152",
+    "user_id": "USR0169",
+    "book_id": "BOOK058",
+    "started_at": "2022-04-13T04:50:19",
+    "ended_at": "2022-04-13T05:31:19",
+    "pages_read": 76,
+    "device_type": "tablet",
+    "completion_pct": 14.0
+  },
+  {
+    "session_id": "SES00153",
+    "user_id": "USR0014",
+    "book_id": "BOOK040",
+    "started_at": "2023-08-16T13:41:28",
+    "ended_at": "2023-08-16T15:38:28",
+    "pages_read": 80,
+    "device_type": "desktop",
+    "completion_pct": 28.1
+  },
+  {
+    "session_id": "SES00154",
+    "user_id": "USR0062",
+    "book_id": "BOOK002",
+    "started_at": "2023-12-06T08:23:47",
+    "ended_at": "2023-12-06T10:16:47",
+    "pages_read": 161,
+    "device_type": "desktop",
+    "completion_pct": 36.2
+  },
+  {
+    "session_id": "SES00155",
+    "user_id": "USR0166",
+    "book_id": "BOOK015",
+    "started_at": "2023-06-12T13:49:11",
+    "ended_at": "2023-06-12T14:10:11",
+    "pages_read": 29,
+    "device_type": "desktop",
+    "completion_pct": 6.7
+  },
+  {
+    "session_id": "SES00156",
+    "user_id": "USR0157",
+    "book_id": "BOOK027",
+    "started_at": "2022-06-17T18:46:39",
+    "ended_at": "2022-06-17T19:27:39",
+    "pages_read": 21,
+    "device_type": "tablet",
+    "completion_pct": 5.1
+  },
+  {
+    "session_id": "SES00157",
+    "user_id": "USR0018",
+    "book_id": "BOOK027",
+    "started_at": "2024-06-09T10:53:50",
+    "ended_at": "2024-06-09T11:40:50",
+    "pages_read": 83,
+    "device_type": "desktop",
+    "completion_pct": 20.0
+  },
+  {
+    "session_id": "SES00158",
+    "user_id": "USR0093",
+    "book_id": "BOOK056",
+    "started_at": "2024-01-18T19:52:00",
+    "ended_at": "2024-01-18T22:45:00",
+    "pages_read": 240,
+    "device_type": "mobile",
+    "completion_pct": 47.9
+  },
+  {
+    "session_id": "SES00159",
+    "user_id": "USR0038",
+    "book_id": "BOOK006",
+    "started_at": "2022-04-04T23:16:29",
+    "ended_at": "2022-04-05T00:03:29",
+    "pages_read": 52,
+    "device_type": "desktop",
+    "completion_pct": 12.3
+  },
+  {
+    "session_id": "SES00160",
+    "user_id": "USR0135",
+    "book_id": "BOOK048",
+    "started_at": "2023-04-29T09:56:18",
+    "ended_at": "2023-04-29T12:40:18",
+    "pages_read": 285,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00161",
+    "user_id": "USR0040",
+    "book_id": "BOOK065",
+    "started_at": "2023-04-25T12:12:58",
+    "ended_at": "2023-04-25T15:01:58",
+    "pages_read": 162,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00162",
+    "user_id": "USR0003",
+    "book_id": "BOOK073",
+    "started_at": "2024-06-30T00:03:52",
+    "ended_at": "2024-06-30T00:55:52",
+    "pages_read": 31,
+    "device_type": "tablet",
+    "completion_pct": 8.3
+  },
+  {
+    "session_id": "SES00163",
+    "user_id": "USR0148",
+    "book_id": "BOOK007",
+    "started_at": "2023-10-18T15:34:47",
+    "ended_at": "2023-10-18T17:17:47",
+    "pages_read": 91,
+    "device_type": "mobile",
+    "completion_pct": 34.7
+  },
+  {
+    "session_id": "SES00164",
+    "user_id": "USR0172",
+    "book_id": "BOOK028",
+    "started_at": "2022-04-17T06:16:39",
+    "ended_at": "2022-04-17T07:58:39",
+    "pages_read": 89,
+    "device_type": "desktop",
+    "completion_pct": 19.7
+  },
+  {
+    "session_id": "SES00165",
+    "user_id": "USR0186",
+    "book_id": "BOOK064",
+    "started_at": "2024-07-20T16:45:33",
+    "ended_at": "2024-07-20T18:24:33",
+    "pages_read": 218,
+    "device_type": "tablet",
+    "completion_pct": 36.8
+  },
+  {
+    "session_id": "SES00166",
+    "user_id": "USR0088",
+    "book_id": "BOOK041",
+    "started_at": "2023-10-13T10:05:30",
+    "ended_at": "2023-10-13T11:44:30",
+    "pages_read": 81,
+    "device_type": "desktop",
+    "completion_pct": 16.6
+  },
+  {
+    "session_id": "SES00167",
+    "user_id": "USR0011",
+    "book_id": "BOOK068",
+    "started_at": "2022-12-07T20:02:38",
+    "ended_at": "2022-12-07T20:17:38",
+    "pages_read": 26,
+    "device_type": "tablet",
+    "completion_pct": 9.9
+  },
+  {
+    "session_id": "SES00168",
+    "user_id": "USR0061",
+    "book_id": "BOOK064",
+    "started_at": "2024-08-27T05:25:27",
+    "ended_at": "2024-08-27T06:34:27",
+    "pages_read": 67,
+    "device_type": "tablet",
+    "completion_pct": 11.3
+  },
+  {
+    "session_id": "SES00169",
+    "user_id": "USR0087",
+    "book_id": "BOOK051",
+    "started_at": "2022-11-15T22:44:55",
+    "ended_at": "2022-11-16T00:41:55",
+    "pages_read": 101,
+    "device_type": "mobile",
+    "completion_pct": 54.6
+  },
+  {
+    "session_id": "SES00170",
+    "user_id": "USR0095",
+    "book_id": "BOOK002",
+    "started_at": "2022-04-25T12:53:48",
+    "ended_at": "2022-04-25T14:39:48",
+    "pages_read": 59,
+    "device_type": "mobile",
+    "completion_pct": 13.3
+  },
+  {
+    "session_id": "SES00171",
+    "user_id": "USR0039",
+    "book_id": "BOOK040",
+    "started_at": "2023-11-16T03:36:17",
+    "ended_at": "2023-11-16T04:40:17",
+    "pages_read": 112,
+    "device_type": "desktop",
+    "completion_pct": 39.3
+  },
+  {
+    "session_id": "SES00172",
+    "user_id": "USR0012",
+    "book_id": "BOOK004",
+    "started_at": "2022-11-06T07:50:19",
+    "ended_at": "2022-11-06T08:55:19",
+    "pages_read": 69,
+    "device_type": "mobile",
+    "completion_pct": 14.5
+  },
+  {
+    "session_id": "SES00173",
+    "user_id": "USR0070",
+    "book_id": "BOOK025",
+    "started_at": "2023-06-12T21:18:51",
+    "ended_at": "2023-06-12T23:54:51",
+    "pages_read": 154,
+    "device_type": "mobile",
+    "completion_pct": 42.1
+  },
+  {
+    "session_id": "SES00174",
+    "user_id": "USR0006",
+    "book_id": "BOOK025",
+    "started_at": "2023-02-11T16:11:11",
+    "ended_at": "2023-02-11T16:51:11",
+    "pages_read": 21,
+    "device_type": "tablet",
+    "completion_pct": 5.7
+  },
+  {
+    "session_id": "SES00175",
+    "user_id": "USR0038",
+    "book_id": "BOOK051",
+    "started_at": "2024-10-14T07:17:35",
+    "ended_at": "2024-10-14T08:00:35",
+    "pages_read": 50,
+    "device_type": "mobile",
+    "completion_pct": 27.0
+  },
+  {
+    "session_id": "SES00176",
+    "user_id": "USR0081",
+    "book_id": "BOOK063",
+    "started_at": "2023-01-09T01:26:18",
+    "ended_at": "2023-01-09T03:15:18",
+    "pages_read": 230,
+    "device_type": "tablet",
+    "completion_pct": 38.5
+  },
+  {
+    "session_id": "SES00177",
+    "user_id": "USR0046",
+    "book_id": "BOOK074",
+    "started_at": "2024-08-26T02:43:15",
+    "ended_at": "2024-08-26T04:49:15",
+    "pages_read": 247,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00178",
+    "user_id": "USR0033",
+    "book_id": "BOOK021",
+    "started_at": "2022-07-23T04:22:44",
+    "ended_at": "2022-07-23T05:25:44",
+    "pages_read": 55,
+    "device_type": "desktop",
+    "completion_pct": 17.5
+  },
+  {
+    "session_id": "SES00179",
+    "user_id": "USR0186",
+    "book_id": "BOOK050",
+    "started_at": "2023-05-09T22:05:42",
+    "ended_at": "2023-05-10T00:53:42",
+    "pages_read": 187,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00180",
+    "user_id": "USR0065",
+    "book_id": "BOOK006",
+    "started_at": "2024-08-14T23:11:19",
+    "ended_at": "2024-08-15T01:56:19",
+    "pages_read": 144,
+    "device_type": "tablet",
+    "completion_pct": 34.0
+  },
+  {
+    "session_id": "SES00181",
+    "user_id": "USR0078",
+    "book_id": "BOOK022",
+    "started_at": "2023-05-25T00:49:06",
+    "ended_at": "2023-05-25T02:07:06",
+    "pages_read": 47,
+    "device_type": "desktop",
+    "completion_pct": 17.3
+  },
+  {
+    "session_id": "SES00182",
+    "user_id": "USR0035",
+    "book_id": "BOOK071",
+    "started_at": "2024-06-26T08:09:48",
+    "ended_at": "2024-06-26T10:29:48",
+    "pages_read": 128,
+    "device_type": "mobile",
+    "completion_pct": 40.1
+  },
+  {
+    "session_id": "SES00183",
+    "user_id": "USR0124",
+    "book_id": "BOOK010",
+    "started_at": "2022-09-18T02:22:29",
+    "ended_at": "2022-09-18T04:47:29",
+    "pages_read": 185,
+    "device_type": "tablet",
+    "completion_pct": 38.6
+  },
+  {
+    "session_id": "SES00184",
+    "user_id": "USR0134",
+    "book_id": "BOOK050",
+    "started_at": "2024-02-14T12:41:58",
+    "ended_at": "2024-02-14T15:08:58",
+    "pages_read": 187,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00185",
+    "user_id": "USR0191",
+    "book_id": "BOOK050",
+    "started_at": "2024-03-27T07:09:10",
+    "ended_at": "2024-03-27T09:27:10",
+    "pages_read": 187,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00186",
+    "user_id": "USR0125",
+    "book_id": "BOOK037",
+    "started_at": "2024-06-21T20:12:36",
+    "ended_at": "2024-06-21T22:09:36",
+    "pages_read": 200,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00187",
+    "user_id": "USR0175",
+    "book_id": "BOOK005",
+    "started_at": "2022-11-18T20:57:39",
+    "ended_at": "2022-11-18T22:08:39",
+    "pages_read": 162,
+    "device_type": "desktop",
+    "completion_pct": 31.8
+  },
+  {
+    "session_id": "SES00188",
+    "user_id": "USR0063",
+    "book_id": "BOOK053",
+    "started_at": "2022-12-06T13:45:53",
+    "ended_at": "2022-12-06T15:18:53",
+    "pages_read": 125,
+    "device_type": "desktop",
+    "completion_pct": 81.2
+  },
+  {
+    "session_id": "SES00189",
+    "user_id": "USR0151",
+    "book_id": "BOOK023",
+    "started_at": "2023-08-05T03:43:59",
+    "ended_at": "2023-08-05T05:03:59",
+    "pages_read": 128,
+    "device_type": "mobile",
+    "completion_pct": 22.6
+  },
+  {
+    "session_id": "SES00190",
+    "user_id": "USR0022",
+    "book_id": "BOOK040",
+    "started_at": "2023-11-22T12:21:33",
+    "ended_at": "2023-11-22T14:48:33",
+    "pages_read": 176,
+    "device_type": "tablet",
+    "completion_pct": 61.8
+  },
+  {
+    "session_id": "SES00191",
+    "user_id": "USR0011",
+    "book_id": "BOOK064",
+    "started_at": "2024-03-06T18:30:53",
+    "ended_at": "2024-03-06T21:24:53",
+    "pages_read": 204,
+    "device_type": "desktop",
+    "completion_pct": 34.5
+  },
+  {
+    "session_id": "SES00192",
+    "user_id": "USR0123",
+    "book_id": "BOOK058",
+    "started_at": "2023-09-28T06:51:52",
+    "ended_at": "2023-09-28T08:40:52",
+    "pages_read": 229,
+    "device_type": "desktop",
+    "completion_pct": 42.1
+  },
+  {
+    "session_id": "SES00193",
+    "user_id": "USR0072",
+    "book_id": "BOOK051",
+    "started_at": "2022-02-08T09:33:40",
+    "ended_at": "2022-02-08T10:33:40",
+    "pages_read": 83,
+    "device_type": "desktop",
+    "completion_pct": 44.9
+  },
+  {
+    "session_id": "SES00194",
+    "user_id": "USR0174",
+    "book_id": "BOOK011",
+    "started_at": "2023-07-12T19:57:17",
+    "ended_at": "2023-07-12T20:33:17",
+    "pages_read": 39,
+    "device_type": "tablet",
+    "completion_pct": 9.2
+  },
+  {
+    "session_id": "SES00195",
+    "user_id": "USR0135",
+    "book_id": "BOOK076",
+    "started_at": "2024-09-26T21:10:31",
+    "ended_at": "2024-09-26T21:45:31",
+    "pages_read": 72,
+    "device_type": "mobile",
+    "completion_pct": 19.5
+  },
+  {
+    "session_id": "SES00196",
+    "user_id": "USR0027",
+    "book_id": "BOOK018",
+    "started_at": "2022-04-21T20:04:17",
+    "ended_at": "2022-04-21T21:51:17",
+    "pages_read": 61,
+    "device_type": "mobile",
+    "completion_pct": 15.0
+  },
+  {
+    "session_id": "SES00197",
+    "user_id": "USR0088",
+    "book_id": "BOOK028",
+    "started_at": "2024-11-14T17:49:31",
+    "ended_at": "2024-11-14T19:28:31",
+    "pages_read": 99,
+    "device_type": "tablet",
+    "completion_pct": 22.0
+  },
+  {
+    "session_id": "SES00198",
+    "user_id": "USR0183",
+    "book_id": "BOOK038",
+    "started_at": "2022-10-24T03:39:54",
+    "ended_at": "2022-10-24T06:28:54",
+    "pages_read": 421,
+    "device_type": "tablet",
+    "completion_pct": 78.7
+  },
+  {
+    "session_id": "SES00199",
+    "user_id": "USR0198",
+    "book_id": "BOOK076",
+    "started_at": "2023-02-10T15:50:06",
+    "ended_at": "2023-02-10T16:07:06",
+    "pages_read": 34,
+    "device_type": "desktop",
+    "completion_pct": 9.2
+  },
+  {
+    "session_id": "SES00200",
+    "user_id": "USR0091",
+    "book_id": "BOOK054",
+    "started_at": "2023-09-23T07:46:21",
+    "ended_at": "2023-09-23T10:29:21",
+    "pages_read": 328,
+    "device_type": "mobile",
+    "completion_pct": 54.8
+  },
+  {
+    "session_id": "SES00201",
+    "user_id": "USR0124",
+    "book_id": "BOOK071",
+    "started_at": "2022-08-20T21:36:15",
+    "ended_at": "2022-08-20T23:32:15",
+    "pages_read": 110,
+    "device_type": "tablet",
+    "completion_pct": 34.5
+  },
+  {
+    "session_id": "SES00202",
+    "user_id": "USR0200",
+    "book_id": "BOOK029",
+    "started_at": "2024-01-08T00:20:24",
+    "ended_at": "2024-01-08T01:34:24",
+    "pages_read": 113,
+    "device_type": "tablet",
+    "completion_pct": 42.3
+  },
+  {
+    "session_id": "SES00203",
+    "user_id": "USR0123",
+    "book_id": "BOOK064",
+    "started_at": "2023-06-14T04:42:33",
+    "ended_at": "2023-06-14T05:18:33",
+    "pages_read": 40,
+    "device_type": "mobile",
+    "completion_pct": 6.8
+  },
+  {
+    "session_id": "SES00204",
+    "user_id": "USR0112",
+    "book_id": "BOOK056",
+    "started_at": "2022-11-22T13:53:09",
+    "ended_at": "2022-11-22T16:00:09",
+    "pages_read": 177,
+    "device_type": "tablet",
+    "completion_pct": 35.3
+  },
+  {
+    "session_id": "SES00205",
+    "user_id": "USR0008",
+    "book_id": "BOOK050",
+    "started_at": "2022-08-04T20:26:23",
+    "ended_at": "2022-08-04T23:08:23",
+    "pages_read": 187,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00206",
+    "user_id": "USR0197",
+    "book_id": "BOOK002",
+    "started_at": "2024-02-16T09:54:08",
+    "ended_at": "2024-02-16T11:39:08",
+    "pages_read": 123,
+    "device_type": "desktop",
+    "completion_pct": 27.6
+  },
+  {
+    "session_id": "SES00207",
+    "user_id": "USR0111",
+    "book_id": "BOOK054",
+    "started_at": "2024-04-15T03:19:48",
+    "ended_at": "2024-04-15T04:50:48",
+    "pages_read": 104,
+    "device_type": "mobile",
+    "completion_pct": 17.4
+  },
+  {
+    "session_id": "SES00208",
+    "user_id": "USR0150",
+    "book_id": "BOOK005",
+    "started_at": "2022-08-05T03:19:08",
+    "ended_at": "2022-08-05T04:13:08",
+    "pages_read": 132,
+    "device_type": "desktop",
+    "completion_pct": 25.9
+  },
+  {
+    "session_id": "SES00209",
+    "user_id": "USR0150",
+    "book_id": "BOOK080",
+    "started_at": "2023-08-31T05:16:55",
+    "ended_at": "2023-08-31T07:08:55",
+    "pages_read": 101,
+    "device_type": "desktop",
+    "completion_pct": 21.7
+  },
+  {
+    "session_id": "SES00210",
+    "user_id": "USR0017",
+    "book_id": "BOOK075",
+    "started_at": "2023-08-24T07:17:52",
+    "ended_at": "2023-08-24T08:20:52",
+    "pages_read": 91,
+    "device_type": "desktop",
+    "completion_pct": 18.2
+  },
+  {
+    "session_id": "SES00211",
+    "user_id": "USR0150",
+    "book_id": "BOOK062",
+    "started_at": "2024-09-19T15:46:11",
+    "ended_at": "2024-09-19T17:18:11",
+    "pages_read": 63,
+    "device_type": "mobile",
+    "completion_pct": 18.9
+  },
+  {
+    "session_id": "SES00212",
+    "user_id": "USR0181",
+    "book_id": "BOOK077",
+    "started_at": "2022-10-03T22:45:13",
+    "ended_at": "2022-10-03T23:08:13",
+    "pages_read": 49,
+    "device_type": "tablet",
+    "completion_pct": 10.0
+  },
+  {
+    "session_id": "SES00213",
+    "user_id": "USR0129",
+    "book_id": "BOOK004",
+    "started_at": "2022-10-18T00:23:10",
+    "ended_at": "2022-10-18T01:28:10",
+    "pages_read": 41,
+    "device_type": "desktop",
+    "completion_pct": 8.6
+  },
+  {
+    "session_id": "SES00214",
+    "user_id": "USR0075",
+    "book_id": "BOOK029",
+    "started_at": "2022-12-29T00:20:22",
+    "ended_at": "2022-12-29T01:49:22",
+    "pages_read": 161,
+    "device_type": "mobile",
+    "completion_pct": 60.3
+  },
+  {
+    "session_id": "SES00215",
+    "user_id": "USR0120",
+    "book_id": "BOOK009",
+    "started_at": "2023-07-27T16:21:09",
+    "ended_at": "2023-07-27T18:48:09",
+    "pages_read": 76,
+    "device_type": "desktop",
+    "completion_pct": 17.3
+  },
+  {
+    "session_id": "SES00216",
+    "user_id": "USR0108",
+    "book_id": "BOOK053",
+    "started_at": "2022-09-01T22:42:21",
+    "ended_at": "2022-09-01T23:25:21",
+    "pages_read": 32,
+    "device_type": "desktop",
+    "completion_pct": 20.8
+  },
+  {
+    "session_id": "SES00217",
+    "user_id": "USR0126",
+    "book_id": "BOOK010",
+    "started_at": "2023-08-28T06:42:22",
+    "ended_at": "2023-08-28T07:49:22",
+    "pages_read": 50,
+    "device_type": "mobile",
+    "completion_pct": 10.4
+  },
+  {
+    "session_id": "SES00218",
+    "user_id": "USR0082",
+    "book_id": "BOOK058",
+    "started_at": "2024-10-29T17:15:58",
+    "ended_at": "2024-10-29T19:31:58",
+    "pages_read": 111,
+    "device_type": "tablet",
+    "completion_pct": 20.4
+  },
+  {
+    "session_id": "SES00219",
+    "user_id": "USR0082",
+    "book_id": "BOOK028",
+    "started_at": "2024-02-20T13:37:35",
+    "ended_at": "2024-02-20T15:49:35",
+    "pages_read": 138,
+    "device_type": "mobile",
+    "completion_pct": 30.6
+  },
+  {
+    "session_id": "SES00220",
+    "user_id": "USR0039",
+    "book_id": "BOOK062",
+    "started_at": "2022-04-10T08:58:33",
+    "ended_at": "2022-04-10T10:55:33",
+    "pages_read": 200,
+    "device_type": "mobile",
+    "completion_pct": 60.1
+  },
+  {
+    "session_id": "SES00221",
+    "user_id": "USR0138",
+    "book_id": "BOOK045",
+    "started_at": "2024-06-03T06:23:52",
+    "ended_at": "2024-06-03T08:43:52",
+    "pages_read": 198,
+    "device_type": "tablet",
+    "completion_pct": 55.6
+  },
+  {
+    "session_id": "SES00222",
+    "user_id": "USR0011",
+    "book_id": "BOOK014",
+    "started_at": "2023-03-24T06:07:45",
+    "ended_at": "2023-03-24T09:07:45",
+    "pages_read": 407,
+    "device_type": "desktop",
+    "completion_pct": 89.5
+  },
+  {
+    "session_id": "SES00223",
+    "user_id": "USR0091",
+    "book_id": "BOOK041",
+    "started_at": "2023-08-31T12:54:20",
+    "ended_at": "2023-08-31T15:45:20",
+    "pages_read": 367,
+    "device_type": "mobile",
+    "completion_pct": 75.2
+  },
+  {
+    "session_id": "SES00224",
+    "user_id": "USR0109",
+    "book_id": "BOOK034",
+    "started_at": "2022-10-06T23:09:25",
+    "ended_at": "2022-10-07T02:02:25",
+    "pages_read": 340,
+    "device_type": "desktop",
+    "completion_pct": 95.5
+  },
+  {
+    "session_id": "SES00225",
+    "user_id": "USR0101",
+    "book_id": "BOOK026",
+    "started_at": "2024-06-02T07:30:49",
+    "ended_at": "2024-06-02T08:09:49",
+    "pages_read": 50,
+    "device_type": "mobile",
+    "completion_pct": 9.7
+  },
+  {
+    "session_id": "SES00226",
+    "user_id": "USR0064",
+    "book_id": "BOOK023",
+    "started_at": "2023-03-02T07:07:09",
+    "ended_at": "2023-03-02T10:02:09",
+    "pages_read": 275,
+    "device_type": "tablet",
+    "completion_pct": 48.5
+  },
+  {
+    "session_id": "SES00227",
+    "user_id": "USR0018",
+    "book_id": "BOOK030",
+    "started_at": "2024-02-06T14:33:01",
+    "ended_at": "2024-02-06T16:33:01",
+    "pages_read": 271,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00228",
+    "user_id": "USR0034",
+    "book_id": "BOOK050",
+    "started_at": "2022-04-29T21:22:50",
+    "ended_at": "2022-04-29T22:03:50",
+    "pages_read": 61,
+    "device_type": "desktop",
+    "completion_pct": 32.6
+  },
+  {
+    "session_id": "SES00229",
+    "user_id": "USR0107",
+    "book_id": "BOOK062",
+    "started_at": "2022-09-14T01:38:50",
+    "ended_at": "2022-09-14T02:57:50",
+    "pages_read": 72,
+    "device_type": "mobile",
+    "completion_pct": 21.6
+  },
+  {
+    "session_id": "SES00230",
+    "user_id": "USR0122",
+    "book_id": "BOOK004",
+    "started_at": "2022-04-24T16:55:32",
+    "ended_at": "2022-04-24T19:53:32",
+    "pages_read": 336,
+    "device_type": "tablet",
+    "completion_pct": 70.7
+  },
+  {
+    "session_id": "SES00231",
+    "user_id": "USR0122",
+    "book_id": "BOOK051",
+    "started_at": "2023-06-18T20:29:17",
+    "ended_at": "2023-06-18T22:26:17",
+    "pages_read": 185,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00232",
+    "user_id": "USR0010",
+    "book_id": "BOOK002",
+    "started_at": "2023-01-25T07:15:32",
+    "ended_at": "2023-01-25T07:59:32",
+    "pages_read": 84,
+    "device_type": "mobile",
+    "completion_pct": 18.9
+  },
+  {
+    "session_id": "SES00233",
+    "user_id": "USR0086",
+    "book_id": "BOOK064",
+    "started_at": "2024-01-24T01:08:03",
+    "ended_at": "2024-01-24T03:21:03",
+    "pages_read": 84,
+    "device_type": "tablet",
+    "completion_pct": 14.2
+  },
+  {
+    "session_id": "SES00234",
+    "user_id": "USR0177",
+    "book_id": "BOOK034",
+    "started_at": "2023-11-11T23:31:14",
+    "ended_at": "2023-11-12T00:21:14",
+    "pages_read": 72,
+    "device_type": "desktop",
+    "completion_pct": 20.2
+  },
+  {
+    "session_id": "SES00235",
+    "user_id": "USR0044",
+    "book_id": "BOOK024",
+    "started_at": "2022-01-29T01:33:14",
+    "ended_at": "2022-01-29T04:23:14",
+    "pages_read": 119,
+    "device_type": "desktop",
+    "completion_pct": 24.4
+  },
+  {
+    "session_id": "SES00236",
+    "user_id": "USR0034",
+    "book_id": "BOOK075",
+    "started_at": "2023-08-31T03:55:32",
+    "ended_at": "2023-08-31T04:53:32",
+    "pages_read": 37,
+    "device_type": "mobile",
+    "completion_pct": 7.4
+  },
+  {
+    "session_id": "SES00237",
+    "user_id": "USR0182",
+    "book_id": "BOOK037",
+    "started_at": "2022-08-27T10:45:48",
+    "ended_at": "2022-08-27T12:52:48",
+    "pages_read": 154,
+    "device_type": "mobile",
+    "completion_pct": 77.0
+  },
+  {
+    "session_id": "SES00238",
+    "user_id": "USR0191",
+    "book_id": "BOOK005",
+    "started_at": "2024-11-14T15:28:09",
+    "ended_at": "2024-11-14T17:59:09",
+    "pages_read": 140,
+    "device_type": "tablet",
+    "completion_pct": 27.5
+  },
+  {
+    "session_id": "SES00239",
+    "user_id": "USR0013",
+    "book_id": "BOOK073",
+    "started_at": "2024-09-22T18:39:59",
+    "ended_at": "2024-09-22T19:20:59",
+    "pages_read": 52,
+    "device_type": "desktop",
+    "completion_pct": 13.9
+  },
+  {
+    "session_id": "SES00240",
+    "user_id": "USR0117",
+    "book_id": "BOOK007",
+    "started_at": "2024-07-18T06:42:43",
+    "ended_at": "2024-07-18T06:58:43",
+    "pages_read": 9,
+    "device_type": "desktop",
+    "completion_pct": 3.4
+  },
+  {
+    "session_id": "SES00241",
+    "user_id": "USR0054",
+    "book_id": "BOOK034",
+    "started_at": "2023-08-05T23:46:00",
+    "ended_at": "2023-08-06T01:02:00",
+    "pages_read": 68,
+    "device_type": "mobile",
+    "completion_pct": 19.1
+  },
+  {
+    "session_id": "SES00242",
+    "user_id": "USR0110",
+    "book_id": "BOOK004",
+    "started_at": "2022-01-23T14:50:05",
+    "ended_at": "2022-01-23T16:31:05",
+    "pages_read": 216,
+    "device_type": "tablet",
+    "completion_pct": 45.5
+  },
+  {
+    "session_id": "SES00243",
+    "user_id": "USR0180",
+    "book_id": "BOOK010",
+    "started_at": "2022-12-09T15:21:55",
+    "ended_at": "2022-12-09T16:00:55",
+    "pages_read": 81,
+    "device_type": "tablet",
+    "completion_pct": 16.9
+  },
+  {
+    "session_id": "SES00244",
+    "user_id": "USR0045",
+    "book_id": "BOOK024",
+    "started_at": "2022-03-10T08:54:19",
+    "ended_at": "2022-03-10T10:55:19",
+    "pages_read": 184,
+    "device_type": "desktop",
+    "completion_pct": 37.8
+  },
+  {
+    "session_id": "SES00245",
+    "user_id": "USR0085",
+    "book_id": "BOOK078",
+    "started_at": "2024-08-31T16:17:31",
+    "ended_at": "2024-08-31T17:20:31",
+    "pages_read": 110,
+    "device_type": "tablet",
+    "completion_pct": 22.4
+  },
+  {
+    "session_id": "SES00246",
+    "user_id": "USR0104",
+    "book_id": "BOOK057",
+    "started_at": "2022-07-07T15:53:53",
+    "ended_at": "2022-07-07T17:07:53",
+    "pages_read": 68,
+    "device_type": "desktop",
+    "completion_pct": 34.5
+  },
+  {
+    "session_id": "SES00247",
+    "user_id": "USR0085",
+    "book_id": "BOOK025",
+    "started_at": "2022-01-24T07:02:17",
+    "ended_at": "2022-01-24T08:59:17",
+    "pages_read": 211,
+    "device_type": "mobile",
+    "completion_pct": 57.7
+  },
+  {
+    "session_id": "SES00248",
+    "user_id": "USR0102",
+    "book_id": "BOOK030",
+    "started_at": "2023-12-14T16:24:23",
+    "ended_at": "2023-12-14T17:35:23",
+    "pages_read": 44,
+    "device_type": "desktop",
+    "completion_pct": 16.2
+  },
+  {
+    "session_id": "SES00249",
+    "user_id": "USR0175",
+    "book_id": "BOOK050",
+    "started_at": "2022-03-10T06:09:45",
+    "ended_at": "2022-03-10T06:41:45",
+    "pages_read": 72,
+    "device_type": "desktop",
+    "completion_pct": 38.5
+  },
+  {
+    "session_id": "SES00250",
+    "user_id": "USR0080",
+    "book_id": "BOOK068",
+    "started_at": "2022-06-08T03:53:08",
+    "ended_at": "2022-06-08T06:25:08",
+    "pages_read": 263,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00251",
+    "user_id": "USR0046",
+    "book_id": "BOOK035",
+    "started_at": "2022-05-28T04:20:00",
+    "ended_at": "2022-05-28T07:08:00",
+    "pages_read": 192,
+    "device_type": "tablet",
+    "completion_pct": 77.7
+  },
+  {
+    "session_id": "SES00252",
+    "user_id": "USR0187",
+    "book_id": "BOOK052",
+    "started_at": "2024-11-19T01:57:47",
+    "ended_at": "2024-11-19T02:46:47",
+    "pages_read": 57,
+    "device_type": "tablet",
+    "completion_pct": 11.2
+  },
+  {
+    "session_id": "SES00253",
+    "user_id": "USR0185",
+    "book_id": "BOOK043",
+    "started_at": "2024-11-01T04:05:46",
+    "ended_at": "2024-11-01T06:23:46",
+    "pages_read": 87,
+    "device_type": "mobile",
+    "completion_pct": 19.4
+  },
+  {
+    "session_id": "SES00254",
+    "user_id": "USR0162",
+    "book_id": "BOOK062",
+    "started_at": "2023-08-17T23:50:20",
+    "ended_at": "2023-08-18T02:15:20",
+    "pages_read": 258,
+    "device_type": "mobile",
+    "completion_pct": 77.5
+  },
+  {
+    "session_id": "SES00255",
+    "user_id": "USR0132",
+    "book_id": "BOOK002",
+    "started_at": "2022-12-28T08:10:36",
+    "ended_at": "2022-12-28T08:30:36",
+    "pages_read": 34,
+    "device_type": "mobile",
+    "completion_pct": 7.6
+  },
+  {
+    "session_id": "SES00256",
+    "user_id": "USR0082",
+    "book_id": "BOOK033",
+    "started_at": "2023-10-28T15:33:30",
+    "ended_at": "2023-10-28T16:50:30",
+    "pages_read": 133,
+    "device_type": "mobile",
+    "completion_pct": 22.5
+  },
+  {
+    "session_id": "SES00257",
+    "user_id": "USR0038",
+    "book_id": "BOOK050",
+    "started_at": "2024-02-14T17:52:15",
+    "ended_at": "2024-02-14T19:22:15",
+    "pages_read": 81,
+    "device_type": "desktop",
+    "completion_pct": 43.3
+  },
+  {
+    "session_id": "SES00258",
+    "user_id": "USR0055",
+    "book_id": "BOOK005",
+    "started_at": "2023-01-05T19:40:04",
+    "ended_at": "2023-01-05T22:28:04",
+    "pages_read": 416,
+    "device_type": "desktop",
+    "completion_pct": 81.7
+  },
+  {
+    "session_id": "SES00259",
+    "user_id": "USR0198",
+    "book_id": "BOOK045",
+    "started_at": "2022-07-28T13:50:13",
+    "ended_at": "2022-07-28T15:16:13",
+    "pages_read": 97,
+    "device_type": "mobile",
+    "completion_pct": 27.2
+  },
+  {
+    "session_id": "SES00260",
+    "user_id": "USR0137",
+    "book_id": "BOOK056",
+    "started_at": "2024-10-03T16:55:18",
+    "ended_at": "2024-10-03T18:23:18",
+    "pages_read": 176,
+    "device_type": "mobile",
+    "completion_pct": 35.1
+  },
+  {
+    "session_id": "SES00261",
+    "user_id": "USR0196",
+    "book_id": "BOOK045",
+    "started_at": "2023-06-17T09:50:29",
+    "ended_at": "2023-06-17T11:07:29",
+    "pages_read": 70,
+    "device_type": "mobile",
+    "completion_pct": 19.7
+  },
+  {
+    "session_id": "SES00262",
+    "user_id": "USR0179",
+    "book_id": "BOOK034",
+    "started_at": "2022-12-12T13:18:55",
+    "ended_at": "2022-12-12T16:08:55",
+    "pages_read": 356,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00263",
+    "user_id": "USR0085",
+    "book_id": "BOOK026",
+    "started_at": "2023-11-19T04:24:33",
+    "ended_at": "2023-11-19T07:20:33",
+    "pages_read": 90,
+    "device_type": "desktop",
+    "completion_pct": 17.5
+  },
+  {
+    "session_id": "SES00264",
+    "user_id": "USR0018",
+    "book_id": "BOOK027",
+    "started_at": "2022-03-22T22:41:04",
+    "ended_at": "2022-03-23T01:38:04",
+    "pages_read": 414,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00265",
+    "user_id": "USR0035",
+    "book_id": "BOOK014",
+    "started_at": "2022-09-27T19:06:14",
+    "ended_at": "2022-09-27T21:52:14",
+    "pages_read": 265,
+    "device_type": "mobile",
+    "completion_pct": 58.2
+  },
+  {
+    "session_id": "SES00266",
+    "user_id": "USR0063",
+    "book_id": "BOOK070",
+    "started_at": "2022-05-02T10:11:03",
+    "ended_at": "2022-05-02T12:15:03",
+    "pages_read": 241,
+    "device_type": "desktop",
+    "completion_pct": 44.2
+  },
+  {
+    "session_id": "SES00267",
+    "user_id": "USR0045",
+    "book_id": "BOOK028",
+    "started_at": "2023-01-16T11:27:51",
+    "ended_at": "2023-01-16T13:30:51",
+    "pages_read": 104,
+    "device_type": "mobile",
+    "completion_pct": 23.1
+  },
+  {
+    "session_id": "SES00268",
+    "user_id": "USR0080",
+    "book_id": "BOOK039",
+    "started_at": "2024-06-14T10:33:48",
+    "ended_at": "2024-06-14T12:42:48",
+    "pages_read": 314,
+    "device_type": "mobile",
+    "completion_pct": 53.0
+  },
+  {
+    "session_id": "SES00269",
+    "user_id": "USR0072",
+    "book_id": "BOOK066",
+    "started_at": "2022-05-05T07:12:41",
+    "ended_at": "2022-05-05T08:59:41",
+    "pages_read": 138,
+    "device_type": "mobile",
+    "completion_pct": 24.6
+  },
+  {
+    "session_id": "SES00270",
+    "user_id": "USR0124",
+    "book_id": "BOOK059",
+    "started_at": "2023-10-19T15:17:45",
+    "ended_at": "2023-10-19T17:41:45",
+    "pages_read": 247,
+    "device_type": "desktop",
+    "completion_pct": 57.2
+  },
+  {
+    "session_id": "SES00271",
+    "user_id": "USR0042",
+    "book_id": "BOOK066",
+    "started_at": "2022-01-31T18:36:37",
+    "ended_at": "2022-01-31T20:28:37",
+    "pages_read": 151,
+    "device_type": "mobile",
+    "completion_pct": 27.0
+  },
+  {
+    "session_id": "SES00272",
+    "user_id": "USR0079",
+    "book_id": "BOOK075",
+    "started_at": "2022-08-26T08:44:55",
+    "ended_at": "2022-08-26T11:20:55",
+    "pages_read": 304,
+    "device_type": "desktop",
+    "completion_pct": 60.7
+  },
+  {
+    "session_id": "SES00273",
+    "user_id": "USR0100",
+    "book_id": "BOOK064",
+    "started_at": "2023-04-21T02:48:47",
+    "ended_at": "2023-04-21T04:59:47",
+    "pages_read": 139,
+    "device_type": "tablet",
+    "completion_pct": 23.5
+  },
+  {
+    "session_id": "SES00274",
+    "user_id": "USR0162",
+    "book_id": "BOOK066",
+    "started_at": "2022-04-22T18:06:16",
+    "ended_at": "2022-04-22T19:46:16",
+    "pages_read": 77,
+    "device_type": "desktop",
+    "completion_pct": 13.8
+  },
+  {
+    "session_id": "SES00275",
+    "user_id": "USR0053",
+    "book_id": "BOOK022",
+    "started_at": "2022-10-22T13:45:46",
+    "ended_at": "2022-10-22T14:01:46",
+    "pages_read": 8,
+    "device_type": "tablet",
+    "completion_pct": 2.9
+  },
+  {
+    "session_id": "SES00276",
+    "user_id": "USR0195",
+    "book_id": "BOOK050",
+    "started_at": "2024-02-03T10:43:21",
+    "ended_at": "2024-02-03T12:41:21",
+    "pages_read": 187,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00277",
+    "user_id": "USR0199",
+    "book_id": "BOOK050",
+    "started_at": "2023-08-20T13:57:10",
+    "ended_at": "2023-08-20T16:17:10",
+    "pages_read": 156,
+    "device_type": "tablet",
+    "completion_pct": 83.4
+  },
+  {
+    "session_id": "SES00278",
+    "user_id": "USR0019",
+    "book_id": "BOOK055",
+    "started_at": "2022-03-02T07:34:17",
+    "ended_at": "2022-03-02T08:20:17",
+    "pages_read": 58,
+    "device_type": "tablet",
+    "completion_pct": 25.3
+  },
+  {
+    "session_id": "SES00279",
+    "user_id": "USR0044",
+    "book_id": "BOOK027",
+    "started_at": "2023-11-09T18:21:58",
+    "ended_at": "2023-11-09T19:41:58",
+    "pages_read": 163,
+    "device_type": "tablet",
+    "completion_pct": 39.4
+  },
+  {
+    "session_id": "SES00280",
+    "user_id": "USR0092",
+    "book_id": "BOOK071",
+    "started_at": "2024-01-30T01:08:33",
+    "ended_at": "2024-01-30T04:05:33",
+    "pages_read": 319,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00281",
+    "user_id": "USR0015",
+    "book_id": "BOOK052",
+    "started_at": "2023-10-21T17:22:10",
+    "ended_at": "2023-10-21T18:40:10",
+    "pages_read": 76,
+    "device_type": "mobile",
+    "completion_pct": 14.9
+  },
+  {
+    "session_id": "SES00282",
+    "user_id": "USR0095",
+    "book_id": "BOOK004",
+    "started_at": "2024-10-31T02:11:11",
+    "ended_at": "2024-10-31T05:11:11",
+    "pages_read": 143,
+    "device_type": "tablet",
+    "completion_pct": 30.1
+  },
+  {
+    "session_id": "SES00283",
+    "user_id": "USR0120",
+    "book_id": "BOOK021",
+    "started_at": "2023-01-31T00:32:42",
+    "ended_at": "2023-01-31T01:50:42",
+    "pages_read": 132,
+    "device_type": "tablet",
+    "completion_pct": 41.9
+  },
+  {
+    "session_id": "SES00284",
+    "user_id": "USR0044",
+    "book_id": "BOOK002",
+    "started_at": "2022-07-01T08:02:01",
+    "ended_at": "2022-07-01T08:40:01",
+    "pages_read": 67,
+    "device_type": "desktop",
+    "completion_pct": 15.1
+  },
+  {
+    "session_id": "SES00285",
+    "user_id": "USR0104",
+    "book_id": "BOOK012",
+    "started_at": "2024-03-16T12:27:43",
+    "ended_at": "2024-03-16T13:30:43",
+    "pages_read": 141,
+    "device_type": "mobile",
+    "completion_pct": 42.1
+  },
+  {
+    "session_id": "SES00286",
+    "user_id": "USR0112",
+    "book_id": "BOOK035",
+    "started_at": "2023-04-15T11:33:43",
+    "ended_at": "2023-04-15T13:56:43",
+    "pages_read": 247,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00287",
+    "user_id": "USR0100",
+    "book_id": "BOOK042",
+    "started_at": "2023-10-02T09:53:43",
+    "ended_at": "2023-10-02T10:30:43",
+    "pages_read": 26,
+    "device_type": "tablet",
+    "completion_pct": 5.8
+  },
+  {
+    "session_id": "SES00288",
+    "user_id": "USR0091",
+    "book_id": "BOOK021",
+    "started_at": "2023-02-22T21:50:32",
+    "ended_at": "2023-02-22T22:58:32",
+    "pages_read": 160,
+    "device_type": "desktop",
+    "completion_pct": 50.8
+  },
+  {
+    "session_id": "SES00289",
+    "user_id": "USR0187",
+    "book_id": "BOOK042",
+    "started_at": "2022-01-10T23:21:58",
+    "ended_at": "2022-01-11T00:19:58",
+    "pages_read": 123,
+    "device_type": "mobile",
+    "completion_pct": 27.6
+  },
+  {
+    "session_id": "SES00290",
+    "user_id": "USR0025",
+    "book_id": "BOOK010",
+    "started_at": "2023-10-12T02:11:22",
+    "ended_at": "2023-10-12T04:40:22",
+    "pages_read": 198,
+    "device_type": "desktop",
+    "completion_pct": 41.3
+  },
+  {
+    "session_id": "SES00291",
+    "user_id": "USR0196",
+    "book_id": "BOOK058",
+    "started_at": "2022-09-23T01:42:22",
+    "ended_at": "2022-09-23T02:42:22",
+    "pages_read": 74,
+    "device_type": "tablet",
+    "completion_pct": 13.6
+  },
+  {
+    "session_id": "SES00292",
+    "user_id": "USR0037",
+    "book_id": "BOOK028",
+    "started_at": "2024-01-26T16:57:47",
+    "ended_at": "2024-01-26T17:58:47",
+    "pages_read": 91,
+    "device_type": "mobile",
+    "completion_pct": 20.2
+  },
+  {
+    "session_id": "SES00293",
+    "user_id": "USR0119",
+    "book_id": "BOOK079",
+    "started_at": "2022-11-27T05:18:35",
+    "ended_at": "2022-11-27T06:20:35",
+    "pages_read": 55,
+    "device_type": "tablet",
+    "completion_pct": 22.2
+  },
+  {
+    "session_id": "SES00294",
+    "user_id": "USR0049",
+    "book_id": "BOOK027",
+    "started_at": "2023-02-07T21:20:24",
+    "ended_at": "2023-02-07T23:19:24",
+    "pages_read": 164,
+    "device_type": "tablet",
+    "completion_pct": 39.6
+  },
+  {
+    "session_id": "SES00295",
+    "user_id": "USR0029",
+    "book_id": "BOOK024",
+    "started_at": "2022-05-04T23:31:30",
+    "ended_at": "2022-05-05T01:01:30",
+    "pages_read": 60,
+    "device_type": "mobile",
+    "completion_pct": 12.3
+  },
+  {
+    "session_id": "SES00296",
+    "user_id": "USR0073",
+    "book_id": "BOOK010",
+    "started_at": "2023-06-16T12:20:53",
+    "ended_at": "2023-06-16T12:42:53",
+    "pages_read": 36,
+    "device_type": "desktop",
+    "completion_pct": 7.5
+  },
+  {
+    "session_id": "SES00297",
+    "user_id": "USR0128",
+    "book_id": "BOOK015",
+    "started_at": "2022-01-15T18:25:51",
+    "ended_at": "2022-01-15T18:55:51",
+    "pages_read": 30,
+    "device_type": "mobile",
+    "completion_pct": 6.9
+  },
+  {
+    "session_id": "SES00298",
+    "user_id": "USR0179",
+    "book_id": "BOOK006",
+    "started_at": "2022-05-31T10:31:33",
+    "ended_at": "2022-05-31T11:40:33",
+    "pages_read": 106,
+    "device_type": "mobile",
+    "completion_pct": 25.1
+  },
+  {
+    "session_id": "SES00299",
+    "user_id": "USR0099",
+    "book_id": "BOOK073",
+    "started_at": "2023-02-17T23:04:36",
+    "ended_at": "2023-02-18T01:23:36",
+    "pages_read": 201,
+    "device_type": "desktop",
+    "completion_pct": 53.9
+  },
+  {
+    "session_id": "SES00300",
+    "user_id": "USR0161",
+    "book_id": "BOOK057",
+    "started_at": "2023-06-07T19:30:03",
+    "ended_at": "2023-06-07T21:19:03",
+    "pages_read": 197,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00301",
+    "user_id": "USR0083",
+    "book_id": "BOOK033",
+    "started_at": "2023-07-16T02:54:29",
+    "ended_at": "2023-07-16T04:51:29",
+    "pages_read": 147,
+    "device_type": "mobile",
+    "completion_pct": 24.8
+  },
+  {
+    "session_id": "SES00302",
+    "user_id": "USR0094",
+    "book_id": "BOOK045",
+    "started_at": "2022-06-05T14:52:58",
+    "ended_at": "2022-06-05T15:07:58",
+    "pages_read": 21,
+    "device_type": "tablet",
+    "completion_pct": 5.9
+  },
+  {
+    "session_id": "SES00303",
+    "user_id": "USR0105",
+    "book_id": "BOOK020",
+    "started_at": "2022-02-09T21:26:08",
+    "ended_at": "2022-02-10T00:15:08",
+    "pages_read": 126,
+    "device_type": "tablet",
+    "completion_pct": 29.6
+  },
+  {
+    "session_id": "SES00304",
+    "user_id": "USR0074",
+    "book_id": "BOOK034",
+    "started_at": "2023-07-27T08:03:43",
+    "ended_at": "2023-07-27T10:13:43",
+    "pages_read": 225,
+    "device_type": "tablet",
+    "completion_pct": 63.2
+  },
+  {
+    "session_id": "SES00305",
+    "user_id": "USR0125",
+    "book_id": "BOOK071",
+    "started_at": "2023-10-04T18:28:32",
+    "ended_at": "2023-10-04T19:31:32",
+    "pages_read": 31,
+    "device_type": "tablet",
+    "completion_pct": 9.7
+  },
+  {
+    "session_id": "SES00306",
+    "user_id": "USR0085",
+    "book_id": "BOOK003",
+    "started_at": "2024-09-11T12:55:49",
+    "ended_at": "2024-09-11T14:42:49",
+    "pages_read": 190,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00307",
+    "user_id": "USR0086",
+    "book_id": "BOOK059",
+    "started_at": "2022-12-29T19:41:51",
+    "ended_at": "2022-12-29T22:31:51",
+    "pages_read": 249,
+    "device_type": "tablet",
+    "completion_pct": 57.6
+  },
+  {
+    "session_id": "SES00308",
+    "user_id": "USR0163",
+    "book_id": "BOOK012",
+    "started_at": "2023-06-26T02:49:52",
+    "ended_at": "2023-06-26T04:53:52",
+    "pages_read": 294,
+    "device_type": "desktop",
+    "completion_pct": 87.8
+  },
+  {
+    "session_id": "SES00309",
+    "user_id": "USR0177",
+    "book_id": "BOOK015",
+    "started_at": "2023-08-21T20:33:59",
+    "ended_at": "2023-08-21T22:03:59",
+    "pages_read": 154,
+    "device_type": "tablet",
+    "completion_pct": 35.6
+  },
+  {
+    "session_id": "SES00310",
+    "user_id": "USR0039",
+    "book_id": "BOOK073",
+    "started_at": "2024-06-07T09:42:08",
+    "ended_at": "2024-06-07T12:06:08",
+    "pages_read": 81,
+    "device_type": "desktop",
+    "completion_pct": 21.7
+  },
+  {
+    "session_id": "SES00311",
+    "user_id": "USR0023",
+    "book_id": "BOOK041",
+    "started_at": "2024-11-11T13:34:33",
+    "ended_at": "2024-11-11T16:09:33",
+    "pages_read": 383,
+    "device_type": "desktop",
+    "completion_pct": 78.5
+  },
+  {
+    "session_id": "SES00312",
+    "user_id": "USR0046",
+    "book_id": "BOOK062",
+    "started_at": "2022-06-29T16:48:44",
+    "ended_at": "2022-06-29T19:06:44",
+    "pages_read": 251,
+    "device_type": "mobile",
+    "completion_pct": 75.4
+  },
+  {
+    "session_id": "SES00313",
+    "user_id": "USR0065",
+    "book_id": "BOOK030",
+    "started_at": "2022-09-22T18:12:11",
+    "ended_at": "2022-09-22T18:49:11",
+    "pages_read": 26,
+    "device_type": "tablet",
+    "completion_pct": 9.6
+  },
+  {
+    "session_id": "SES00314",
+    "user_id": "USR0008",
+    "book_id": "BOOK023",
+    "started_at": "2023-05-23T04:49:54",
+    "ended_at": "2023-05-23T06:42:54",
+    "pages_read": 229,
+    "device_type": "mobile",
+    "completion_pct": 40.4
+  },
+  {
+    "session_id": "SES00315",
+    "user_id": "USR0193",
+    "book_id": "BOOK035",
+    "started_at": "2024-10-31T11:46:11",
+    "ended_at": "2024-10-31T14:02:11",
+    "pages_read": 247,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00316",
+    "user_id": "USR0034",
+    "book_id": "BOOK020",
+    "started_at": "2024-04-10T09:13:07",
+    "ended_at": "2024-04-10T12:10:07",
+    "pages_read": 345,
+    "device_type": "mobile",
+    "completion_pct": 81.0
+  },
+  {
+    "session_id": "SES00317",
+    "user_id": "USR0186",
+    "book_id": "BOOK045",
+    "started_at": "2022-12-14T16:06:01",
+    "ended_at": "2022-12-14T18:48:01",
+    "pages_read": 329,
+    "device_type": "tablet",
+    "completion_pct": 92.4
+  },
+  {
+    "session_id": "SES00318",
+    "user_id": "USR0017",
+    "book_id": "BOOK046",
+    "started_at": "2023-08-09T15:57:48",
+    "ended_at": "2023-08-09T17:49:48",
+    "pages_read": 170,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00319",
+    "user_id": "USR0114",
+    "book_id": "BOOK032",
+    "started_at": "2022-12-14T06:34:45",
+    "ended_at": "2022-12-14T07:55:45",
+    "pages_read": 59,
+    "device_type": "mobile",
+    "completion_pct": 29.8
+  },
+  {
+    "session_id": "SES00320",
+    "user_id": "USR0030",
+    "book_id": "BOOK014",
+    "started_at": "2023-06-13T12:59:11",
+    "ended_at": "2023-06-13T15:45:11",
+    "pages_read": 394,
+    "device_type": "tablet",
+    "completion_pct": 86.6
+  },
+  {
+    "session_id": "SES00321",
+    "user_id": "USR0031",
+    "book_id": "BOOK080",
+    "started_at": "2023-07-26T06:13:48",
+    "ended_at": "2023-07-26T07:00:48",
+    "pages_read": 103,
+    "device_type": "desktop",
+    "completion_pct": 22.2
+  },
+  {
+    "session_id": "SES00322",
+    "user_id": "USR0152",
+    "book_id": "BOOK001",
+    "started_at": "2023-04-28T19:25:24",
+    "ended_at": "2023-04-28T19:55:24",
+    "pages_read": 50,
+    "device_type": "mobile",
+    "completion_pct": 11.6
+  },
+  {
+    "session_id": "SES00323",
+    "user_id": "USR0102",
+    "book_id": "BOOK057",
+    "started_at": "2023-05-12T13:09:15",
+    "ended_at": "2023-05-12T14:57:15",
+    "pages_read": 197,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00324",
+    "user_id": "USR0137",
+    "book_id": "BOOK031",
+    "started_at": "2022-06-15T13:48:40",
+    "ended_at": "2022-06-15T15:44:40",
+    "pages_read": 60,
+    "device_type": "desktop",
+    "completion_pct": 13.5
+  },
+  {
+    "session_id": "SES00325",
+    "user_id": "USR0083",
+    "book_id": "BOOK021",
+    "started_at": "2023-04-07T02:23:02",
+    "ended_at": "2023-04-07T03:34:02",
+    "pages_read": 106,
+    "device_type": "desktop",
+    "completion_pct": 33.7
+  },
+  {
+    "session_id": "SES00326",
+    "user_id": "USR0040",
+    "book_id": "BOOK039",
+    "started_at": "2022-08-15T14:27:13",
+    "ended_at": "2022-08-15T14:50:13",
+    "pages_read": 39,
+    "device_type": "desktop",
+    "completion_pct": 6.6
+  },
+  {
+    "session_id": "SES00327",
+    "user_id": "USR0132",
+    "book_id": "BOOK018",
+    "started_at": "2023-03-01T19:02:58",
+    "ended_at": "2023-03-01T21:43:58",
+    "pages_read": 234,
+    "device_type": "mobile",
+    "completion_pct": 57.6
+  },
+  {
+    "session_id": "SES00328",
+    "user_id": "USR0130",
+    "book_id": "BOOK040",
+    "started_at": "2023-08-09T04:42:56",
+    "ended_at": "2023-08-09T05:12:56",
+    "pages_read": 73,
+    "device_type": "desktop",
+    "completion_pct": 25.6
+  },
+  {
+    "session_id": "SES00329",
+    "user_id": "USR0042",
+    "book_id": "BOOK029",
+    "started_at": "2022-12-16T15:16:56",
+    "ended_at": "2022-12-16T15:44:56",
+    "pages_read": 65,
+    "device_type": "mobile",
+    "completion_pct": 24.3
+  },
+  {
+    "session_id": "SES00330",
+    "user_id": "USR0128",
+    "book_id": "BOOK053",
+    "started_at": "2023-04-10T15:19:20",
+    "ended_at": "2023-04-10T16:14:20",
+    "pages_read": 136,
+    "device_type": "tablet",
+    "completion_pct": 88.3
+  },
+  {
+    "session_id": "SES00331",
+    "user_id": "USR0103",
+    "book_id": "BOOK046",
+    "started_at": "2023-10-19T05:36:37",
+    "ended_at": "2023-10-19T07:52:37",
+    "pages_read": 170,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00332",
+    "user_id": "USR0103",
+    "book_id": "BOOK011",
+    "started_at": "2024-03-30T23:28:00",
+    "ended_at": "2024-03-31T00:55:00",
+    "pages_read": 92,
+    "device_type": "mobile",
+    "completion_pct": 21.6
+  },
+  {
+    "session_id": "SES00333",
+    "user_id": "USR0188",
+    "book_id": "BOOK077",
+    "started_at": "2023-09-04T16:54:04",
+    "ended_at": "2023-09-04T17:33:04",
+    "pages_read": 29,
+    "device_type": "tablet",
+    "completion_pct": 5.9
+  },
+  {
+    "session_id": "SES00334",
+    "user_id": "USR0014",
+    "book_id": "BOOK041",
+    "started_at": "2023-12-12T18:02:52",
+    "ended_at": "2023-12-12T18:58:52",
+    "pages_read": 92,
+    "device_type": "desktop",
+    "completion_pct": 18.9
+  },
+  {
+    "session_id": "SES00335",
+    "user_id": "USR0187",
+    "book_id": "BOOK066",
+    "started_at": "2023-03-29T04:18:26",
+    "ended_at": "2023-03-29T05:10:26",
+    "pages_read": 47,
+    "device_type": "tablet",
+    "completion_pct": 8.4
+  },
+  {
+    "session_id": "SES00336",
+    "user_id": "USR0053",
+    "book_id": "BOOK002",
+    "started_at": "2023-07-17T16:45:20",
+    "ended_at": "2023-07-17T19:27:20",
+    "pages_read": 114,
+    "device_type": "mobile",
+    "completion_pct": 25.6
+  },
+  {
+    "session_id": "SES00337",
+    "user_id": "USR0099",
+    "book_id": "BOOK057",
+    "started_at": "2024-11-21T11:33:19",
+    "ended_at": "2024-11-21T12:31:19",
+    "pages_read": 136,
+    "device_type": "mobile",
+    "completion_pct": 69.0
+  },
+  {
+    "session_id": "SES00338",
+    "user_id": "USR0094",
+    "book_id": "BOOK065",
+    "started_at": "2022-10-07T01:11:56",
+    "ended_at": "2022-10-07T01:39:56",
+    "pages_read": 20,
+    "device_type": "tablet",
+    "completion_pct": 12.3
+  },
+  {
+    "session_id": "SES00339",
+    "user_id": "USR0175",
+    "book_id": "BOOK046",
+    "started_at": "2024-07-10T19:16:18",
+    "ended_at": "2024-07-10T21:22:18",
+    "pages_read": 170,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00340",
+    "user_id": "USR0193",
+    "book_id": "BOOK054",
+    "started_at": "2023-01-16T14:17:58",
+    "ended_at": "2023-01-16T14:40:58",
+    "pages_read": 16,
+    "device_type": "desktop",
+    "completion_pct": 2.7
+  },
+  {
+    "session_id": "SES00341",
+    "user_id": "USR0129",
+    "book_id": "BOOK041",
+    "started_at": "2024-07-15T02:17:13",
+    "ended_at": "2024-07-15T03:16:13",
+    "pages_read": 106,
+    "device_type": "desktop",
+    "completion_pct": 21.7
+  },
+  {
+    "session_id": "SES00342",
+    "user_id": "USR0186",
+    "book_id": "BOOK014",
+    "started_at": "2023-12-22T07:00:40",
+    "ended_at": "2023-12-22T08:52:40",
+    "pages_read": 117,
+    "device_type": "tablet",
+    "completion_pct": 25.7
+  },
+  {
+    "session_id": "SES00343",
+    "user_id": "USR0117",
+    "book_id": "BOOK050",
+    "started_at": "2022-01-19T00:34:10",
+    "ended_at": "2022-01-19T01:19:10",
+    "pages_read": 32,
+    "device_type": "mobile",
+    "completion_pct": 17.1
+  },
+  {
+    "session_id": "SES00344",
+    "user_id": "USR0129",
+    "book_id": "BOOK071",
+    "started_at": "2022-12-16T10:11:10",
+    "ended_at": "2022-12-16T10:31:10",
+    "pages_read": 33,
+    "device_type": "tablet",
+    "completion_pct": 10.3
+  },
+  {
+    "session_id": "SES00345",
+    "user_id": "USR0126",
+    "book_id": "BOOK038",
+    "started_at": "2022-05-27T21:12:00",
+    "ended_at": "2022-05-27T23:58:00",
+    "pages_read": 143,
+    "device_type": "desktop",
+    "completion_pct": 26.7
+  },
+  {
+    "session_id": "SES00346",
+    "user_id": "USR0174",
+    "book_id": "BOOK058",
+    "started_at": "2023-04-09T11:47:30",
+    "ended_at": "2023-04-09T14:28:30",
+    "pages_read": 120,
+    "device_type": "desktop",
+    "completion_pct": 22.1
+  },
+  {
+    "session_id": "SES00347",
+    "user_id": "USR0017",
+    "book_id": "BOOK075",
+    "started_at": "2022-10-15T05:11:35",
+    "ended_at": "2022-10-15T07:09:35",
+    "pages_read": 250,
+    "device_type": "mobile",
+    "completion_pct": 49.9
+  },
+  {
+    "session_id": "SES00348",
+    "user_id": "USR0103",
+    "book_id": "BOOK078",
+    "started_at": "2024-04-13T07:04:02",
+    "ended_at": "2024-04-13T09:34:02",
+    "pages_read": 221,
+    "device_type": "tablet",
+    "completion_pct": 45.0
+  },
+  {
+    "session_id": "SES00349",
+    "user_id": "USR0155",
+    "book_id": "BOOK075",
+    "started_at": "2024-10-09T09:09:42",
+    "ended_at": "2024-10-09T09:55:42",
+    "pages_read": 92,
+    "device_type": "mobile",
+    "completion_pct": 18.4
+  },
+  {
+    "session_id": "SES00350",
+    "user_id": "USR0177",
+    "book_id": "BOOK018",
+    "started_at": "2022-10-08T15:38:54",
+    "ended_at": "2022-10-08T18:26:54",
+    "pages_read": 317,
+    "device_type": "mobile",
+    "completion_pct": 78.1
+  },
+  {
+    "session_id": "SES00351",
+    "user_id": "USR0147",
+    "book_id": "BOOK062",
+    "started_at": "2023-05-04T05:48:26",
+    "ended_at": "2023-05-04T06:34:26",
+    "pages_read": 26,
+    "device_type": "tablet",
+    "completion_pct": 7.8
+  },
+  {
+    "session_id": "SES00352",
+    "user_id": "USR0055",
+    "book_id": "BOOK023",
+    "started_at": "2022-05-17T10:12:05",
+    "ended_at": "2022-05-17T12:50:05",
+    "pages_read": 160,
+    "device_type": "mobile",
+    "completion_pct": 28.2
+  },
+  {
+    "session_id": "SES00353",
+    "user_id": "USR0022",
+    "book_id": "BOOK018",
+    "started_at": "2024-02-26T06:34:36",
+    "ended_at": "2024-02-26T08:05:36",
+    "pages_read": 111,
+    "device_type": "tablet",
+    "completion_pct": 27.3
+  },
+  {
+    "session_id": "SES00354",
+    "user_id": "USR0046",
+    "book_id": "BOOK057",
+    "started_at": "2024-10-19T09:57:35",
+    "ended_at": "2024-10-19T10:12:35",
+    "pages_read": 14,
+    "device_type": "mobile",
+    "completion_pct": 7.1
+  },
+  {
+    "session_id": "SES00355",
+    "user_id": "USR0136",
+    "book_id": "BOOK040",
+    "started_at": "2024-10-20T23:10:32",
+    "ended_at": "2024-10-21T01:41:32",
+    "pages_read": 209,
+    "device_type": "tablet",
+    "completion_pct": 73.3
+  },
+  {
+    "session_id": "SES00356",
+    "user_id": "USR0129",
+    "book_id": "BOOK043",
+    "started_at": "2024-03-22T22:24:37",
+    "ended_at": "2024-03-23T00:09:37",
+    "pages_read": 179,
+    "device_type": "tablet",
+    "completion_pct": 39.9
+  },
+  {
+    "session_id": "SES00357",
+    "user_id": "USR0056",
+    "book_id": "BOOK015",
+    "started_at": "2024-10-26T08:09:07",
+    "ended_at": "2024-10-26T08:35:07",
+    "pages_read": 25,
+    "device_type": "mobile",
+    "completion_pct": 5.8
+  },
+  {
+    "session_id": "SES00358",
+    "user_id": "USR0039",
+    "book_id": "BOOK041",
+    "started_at": "2022-12-01T07:43:11",
+    "ended_at": "2022-12-01T08:32:11",
+    "pages_read": 83,
+    "device_type": "mobile",
+    "completion_pct": 17.0
+  },
+  {
+    "session_id": "SES00359",
+    "user_id": "USR0158",
+    "book_id": "BOOK048",
+    "started_at": "2023-03-07T22:03:43",
+    "ended_at": "2023-03-07T22:50:43",
+    "pages_read": 92,
+    "device_type": "desktop",
+    "completion_pct": 32.3
+  },
+  {
+    "session_id": "SES00360",
+    "user_id": "USR0020",
+    "book_id": "BOOK077",
+    "started_at": "2023-02-01T01:52:21",
+    "ended_at": "2023-02-01T03:13:21",
+    "pages_read": 102,
+    "device_type": "mobile",
+    "completion_pct": 20.9
+  },
+  {
+    "session_id": "SES00361",
+    "user_id": "USR0105",
+    "book_id": "BOOK063",
+    "started_at": "2022-05-10T07:56:12",
+    "ended_at": "2022-05-10T09:16:12",
+    "pages_read": 148,
+    "device_type": "tablet",
+    "completion_pct": 24.8
+  },
+  {
+    "session_id": "SES00362",
+    "user_id": "USR0039",
+    "book_id": "BOOK075",
+    "started_at": "2022-11-13T12:49:53",
+    "ended_at": "2022-11-13T13:22:53",
+    "pages_read": 58,
+    "device_type": "desktop",
+    "completion_pct": 11.6
+  },
+  {
+    "session_id": "SES00363",
+    "user_id": "USR0171",
+    "book_id": "BOOK027",
+    "started_at": "2023-08-02T02:28:08",
+    "ended_at": "2023-08-02T05:07:08",
+    "pages_read": 288,
+    "device_type": "tablet",
+    "completion_pct": 69.6
+  },
+  {
+    "session_id": "SES00364",
+    "user_id": "USR0161",
+    "book_id": "BOOK023",
+    "started_at": "2023-10-14T23:02:44",
+    "ended_at": "2023-10-14T23:56:44",
+    "pages_read": 61,
+    "device_type": "desktop",
+    "completion_pct": 10.8
+  },
+  {
+    "session_id": "SES00365",
+    "user_id": "USR0100",
+    "book_id": "BOOK004",
+    "started_at": "2024-07-26T16:06:33",
+    "ended_at": "2024-07-26T17:24:33",
+    "pages_read": 51,
+    "device_type": "mobile",
+    "completion_pct": 10.7
+  },
+  {
+    "session_id": "SES00366",
+    "user_id": "USR0140",
+    "book_id": "BOOK017",
+    "started_at": "2024-11-28T12:35:40",
+    "ended_at": "2024-11-28T15:10:40",
+    "pages_read": 203,
+    "device_type": "desktop",
+    "completion_pct": 88.3
+  },
+  {
+    "session_id": "SES00367",
+    "user_id": "USR0172",
+    "book_id": "BOOK014",
+    "started_at": "2023-07-18T14:53:26",
+    "ended_at": "2023-07-18T16:33:26",
+    "pages_read": 205,
+    "device_type": "mobile",
+    "completion_pct": 45.1
+  },
+  {
+    "session_id": "SES00368",
+    "user_id": "USR0060",
+    "book_id": "BOOK038",
+    "started_at": "2022-01-16T07:43:54",
+    "ended_at": "2022-01-16T08:23:54",
+    "pages_read": 50,
+    "device_type": "mobile",
+    "completion_pct": 9.3
+  },
+  {
+    "session_id": "SES00369",
+    "user_id": "USR0099",
+    "book_id": "BOOK016",
+    "started_at": "2022-07-11T20:32:38",
+    "ended_at": "2022-07-11T21:31:38",
+    "pages_read": 91,
+    "device_type": "desktop",
+    "completion_pct": 17.0
+  },
+  {
+    "session_id": "SES00370",
+    "user_id": "USR0157",
+    "book_id": "BOOK067",
+    "started_at": "2022-05-29T10:00:36",
+    "ended_at": "2022-05-29T12:30:36",
+    "pages_read": 179,
+    "device_type": "tablet",
+    "completion_pct": 32.4
+  },
+  {
+    "session_id": "SES00371",
+    "user_id": "USR0075",
+    "book_id": "BOOK077",
+    "started_at": "2023-02-26T01:37:27",
+    "ended_at": "2023-02-26T04:27:27",
+    "pages_read": 118,
+    "device_type": "mobile",
+    "completion_pct": 24.1
+  },
+  {
+    "session_id": "SES00372",
+    "user_id": "USR0046",
+    "book_id": "BOOK043",
+    "started_at": "2023-08-29T03:58:25",
+    "ended_at": "2023-08-29T04:59:25",
+    "pages_read": 72,
+    "device_type": "tablet",
+    "completion_pct": 16.0
+  },
+  {
+    "session_id": "SES00373",
+    "user_id": "USR0182",
+    "book_id": "BOOK075",
+    "started_at": "2024-05-06T23:48:41",
+    "ended_at": "2024-05-07T02:35:41",
+    "pages_read": 378,
+    "device_type": "desktop",
+    "completion_pct": 75.4
+  },
+  {
+    "session_id": "SES00374",
+    "user_id": "USR0126",
+    "book_id": "BOOK019",
+    "started_at": "2023-02-07T10:29:43",
+    "ended_at": "2023-02-07T10:46:43",
+    "pages_read": 31,
+    "device_type": "tablet",
+    "completion_pct": 5.3
+  },
+  {
+    "session_id": "SES00375",
+    "user_id": "USR0042",
+    "book_id": "BOOK019",
+    "started_at": "2022-08-10T15:07:42",
+    "ended_at": "2022-08-10T16:58:42",
+    "pages_read": 181,
+    "device_type": "desktop",
+    "completion_pct": 31.2
+  },
+  {
+    "session_id": "SES00376",
+    "user_id": "USR0014",
+    "book_id": "BOOK050",
+    "started_at": "2023-01-22T23:33:16",
+    "ended_at": "2023-01-23T02:23:16",
+    "pages_read": 187,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00377",
+    "user_id": "USR0049",
+    "book_id": "BOOK059",
+    "started_at": "2023-07-04T22:07:45",
+    "ended_at": "2023-07-05T00:21:45",
+    "pages_read": 201,
+    "device_type": "desktop",
+    "completion_pct": 46.5
+  },
+  {
+    "session_id": "SES00378",
+    "user_id": "USR0112",
+    "book_id": "BOOK073",
+    "started_at": "2022-12-22T08:56:38",
+    "ended_at": "2022-12-22T10:29:38",
+    "pages_read": 164,
+    "device_type": "mobile",
+    "completion_pct": 44.0
+  },
+  {
+    "session_id": "SES00379",
+    "user_id": "USR0081",
+    "book_id": "BOOK055",
+    "started_at": "2023-05-01T19:40:37",
+    "ended_at": "2023-05-01T20:18:37",
+    "pages_read": 67,
+    "device_type": "mobile",
+    "completion_pct": 29.3
+  },
+  {
+    "session_id": "SES00380",
+    "user_id": "USR0195",
+    "book_id": "BOOK033",
+    "started_at": "2022-05-26T10:54:50",
+    "ended_at": "2022-05-26T11:51:50",
+    "pages_read": 94,
+    "device_type": "mobile",
+    "completion_pct": 15.9
+  },
+  {
+    "session_id": "SES00381",
+    "user_id": "USR0199",
+    "book_id": "BOOK039",
+    "started_at": "2024-05-10T20:34:25",
+    "ended_at": "2024-05-10T22:55:25",
+    "pages_read": 298,
+    "device_type": "mobile",
+    "completion_pct": 50.3
+  },
+  {
+    "session_id": "SES00382",
+    "user_id": "USR0111",
+    "book_id": "BOOK071",
+    "started_at": "2022-07-31T22:25:07",
+    "ended_at": "2022-08-01T00:42:07",
+    "pages_read": 204,
+    "device_type": "tablet",
+    "completion_pct": 63.9
+  },
+  {
+    "session_id": "SES00383",
+    "user_id": "USR0182",
+    "book_id": "BOOK075",
+    "started_at": "2022-07-13T16:50:21",
+    "ended_at": "2022-07-13T18:48:21",
+    "pages_read": 62,
+    "device_type": "mobile",
+    "completion_pct": 12.4
+  },
+  {
+    "session_id": "SES00384",
+    "user_id": "USR0199",
+    "book_id": "BOOK001",
+    "started_at": "2023-10-23T04:21:43",
+    "ended_at": "2023-10-23T06:52:43",
+    "pages_read": 301,
+    "device_type": "mobile",
+    "completion_pct": 69.7
+  },
+  {
+    "session_id": "SES00385",
+    "user_id": "USR0198",
+    "book_id": "BOOK074",
+    "started_at": "2024-11-28T16:16:48",
+    "ended_at": "2024-11-28T19:06:48",
+    "pages_read": 99,
+    "device_type": "desktop",
+    "completion_pct": 40.1
+  },
+  {
+    "session_id": "SES00386",
+    "user_id": "USR0046",
+    "book_id": "BOOK074",
+    "started_at": "2022-12-16T15:09:53",
+    "ended_at": "2022-12-16T16:08:53",
+    "pages_read": 38,
+    "device_type": "mobile",
+    "completion_pct": 15.4
+  },
+  {
+    "session_id": "SES00387",
+    "user_id": "USR0135",
+    "book_id": "BOOK048",
+    "started_at": "2022-03-21T01:56:03",
+    "ended_at": "2022-03-21T03:59:03",
+    "pages_read": 183,
+    "device_type": "mobile",
+    "completion_pct": 64.2
+  },
+  {
+    "session_id": "SES00388",
+    "user_id": "USR0098",
+    "book_id": "BOOK017",
+    "started_at": "2023-06-10T00:00:34",
+    "ended_at": "2023-06-10T01:18:34",
+    "pages_read": 168,
+    "device_type": "mobile",
+    "completion_pct": 73.0
+  },
+  {
+    "session_id": "SES00389",
+    "user_id": "USR0077",
+    "book_id": "BOOK041",
+    "started_at": "2024-01-21T12:11:37",
+    "ended_at": "2024-01-21T13:41:37",
+    "pages_read": 92,
+    "device_type": "mobile",
+    "completion_pct": 18.9
+  },
+  {
+    "session_id": "SES00390",
+    "user_id": "USR0197",
+    "book_id": "BOOK079",
+    "started_at": "2023-09-04T11:16:20",
+    "ended_at": "2023-09-04T12:26:20",
+    "pages_read": 164,
+    "device_type": "tablet",
+    "completion_pct": 66.1
+  },
+  {
+    "session_id": "SES00391",
+    "user_id": "USR0135",
+    "book_id": "BOOK005",
+    "started_at": "2023-12-21T08:00:55",
+    "ended_at": "2023-12-21T10:53:55",
+    "pages_read": 380,
+    "device_type": "mobile",
+    "completion_pct": 74.7
+  },
+  {
+    "session_id": "SES00392",
+    "user_id": "USR0094",
+    "book_id": "BOOK001",
+    "started_at": "2024-08-14T04:37:51",
+    "ended_at": "2024-08-14T06:49:51",
+    "pages_read": 152,
+    "device_type": "desktop",
+    "completion_pct": 35.2
+  },
+  {
+    "session_id": "SES00393",
+    "user_id": "USR0029",
+    "book_id": "BOOK001",
+    "started_at": "2023-06-28T06:34:11",
+    "ended_at": "2023-06-28T07:36:11",
+    "pages_read": 80,
+    "device_type": "mobile",
+    "completion_pct": 18.5
+  },
+  {
+    "session_id": "SES00394",
+    "user_id": "USR0027",
+    "book_id": "BOOK058",
+    "started_at": "2024-02-04T08:48:32",
+    "ended_at": "2024-02-04T09:53:32",
+    "pages_read": 43,
+    "device_type": "tablet",
+    "completion_pct": 7.9
+  },
+  {
+    "session_id": "SES00395",
+    "user_id": "USR0042",
+    "book_id": "BOOK055",
+    "started_at": "2022-07-12T09:11:18",
+    "ended_at": "2022-07-12T11:30:18",
+    "pages_read": 71,
+    "device_type": "tablet",
+    "completion_pct": 31.0
+  },
+  {
+    "session_id": "SES00396",
+    "user_id": "USR0067",
+    "book_id": "BOOK031",
+    "started_at": "2024-01-02T04:55:07",
+    "ended_at": "2024-01-02T06:51:07",
+    "pages_read": 144,
+    "device_type": "desktop",
+    "completion_pct": 32.4
+  },
+  {
+    "session_id": "SES00397",
+    "user_id": "USR0112",
+    "book_id": "BOOK026",
+    "started_at": "2024-04-13T07:27:44",
+    "ended_at": "2024-04-13T08:50:44",
+    "pages_read": 59,
+    "device_type": "desktop",
+    "completion_pct": 11.5
+  },
+  {
+    "session_id": "SES00398",
+    "user_id": "USR0177",
+    "book_id": "BOOK059",
+    "started_at": "2022-09-09T09:37:12",
+    "ended_at": "2022-09-09T10:27:12",
+    "pages_read": 60,
+    "device_type": "desktop",
+    "completion_pct": 13.9
+  },
+  {
+    "session_id": "SES00399",
+    "user_id": "USR0002",
+    "book_id": "BOOK048",
+    "started_at": "2022-11-05T07:17:50",
+    "ended_at": "2022-11-05T08:00:50",
+    "pages_read": 37,
+    "device_type": "mobile",
+    "completion_pct": 13.0
+  },
+  {
+    "session_id": "SES00400",
+    "user_id": "USR0037",
+    "book_id": "BOOK053",
+    "started_at": "2023-10-17T02:05:48",
+    "ended_at": "2023-10-17T03:44:48",
+    "pages_read": 154,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00401",
+    "user_id": "USR0179",
+    "book_id": "BOOK028",
+    "started_at": "2024-01-15T13:24:43",
+    "ended_at": "2024-01-15T14:47:43",
+    "pages_read": 61,
+    "device_type": "desktop",
+    "completion_pct": 13.5
+  },
+  {
+    "session_id": "SES00402",
+    "user_id": "USR0145",
+    "book_id": "BOOK068",
+    "started_at": "2024-11-25T00:58:41",
+    "ended_at": "2024-11-25T01:45:41",
+    "pages_read": 54,
+    "device_type": "desktop",
+    "completion_pct": 20.5
+  },
+  {
+    "session_id": "SES00403",
+    "user_id": "USR0132",
+    "book_id": "BOOK052",
+    "started_at": "2022-07-24T03:36:21",
+    "ended_at": "2022-07-24T04:19:21",
+    "pages_read": 103,
+    "device_type": "mobile",
+    "completion_pct": 20.2
+  },
+  {
+    "session_id": "SES00404",
+    "user_id": "USR0035",
+    "book_id": "BOOK022",
+    "started_at": "2023-06-19T13:44:38",
+    "ended_at": "2023-06-19T16:07:38",
+    "pages_read": 75,
+    "device_type": "tablet",
+    "completion_pct": 27.6
+  },
+  {
+    "session_id": "SES00405",
+    "user_id": "USR0063",
+    "book_id": "BOOK007",
+    "started_at": "2024-11-19T17:14:29",
+    "ended_at": "2024-11-19T18:56:29",
+    "pages_read": 138,
+    "device_type": "tablet",
+    "completion_pct": 52.7
+  },
+  {
+    "session_id": "SES00406",
+    "user_id": "USR0197",
+    "book_id": "BOOK002",
+    "started_at": "2023-11-06T16:56:26",
+    "ended_at": "2023-11-06T19:13:26",
+    "pages_read": 147,
+    "device_type": "desktop",
+    "completion_pct": 33.0
+  },
+  {
+    "session_id": "SES00407",
+    "user_id": "USR0022",
+    "book_id": "BOOK057",
+    "started_at": "2023-01-20T20:41:19",
+    "ended_at": "2023-01-20T23:34:19",
+    "pages_read": 139,
+    "device_type": "tablet",
+    "completion_pct": 70.6
+  },
+  {
+    "session_id": "SES00408",
+    "user_id": "USR0050",
+    "book_id": "BOOK034",
+    "started_at": "2023-03-13T17:36:55",
+    "ended_at": "2023-03-13T18:20:55",
+    "pages_read": 98,
+    "device_type": "tablet",
+    "completion_pct": 27.5
+  },
+  {
+    "session_id": "SES00409",
+    "user_id": "USR0066",
+    "book_id": "BOOK057",
+    "started_at": "2022-11-05T05:21:09",
+    "ended_at": "2022-11-05T07:37:09",
+    "pages_read": 197,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00410",
+    "user_id": "USR0188",
+    "book_id": "BOOK070",
+    "started_at": "2024-08-07T07:28:33",
+    "ended_at": "2024-08-07T08:29:33",
+    "pages_read": 53,
+    "device_type": "tablet",
+    "completion_pct": 9.7
+  },
+  {
+    "session_id": "SES00411",
+    "user_id": "USR0170",
+    "book_id": "BOOK022",
+    "started_at": "2022-12-23T08:03:45",
+    "ended_at": "2022-12-23T08:48:45",
+    "pages_read": 34,
+    "device_type": "mobile",
+    "completion_pct": 12.5
+  },
+  {
+    "session_id": "SES00412",
+    "user_id": "USR0073",
+    "book_id": "BOOK027",
+    "started_at": "2022-08-16T03:04:17",
+    "ended_at": "2022-08-16T05:08:17",
+    "pages_read": 66,
+    "device_type": "mobile",
+    "completion_pct": 15.9
+  },
+  {
+    "session_id": "SES00413",
+    "user_id": "USR0024",
+    "book_id": "BOOK007",
+    "started_at": "2023-08-14T20:34:28",
+    "ended_at": "2023-08-14T22:33:28",
+    "pages_read": 184,
+    "device_type": "tablet",
+    "completion_pct": 70.2
+  },
+  {
+    "session_id": "SES00414",
+    "user_id": "USR0171",
+    "book_id": "BOOK032",
+    "started_at": "2022-12-11T12:22:48",
+    "ended_at": "2022-12-11T14:03:48",
+    "pages_read": 136,
+    "device_type": "mobile",
+    "completion_pct": 68.7
+  },
+  {
+    "session_id": "SES00415",
+    "user_id": "USR0134",
+    "book_id": "BOOK057",
+    "started_at": "2024-09-27T05:19:52",
+    "ended_at": "2024-09-27T05:47:52",
+    "pages_read": 31,
+    "device_type": "desktop",
+    "completion_pct": 15.7
+  },
+  {
+    "session_id": "SES00416",
+    "user_id": "USR0096",
+    "book_id": "BOOK038",
+    "started_at": "2023-06-30T07:08:32",
+    "ended_at": "2023-06-30T09:10:32",
+    "pages_read": 121,
+    "device_type": "mobile",
+    "completion_pct": 22.6
+  },
+  {
+    "session_id": "SES00417",
+    "user_id": "USR0049",
+    "book_id": "BOOK006",
+    "started_at": "2022-01-01T19:58:51",
+    "ended_at": "2022-01-01T20:26:51",
+    "pages_read": 50,
+    "device_type": "desktop",
+    "completion_pct": 11.8
+  },
+  {
+    "session_id": "SES00418",
+    "user_id": "USR0057",
+    "book_id": "BOOK039",
+    "started_at": "2024-01-04T07:36:14",
+    "ended_at": "2024-01-04T09:02:14",
+    "pages_read": 199,
+    "device_type": "mobile",
+    "completion_pct": 33.6
+  },
+  {
+    "session_id": "SES00419",
+    "user_id": "USR0113",
+    "book_id": "BOOK026",
+    "started_at": "2023-01-27T21:02:52",
+    "ended_at": "2023-01-27T23:22:52",
+    "pages_read": 171,
+    "device_type": "desktop",
+    "completion_pct": 33.2
+  },
+  {
+    "session_id": "SES00420",
+    "user_id": "USR0030",
+    "book_id": "BOOK015",
+    "started_at": "2024-11-05T04:10:19",
+    "ended_at": "2024-11-05T04:28:19",
+    "pages_read": 33,
+    "device_type": "mobile",
+    "completion_pct": 7.6
+  },
+  {
+    "session_id": "SES00421",
+    "user_id": "USR0087",
+    "book_id": "BOOK049",
+    "started_at": "2023-07-16T09:24:28",
+    "ended_at": "2023-07-16T12:09:28",
+    "pages_read": 257,
+    "device_type": "desktop",
+    "completion_pct": 48.1
+  },
+  {
+    "session_id": "SES00422",
+    "user_id": "USR0063",
+    "book_id": "BOOK038",
+    "started_at": "2022-11-23T06:36:32",
+    "ended_at": "2022-11-23T09:20:32",
+    "pages_read": 207,
+    "device_type": "mobile",
+    "completion_pct": 38.7
+  },
+  {
+    "session_id": "SES00423",
+    "user_id": "USR0036",
+    "book_id": "BOOK018",
+    "started_at": "2022-03-05T18:02:32",
+    "ended_at": "2022-03-05T20:47:32",
+    "pages_read": 402,
+    "device_type": "tablet",
+    "completion_pct": 99.0
+  },
+  {
+    "session_id": "SES00424",
+    "user_id": "USR0051",
+    "book_id": "BOOK027",
+    "started_at": "2023-11-24T11:30:09",
+    "ended_at": "2023-11-24T12:10:09",
+    "pages_read": 25,
+    "device_type": "tablet",
+    "completion_pct": 6.0
+  },
+  {
+    "session_id": "SES00425",
+    "user_id": "USR0166",
+    "book_id": "BOOK046",
+    "started_at": "2023-04-14T07:51:19",
+    "ended_at": "2023-04-14T10:07:19",
+    "pages_read": 170,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00426",
+    "user_id": "USR0140",
+    "book_id": "BOOK022",
+    "started_at": "2022-03-10T01:23:47",
+    "ended_at": "2022-03-10T02:10:47",
+    "pages_read": 41,
+    "device_type": "tablet",
+    "completion_pct": 15.1
+  },
+  {
+    "session_id": "SES00427",
+    "user_id": "USR0191",
+    "book_id": "BOOK035",
+    "started_at": "2024-05-20T11:12:53",
+    "ended_at": "2024-05-20T12:55:53",
+    "pages_read": 235,
+    "device_type": "desktop",
+    "completion_pct": 95.1
+  },
+  {
+    "session_id": "SES00428",
+    "user_id": "USR0170",
+    "book_id": "BOOK018",
+    "started_at": "2023-11-09T11:56:49",
+    "ended_at": "2023-11-09T12:28:49",
+    "pages_read": 46,
+    "device_type": "tablet",
+    "completion_pct": 11.3
+  },
+  {
+    "session_id": "SES00429",
+    "user_id": "USR0132",
+    "book_id": "BOOK003",
+    "started_at": "2022-09-17T07:47:33",
+    "ended_at": "2022-09-17T10:35:33",
+    "pages_read": 176,
+    "device_type": "mobile",
+    "completion_pct": 92.6
+  },
+  {
+    "session_id": "SES00430",
+    "user_id": "USR0077",
+    "book_id": "BOOK006",
+    "started_at": "2024-05-29T12:31:31",
+    "ended_at": "2024-05-29T13:01:31",
+    "pages_read": 62,
+    "device_type": "tablet",
+    "completion_pct": 14.7
+  },
+  {
+    "session_id": "SES00431",
+    "user_id": "USR0051",
+    "book_id": "BOOK053",
+    "started_at": "2024-02-08T23:54:11",
+    "ended_at": "2024-02-09T02:25:11",
+    "pages_read": 154,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00432",
+    "user_id": "USR0045",
+    "book_id": "BOOK059",
+    "started_at": "2024-03-02T03:16:25",
+    "ended_at": "2024-03-02T05:09:25",
+    "pages_read": 183,
+    "device_type": "desktop",
+    "completion_pct": 42.4
+  },
+  {
+    "session_id": "SES00433",
+    "user_id": "USR0105",
+    "book_id": "BOOK037",
+    "started_at": "2022-11-18T10:42:29",
+    "ended_at": "2022-11-18T11:44:29",
+    "pages_read": 31,
+    "device_type": "tablet",
+    "completion_pct": 15.5
+  },
+  {
+    "session_id": "SES00434",
+    "user_id": "USR0058",
+    "book_id": "BOOK002",
+    "started_at": "2024-03-07T14:24:30",
+    "ended_at": "2024-03-07T16:35:30",
+    "pages_read": 197,
+    "device_type": "tablet",
+    "completion_pct": 44.3
+  },
+  {
+    "session_id": "SES00435",
+    "user_id": "USR0138",
+    "book_id": "BOOK036",
+    "started_at": "2023-04-17T07:57:03",
+    "ended_at": "2023-04-17T09:08:03",
+    "pages_read": 77,
+    "device_type": "desktop",
+    "completion_pct": 27.8
+  },
+  {
+    "session_id": "SES00436",
+    "user_id": "USR0146",
+    "book_id": "BOOK018",
+    "started_at": "2022-09-23T19:24:34",
+    "ended_at": "2022-09-23T20:36:34",
+    "pages_read": 42,
+    "device_type": "mobile",
+    "completion_pct": 10.3
+  },
+  {
+    "session_id": "SES00437",
+    "user_id": "USR0077",
+    "book_id": "BOOK006",
+    "started_at": "2024-09-20T14:35:18",
+    "ended_at": "2024-09-20T15:27:18",
+    "pages_read": 123,
+    "device_type": "desktop",
+    "completion_pct": 29.1
+  },
+  {
+    "session_id": "SES00438",
+    "user_id": "USR0037",
+    "book_id": "BOOK037",
+    "started_at": "2022-03-22T00:48:13",
+    "ended_at": "2022-03-22T03:47:13",
+    "pages_read": 200,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00439",
+    "user_id": "USR0140",
+    "book_id": "BOOK017",
+    "started_at": "2022-01-03T04:11:39",
+    "ended_at": "2022-01-03T05:54:39",
+    "pages_read": 181,
+    "device_type": "desktop",
+    "completion_pct": 78.7
+  },
+  {
+    "session_id": "SES00440",
+    "user_id": "USR0086",
+    "book_id": "BOOK012",
+    "started_at": "2024-05-03T06:27:32",
+    "ended_at": "2024-05-03T07:49:32",
+    "pages_read": 159,
+    "device_type": "desktop",
+    "completion_pct": 47.5
+  },
+  {
+    "session_id": "SES00441",
+    "user_id": "USR0163",
+    "book_id": "BOOK040",
+    "started_at": "2023-05-20T07:16:30",
+    "ended_at": "2023-05-20T07:45:30",
+    "pages_read": 50,
+    "device_type": "mobile",
+    "completion_pct": 17.5
+  },
+  {
+    "session_id": "SES00442",
+    "user_id": "USR0094",
+    "book_id": "BOOK031",
+    "started_at": "2023-03-11T11:35:30",
+    "ended_at": "2023-03-11T12:35:30",
+    "pages_read": 60,
+    "device_type": "mobile",
+    "completion_pct": 13.5
+  },
+  {
+    "session_id": "SES00443",
+    "user_id": "USR0141",
+    "book_id": "BOOK016",
+    "started_at": "2023-08-17T09:16:58",
+    "ended_at": "2023-08-17T10:36:58",
+    "pages_read": 179,
+    "device_type": "tablet",
+    "completion_pct": 33.5
+  },
+  {
+    "session_id": "SES00444",
+    "user_id": "USR0161",
+    "book_id": "BOOK077",
+    "started_at": "2022-11-17T06:09:53",
+    "ended_at": "2022-11-17T08:17:53",
+    "pages_read": 120,
+    "device_type": "desktop",
+    "completion_pct": 24.5
+  },
+  {
+    "session_id": "SES00445",
+    "user_id": "USR0055",
+    "book_id": "BOOK053",
+    "started_at": "2022-08-30T18:44:05",
+    "ended_at": "2022-08-30T20:53:05",
+    "pages_read": 124,
+    "device_type": "tablet",
+    "completion_pct": 80.5
+  },
+  {
+    "session_id": "SES00446",
+    "user_id": "USR0114",
+    "book_id": "BOOK050",
+    "started_at": "2022-08-19T10:17:57",
+    "ended_at": "2022-08-19T12:34:57",
+    "pages_read": 94,
+    "device_type": "mobile",
+    "completion_pct": 50.3
+  },
+  {
+    "session_id": "SES00447",
+    "user_id": "USR0121",
+    "book_id": "BOOK026",
+    "started_at": "2022-10-01T13:52:38",
+    "ended_at": "2022-10-01T14:55:38",
+    "pages_read": 103,
+    "device_type": "tablet",
+    "completion_pct": 20.0
+  },
+  {
+    "session_id": "SES00448",
+    "user_id": "USR0049",
+    "book_id": "BOOK039",
+    "started_at": "2022-02-02T16:42:01",
+    "ended_at": "2022-02-02T18:16:01",
+    "pages_read": 77,
+    "device_type": "mobile",
+    "completion_pct": 13.0
+  },
+  {
+    "session_id": "SES00449",
+    "user_id": "USR0103",
+    "book_id": "BOOK027",
+    "started_at": "2022-04-18T21:26:14",
+    "ended_at": "2022-04-18T22:17:14",
+    "pages_read": 32,
+    "device_type": "mobile",
+    "completion_pct": 7.7
+  },
+  {
+    "session_id": "SES00450",
+    "user_id": "USR0120",
+    "book_id": "BOOK054",
+    "started_at": "2022-06-05T16:59:12",
+    "ended_at": "2022-06-05T19:28:12",
+    "pages_read": 115,
+    "device_type": "mobile",
+    "completion_pct": 19.2
+  },
+  {
+    "session_id": "SES00451",
+    "user_id": "USR0161",
+    "book_id": "BOOK015",
+    "started_at": "2023-08-11T00:12:21",
+    "ended_at": "2023-08-11T02:05:21",
+    "pages_read": 61,
+    "device_type": "mobile",
+    "completion_pct": 14.1
+  },
+  {
+    "session_id": "SES00452",
+    "user_id": "USR0173",
+    "book_id": "BOOK006",
+    "started_at": "2022-07-25T07:59:31",
+    "ended_at": "2022-07-25T09:17:31",
+    "pages_read": 159,
+    "device_type": "desktop",
+    "completion_pct": 37.6
+  },
+  {
+    "session_id": "SES00453",
+    "user_id": "USR0039",
+    "book_id": "BOOK002",
+    "started_at": "2022-01-15T14:18:52",
+    "ended_at": "2022-01-15T15:00:52",
+    "pages_read": 66,
+    "device_type": "desktop",
+    "completion_pct": 14.8
+  },
+  {
+    "session_id": "SES00454",
+    "user_id": "USR0190",
+    "book_id": "BOOK012",
+    "started_at": "2022-11-11T07:05:51",
+    "ended_at": "2022-11-11T07:55:51",
+    "pages_read": 73,
+    "device_type": "tablet",
+    "completion_pct": 21.8
+  },
+  {
+    "session_id": "SES00455",
+    "user_id": "USR0117",
+    "book_id": "BOOK023",
+    "started_at": "2023-04-23T12:08:35",
+    "ended_at": "2023-04-23T13:47:35",
+    "pages_read": 144,
+    "device_type": "mobile",
+    "completion_pct": 25.4
+  },
+  {
+    "session_id": "SES00456",
+    "user_id": "USR0015",
+    "book_id": "BOOK076",
+    "started_at": "2023-02-20T11:30:22",
+    "ended_at": "2023-02-20T14:25:22",
+    "pages_read": 277,
+    "device_type": "mobile",
+    "completion_pct": 74.9
+  },
+  {
+    "session_id": "SES00457",
+    "user_id": "USR0012",
+    "book_id": "BOOK016",
+    "started_at": "2024-04-26T01:43:45",
+    "ended_at": "2024-04-26T03:13:45",
+    "pages_read": 63,
+    "device_type": "desktop",
+    "completion_pct": 11.8
+  },
+  {
+    "session_id": "SES00458",
+    "user_id": "USR0039",
+    "book_id": "BOOK001",
+    "started_at": "2022-12-15T10:59:07",
+    "ended_at": "2022-12-15T11:20:07",
+    "pages_read": 20,
+    "device_type": "desktop",
+    "completion_pct": 4.6
+  },
+  {
+    "session_id": "SES00459",
+    "user_id": "USR0040",
+    "book_id": "BOOK048",
+    "started_at": "2024-10-15T01:45:47",
+    "ended_at": "2024-10-15T03:13:47",
+    "pages_read": 83,
+    "device_type": "tablet",
+    "completion_pct": 29.1
+  },
+  {
+    "session_id": "SES00460",
+    "user_id": "USR0101",
+    "book_id": "BOOK017",
+    "started_at": "2024-02-04T00:24:00",
+    "ended_at": "2024-02-04T01:22:00",
+    "pages_read": 143,
+    "device_type": "mobile",
+    "completion_pct": 62.2
+  },
+  {
+    "session_id": "SES00461",
+    "user_id": "USR0028",
+    "book_id": "BOOK039",
+    "started_at": "2023-07-10T01:24:15",
+    "ended_at": "2023-07-10T01:58:15",
+    "pages_read": 58,
+    "device_type": "mobile",
+    "completion_pct": 9.8
+  },
+  {
+    "session_id": "SES00462",
+    "user_id": "USR0095",
+    "book_id": "BOOK012",
+    "started_at": "2022-03-09T08:05:13",
+    "ended_at": "2022-03-09T10:54:13",
+    "pages_read": 135,
+    "device_type": "desktop",
+    "completion_pct": 40.3
+  },
+  {
+    "session_id": "SES00463",
+    "user_id": "USR0139",
+    "book_id": "BOOK045",
+    "started_at": "2024-07-20T11:08:11",
+    "ended_at": "2024-07-20T12:09:11",
+    "pages_read": 113,
+    "device_type": "mobile",
+    "completion_pct": 31.7
+  },
+  {
+    "session_id": "SES00464",
+    "user_id": "USR0179",
+    "book_id": "BOOK041",
+    "started_at": "2024-08-28T12:40:35",
+    "ended_at": "2024-08-28T14:08:35",
+    "pages_read": 105,
+    "device_type": "mobile",
+    "completion_pct": 21.5
+  },
+  {
+    "session_id": "SES00465",
+    "user_id": "USR0072",
+    "book_id": "BOOK068",
+    "started_at": "2024-10-24T23:08:47",
+    "ended_at": "2024-10-25T00:57:47",
+    "pages_read": 257,
+    "device_type": "tablet",
+    "completion_pct": 97.7
+  },
+  {
+    "session_id": "SES00466",
+    "user_id": "USR0020",
+    "book_id": "BOOK001",
+    "started_at": "2022-08-19T21:48:38",
+    "ended_at": "2022-08-19T22:40:38",
+    "pages_read": 59,
+    "device_type": "desktop",
+    "completion_pct": 13.7
+  },
+  {
+    "session_id": "SES00467",
+    "user_id": "USR0118",
+    "book_id": "BOOK066",
+    "started_at": "2022-04-15T13:38:03",
+    "ended_at": "2022-04-15T14:21:03",
+    "pages_read": 71,
+    "device_type": "tablet",
+    "completion_pct": 12.7
+  },
+  {
+    "session_id": "SES00468",
+    "user_id": "USR0074",
+    "book_id": "BOOK021",
+    "started_at": "2022-05-21T12:06:33",
+    "ended_at": "2022-05-21T13:43:33",
+    "pages_read": 241,
+    "device_type": "mobile",
+    "completion_pct": 76.5
+  },
+  {
+    "session_id": "SES00469",
+    "user_id": "USR0101",
+    "book_id": "BOOK048",
+    "started_at": "2023-05-12T00:57:18",
+    "ended_at": "2023-05-12T03:18:18",
+    "pages_read": 190,
+    "device_type": "tablet",
+    "completion_pct": 66.7
+  },
+  {
+    "session_id": "SES00470",
+    "user_id": "USR0108",
+    "book_id": "BOOK045",
+    "started_at": "2022-08-03T17:15:45",
+    "ended_at": "2022-08-03T18:32:45",
+    "pages_read": 97,
+    "device_type": "tablet",
+    "completion_pct": 27.2
+  },
+  {
+    "session_id": "SES00471",
+    "user_id": "USR0131",
+    "book_id": "BOOK075",
+    "started_at": "2024-04-09T04:24:43",
+    "ended_at": "2024-04-09T06:45:43",
+    "pages_read": 220,
+    "device_type": "mobile",
+    "completion_pct": 43.9
+  },
+  {
+    "session_id": "SES00472",
+    "user_id": "USR0101",
+    "book_id": "BOOK012",
+    "started_at": "2024-06-21T11:54:19",
+    "ended_at": "2024-06-21T13:56:19",
+    "pages_read": 189,
+    "device_type": "tablet",
+    "completion_pct": 56.4
+  },
+  {
+    "session_id": "SES00473",
+    "user_id": "USR0200",
+    "book_id": "BOOK031",
+    "started_at": "2022-05-16T12:55:26",
+    "ended_at": "2022-05-16T14:10:26",
+    "pages_read": 91,
+    "device_type": "mobile",
+    "completion_pct": 20.4
+  },
+  {
+    "session_id": "SES00474",
+    "user_id": "USR0005",
+    "book_id": "BOOK049",
+    "started_at": "2024-05-17T09:42:32",
+    "ended_at": "2024-05-17T11:58:32",
+    "pages_read": 328,
+    "device_type": "mobile",
+    "completion_pct": 61.4
+  },
+  {
+    "session_id": "SES00475",
+    "user_id": "USR0016",
+    "book_id": "BOOK047",
+    "started_at": "2023-07-15T13:46:52",
+    "ended_at": "2023-07-15T14:36:52",
+    "pages_read": 54,
+    "device_type": "mobile",
+    "completion_pct": 17.4
+  },
+  {
+    "session_id": "SES00476",
+    "user_id": "USR0146",
+    "book_id": "BOOK056",
+    "started_at": "2023-01-12T16:57:31",
+    "ended_at": "2023-01-12T18:05:31",
+    "pages_read": 146,
+    "device_type": "mobile",
+    "completion_pct": 29.1
+  },
+  {
+    "session_id": "SES00477",
+    "user_id": "USR0200",
+    "book_id": "BOOK020",
+    "started_at": "2022-07-02T02:52:03",
+    "ended_at": "2022-07-02T03:43:03",
+    "pages_read": 64,
+    "device_type": "mobile",
+    "completion_pct": 15.0
+  },
+  {
+    "session_id": "SES00478",
+    "user_id": "USR0187",
+    "book_id": "BOOK057",
+    "started_at": "2023-08-01T09:23:33",
+    "ended_at": "2023-08-01T09:51:33",
+    "pages_read": 53,
+    "device_type": "tablet",
+    "completion_pct": 26.9
+  },
+  {
+    "session_id": "SES00479",
+    "user_id": "USR0154",
+    "book_id": "BOOK011",
+    "started_at": "2024-01-11T17:22:58",
+    "ended_at": "2024-01-11T20:09:58",
+    "pages_read": 374,
+    "device_type": "mobile",
+    "completion_pct": 88.0
+  },
+  {
+    "session_id": "SES00480",
+    "user_id": "USR0040",
+    "book_id": "BOOK049",
+    "started_at": "2022-08-08T11:12:24",
+    "ended_at": "2022-08-08T11:47:24",
+    "pages_read": 34,
+    "device_type": "mobile",
+    "completion_pct": 6.4
+  },
+  {
+    "session_id": "SES00481",
+    "user_id": "USR0150",
+    "book_id": "BOOK056",
+    "started_at": "2022-08-21T13:51:45",
+    "ended_at": "2022-08-21T14:52:45",
+    "pages_read": 87,
+    "device_type": "mobile",
+    "completion_pct": 17.4
+  },
+  {
+    "session_id": "SES00482",
+    "user_id": "USR0200",
+    "book_id": "BOOK074",
+    "started_at": "2023-04-11T06:27:22",
+    "ended_at": "2023-04-11T08:42:22",
+    "pages_read": 178,
+    "device_type": "desktop",
+    "completion_pct": 72.1
+  },
+  {
+    "session_id": "SES00483",
+    "user_id": "USR0117",
+    "book_id": "BOOK002",
+    "started_at": "2023-03-22T11:31:33",
+    "ended_at": "2023-03-22T12:14:33",
+    "pages_read": 34,
+    "device_type": "tablet",
+    "completion_pct": 7.6
+  },
+  {
+    "session_id": "SES00484",
+    "user_id": "USR0009",
+    "book_id": "BOOK025",
+    "started_at": "2024-02-21T20:12:48",
+    "ended_at": "2024-02-21T21:08:48",
+    "pages_read": 29,
+    "device_type": "desktop",
+    "completion_pct": 7.9
+  },
+  {
+    "session_id": "SES00485",
+    "user_id": "USR0183",
+    "book_id": "BOOK063",
+    "started_at": "2024-05-10T20:25:48",
+    "ended_at": "2024-05-10T21:46:48",
+    "pages_read": 189,
+    "device_type": "tablet",
+    "completion_pct": 31.7
+  },
+  {
+    "session_id": "SES00486",
+    "user_id": "USR0081",
+    "book_id": "BOOK032",
+    "started_at": "2023-10-21T03:34:19",
+    "ended_at": "2023-10-21T04:29:19",
+    "pages_read": 57,
+    "device_type": "mobile",
+    "completion_pct": 28.8
+  },
+  {
+    "session_id": "SES00487",
+    "user_id": "USR0137",
+    "book_id": "BOOK051",
+    "started_at": "2022-07-14T09:18:34",
+    "ended_at": "2022-07-14T10:27:34",
+    "pages_read": 89,
+    "device_type": "mobile",
+    "completion_pct": 48.1
+  },
+  {
+    "session_id": "SES00488",
+    "user_id": "USR0059",
+    "book_id": "BOOK053",
+    "started_at": "2022-10-13T08:36:00",
+    "ended_at": "2022-10-13T11:14:00",
+    "pages_read": 154,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00489",
+    "user_id": "USR0186",
+    "book_id": "BOOK064",
+    "started_at": "2024-01-12T15:22:06",
+    "ended_at": "2024-01-12T16:57:06",
+    "pages_read": 171,
+    "device_type": "desktop",
+    "completion_pct": 28.9
+  },
+  {
+    "session_id": "SES00490",
+    "user_id": "USR0100",
+    "book_id": "BOOK024",
+    "started_at": "2022-03-26T22:18:25",
+    "ended_at": "2022-03-27T00:08:25",
+    "pages_read": 197,
+    "device_type": "mobile",
+    "completion_pct": 40.5
+  },
+  {
+    "session_id": "SES00491",
+    "user_id": "USR0072",
+    "book_id": "BOOK016",
+    "started_at": "2022-06-12T04:18:59",
+    "ended_at": "2022-06-12T04:52:59",
+    "pages_read": 41,
+    "device_type": "desktop",
+    "completion_pct": 7.7
+  },
+  {
+    "session_id": "SES00492",
+    "user_id": "USR0008",
+    "book_id": "BOOK033",
+    "started_at": "2023-03-15T09:26:13",
+    "ended_at": "2023-03-15T10:22:13",
+    "pages_read": 88,
+    "device_type": "mobile",
+    "completion_pct": 14.9
+  },
+  {
+    "session_id": "SES00493",
+    "user_id": "USR0057",
+    "book_id": "BOOK002",
+    "started_at": "2023-04-26T04:49:59",
+    "ended_at": "2023-04-26T05:52:59",
+    "pages_read": 101,
+    "device_type": "tablet",
+    "completion_pct": 22.7
+  },
+  {
+    "session_id": "SES00494",
+    "user_id": "USR0009",
+    "book_id": "BOOK033",
+    "started_at": "2023-02-23T03:18:39",
+    "ended_at": "2023-02-23T03:54:39",
+    "pages_read": 88,
+    "device_type": "tablet",
+    "completion_pct": 14.9
+  },
+  {
+    "session_id": "SES00495",
+    "user_id": "USR0012",
+    "book_id": "BOOK079",
+    "started_at": "2024-01-22T13:37:55",
+    "ended_at": "2024-01-22T14:03:55",
+    "pages_read": 15,
+    "device_type": "mobile",
+    "completion_pct": 6.0
+  },
+  {
+    "session_id": "SES00496",
+    "user_id": "USR0082",
+    "book_id": "BOOK002",
+    "started_at": "2023-07-09T00:50:37",
+    "ended_at": "2023-07-09T02:17:37",
+    "pages_read": 210,
+    "device_type": "tablet",
+    "completion_pct": 47.2
+  },
+  {
+    "session_id": "SES00497",
+    "user_id": "USR0052",
+    "book_id": "BOOK043",
+    "started_at": "2023-08-30T20:09:48",
+    "ended_at": "2023-08-30T21:55:48",
+    "pages_read": 259,
+    "device_type": "tablet",
+    "completion_pct": 57.7
+  },
+  {
+    "session_id": "SES00498",
+    "user_id": "USR0181",
+    "book_id": "BOOK015",
+    "started_at": "2023-05-30T16:26:14",
+    "ended_at": "2023-05-30T18:25:14",
+    "pages_read": 272,
+    "device_type": "tablet",
+    "completion_pct": 62.8
+  },
+  {
+    "session_id": "SES00499",
+    "user_id": "USR0027",
+    "book_id": "BOOK070",
+    "started_at": "2022-08-22T07:21:52",
+    "ended_at": "2022-08-22T07:42:52",
+    "pages_read": 35,
+    "device_type": "desktop",
+    "completion_pct": 6.4
+  },
+  {
+    "session_id": "SES00500",
+    "user_id": "USR0126",
+    "book_id": "BOOK005",
+    "started_at": "2023-03-27T16:26:04",
+    "ended_at": "2023-03-27T17:22:04",
+    "pages_read": 44,
+    "device_type": "desktop",
+    "completion_pct": 8.6
+  },
+  {
+    "session_id": "SES00501",
+    "user_id": "USR0021",
+    "book_id": "BOOK014",
+    "started_at": "2022-12-26T17:33:29",
+    "ended_at": "2022-12-26T18:43:29",
+    "pages_read": 148,
+    "device_type": "tablet",
+    "completion_pct": 32.5
+  },
+  {
+    "session_id": "SES00502",
+    "user_id": "USR0039",
+    "book_id": "BOOK023",
+    "started_at": "2024-02-19T05:44:45",
+    "ended_at": "2024-02-19T08:11:45",
+    "pages_read": 365,
+    "device_type": "tablet",
+    "completion_pct": 64.4
+  },
+  {
+    "session_id": "SES00503",
+    "user_id": "USR0175",
+    "book_id": "BOOK073",
+    "started_at": "2023-06-15T08:53:04",
+    "ended_at": "2023-06-15T11:02:04",
+    "pages_read": 267,
+    "device_type": "desktop",
+    "completion_pct": 71.6
+  },
+  {
+    "session_id": "SES00504",
+    "user_id": "USR0077",
+    "book_id": "BOOK049",
+    "started_at": "2024-08-26T12:40:29",
+    "ended_at": "2024-08-26T14:45:29",
+    "pages_read": 72,
+    "device_type": "tablet",
+    "completion_pct": 13.5
+  },
+  {
+    "session_id": "SES00505",
+    "user_id": "USR0183",
+    "book_id": "BOOK052",
+    "started_at": "2023-01-07T10:41:25",
+    "ended_at": "2023-01-07T11:49:25",
+    "pages_read": 169,
+    "device_type": "tablet",
+    "completion_pct": 33.1
+  },
+  {
+    "session_id": "SES00506",
+    "user_id": "USR0020",
+    "book_id": "BOOK022",
+    "started_at": "2024-05-30T15:35:45",
+    "ended_at": "2024-05-30T18:30:45",
+    "pages_read": 272,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00507",
+    "user_id": "USR0004",
+    "book_id": "BOOK021",
+    "started_at": "2023-04-26T20:34:25",
+    "ended_at": "2023-04-26T23:09:25",
+    "pages_read": 315,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00508",
+    "user_id": "USR0131",
+    "book_id": "BOOK015",
+    "started_at": "2023-12-08T12:27:57",
+    "ended_at": "2023-12-08T14:02:57",
+    "pages_read": 79,
+    "device_type": "desktop",
+    "completion_pct": 18.2
+  },
+  {
+    "session_id": "SES00509",
+    "user_id": "USR0044",
+    "book_id": "BOOK010",
+    "started_at": "2023-03-12T03:31:50",
+    "ended_at": "2023-03-12T06:13:50",
+    "pages_read": 198,
+    "device_type": "mobile",
+    "completion_pct": 41.3
+  },
+  {
+    "session_id": "SES00510",
+    "user_id": "USR0019",
+    "book_id": "BOOK025",
+    "started_at": "2023-12-17T17:40:30",
+    "ended_at": "2023-12-17T19:01:30",
+    "pages_read": 200,
+    "device_type": "desktop",
+    "completion_pct": 54.6
+  },
+  {
+    "session_id": "SES00511",
+    "user_id": "USR0117",
+    "book_id": "BOOK020",
+    "started_at": "2022-07-12T13:47:44",
+    "ended_at": "2022-07-12T16:27:44",
+    "pages_read": 236,
+    "device_type": "desktop",
+    "completion_pct": 55.4
+  },
+  {
+    "session_id": "SES00512",
+    "user_id": "USR0076",
+    "book_id": "BOOK054",
+    "started_at": "2023-09-28T09:51:50",
+    "ended_at": "2023-09-28T12:44:50",
+    "pages_read": 403,
+    "device_type": "mobile",
+    "completion_pct": 67.3
+  },
+  {
+    "session_id": "SES00513",
+    "user_id": "USR0115",
+    "book_id": "BOOK049",
+    "started_at": "2024-03-07T02:36:40",
+    "ended_at": "2024-03-07T05:30:40",
+    "pages_read": 418,
+    "device_type": "desktop",
+    "completion_pct": 78.3
+  },
+  {
+    "session_id": "SES00514",
+    "user_id": "USR0022",
+    "book_id": "BOOK055",
+    "started_at": "2024-02-25T22:54:03",
+    "ended_at": "2024-02-26T01:04:03",
+    "pages_read": 133,
+    "device_type": "tablet",
+    "completion_pct": 58.1
+  },
+  {
+    "session_id": "SES00515",
+    "user_id": "USR0011",
+    "book_id": "BOOK009",
+    "started_at": "2023-01-16T07:25:52",
+    "ended_at": "2023-01-16T10:03:52",
+    "pages_read": 81,
+    "device_type": "mobile",
+    "completion_pct": 18.4
+  },
+  {
+    "session_id": "SES00516",
+    "user_id": "USR0077",
+    "book_id": "BOOK051",
+    "started_at": "2022-09-03T18:20:23",
+    "ended_at": "2022-09-03T21:00:23",
+    "pages_read": 185,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00517",
+    "user_id": "USR0060",
+    "book_id": "BOOK052",
+    "started_at": "2023-12-20T02:59:39",
+    "ended_at": "2023-12-20T03:37:39",
+    "pages_read": 45,
+    "device_type": "desktop",
+    "completion_pct": 8.8
+  },
+  {
+    "session_id": "SES00518",
+    "user_id": "USR0173",
+    "book_id": "BOOK075",
+    "started_at": "2023-12-24T02:58:33",
+    "ended_at": "2023-12-24T03:40:33",
+    "pages_read": 28,
+    "device_type": "tablet",
+    "completion_pct": 5.6
+  },
+  {
+    "session_id": "SES00519",
+    "user_id": "USR0029",
+    "book_id": "BOOK053",
+    "started_at": "2023-11-04T19:40:30",
+    "ended_at": "2023-11-04T20:46:30",
+    "pages_read": 86,
+    "device_type": "mobile",
+    "completion_pct": 55.8
+  },
+  {
+    "session_id": "SES00520",
+    "user_id": "USR0084",
+    "book_id": "BOOK046",
+    "started_at": "2024-07-27T20:31:30",
+    "ended_at": "2024-07-27T22:50:30",
+    "pages_read": 128,
+    "device_type": "tablet",
+    "completion_pct": 75.3
+  },
+  {
+    "session_id": "SES00521",
+    "user_id": "USR0125",
+    "book_id": "BOOK017",
+    "started_at": "2023-03-09T10:34:28",
+    "ended_at": "2023-03-09T12:45:28",
+    "pages_read": 75,
+    "device_type": "mobile",
+    "completion_pct": 32.6
+  },
+  {
+    "session_id": "SES00522",
+    "user_id": "USR0124",
+    "book_id": "BOOK021",
+    "started_at": "2024-09-21T12:59:48",
+    "ended_at": "2024-09-21T14:08:48",
+    "pages_read": 78,
+    "device_type": "mobile",
+    "completion_pct": 24.8
+  },
+  {
+    "session_id": "SES00523",
+    "user_id": "USR0160",
+    "book_id": "BOOK051",
+    "started_at": "2022-04-07T22:27:00",
+    "ended_at": "2022-04-08T00:14:00",
+    "pages_read": 185,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00524",
+    "user_id": "USR0057",
+    "book_id": "BOOK007",
+    "started_at": "2022-11-25T13:01:34",
+    "ended_at": "2022-11-25T13:21:34",
+    "pages_read": 48,
+    "device_type": "tablet",
+    "completion_pct": 18.3
+  },
+  {
+    "session_id": "SES00525",
+    "user_id": "USR0111",
+    "book_id": "BOOK037",
+    "started_at": "2023-01-27T13:53:55",
+    "ended_at": "2023-01-27T16:50:55",
+    "pages_read": 150,
+    "device_type": "mobile",
+    "completion_pct": 75.0
+  },
+  {
+    "session_id": "SES00526",
+    "user_id": "USR0018",
+    "book_id": "BOOK038",
+    "started_at": "2023-09-22T06:02:51",
+    "ended_at": "2023-09-22T06:37:51",
+    "pages_read": 38,
+    "device_type": "tablet",
+    "completion_pct": 7.1
+  },
+  {
+    "session_id": "SES00527",
+    "user_id": "USR0119",
+    "book_id": "BOOK056",
+    "started_at": "2024-03-26T05:08:23",
+    "ended_at": "2024-03-26T06:17:23",
+    "pages_read": 126,
+    "device_type": "desktop",
+    "completion_pct": 25.1
+  },
+  {
+    "session_id": "SES00528",
+    "user_id": "USR0050",
+    "book_id": "BOOK007",
+    "started_at": "2022-05-24T14:27:35",
+    "ended_at": "2022-05-24T16:31:35",
+    "pages_read": 146,
+    "device_type": "desktop",
+    "completion_pct": 55.7
+  },
+  {
+    "session_id": "SES00529",
+    "user_id": "USR0045",
+    "book_id": "BOOK028",
+    "started_at": "2023-06-27T13:57:45",
+    "ended_at": "2023-06-27T15:59:45",
+    "pages_read": 178,
+    "device_type": "tablet",
+    "completion_pct": 39.5
+  },
+  {
+    "session_id": "SES00530",
+    "user_id": "USR0185",
+    "book_id": "BOOK023",
+    "started_at": "2023-11-10T12:29:14",
+    "ended_at": "2023-11-10T14:14:14",
+    "pages_read": 244,
+    "device_type": "tablet",
+    "completion_pct": 43.0
+  },
+  {
+    "session_id": "SES00531",
+    "user_id": "USR0102",
+    "book_id": "BOOK002",
+    "started_at": "2024-05-21T08:10:56",
+    "ended_at": "2024-05-21T10:57:56",
+    "pages_read": 149,
+    "device_type": "tablet",
+    "completion_pct": 33.5
+  },
+  {
+    "session_id": "SES00532",
+    "user_id": "USR0179",
+    "book_id": "BOOK021",
+    "started_at": "2023-05-18T21:37:30",
+    "ended_at": "2023-05-18T23:13:30",
+    "pages_read": 50,
+    "device_type": "desktop",
+    "completion_pct": 15.9
+  },
+  {
+    "session_id": "SES00533",
+    "user_id": "USR0040",
+    "book_id": "BOOK068",
+    "started_at": "2023-05-07T12:32:21",
+    "ended_at": "2023-05-07T13:16:21",
+    "pages_read": 91,
+    "device_type": "tablet",
+    "completion_pct": 34.6
+  },
+  {
+    "session_id": "SES00534",
+    "user_id": "USR0107",
+    "book_id": "BOOK036",
+    "started_at": "2024-03-19T20:47:36",
+    "ended_at": "2024-03-19T21:02:36",
+    "pages_read": 37,
+    "device_type": "mobile",
+    "completion_pct": 13.4
+  },
+  {
+    "session_id": "SES00535",
+    "user_id": "USR0171",
+    "book_id": "BOOK062",
+    "started_at": "2024-09-19T12:31:46",
+    "ended_at": "2024-09-19T15:14:46",
+    "pages_read": 113,
+    "device_type": "mobile",
+    "completion_pct": 33.9
+  },
+  {
+    "session_id": "SES00536",
+    "user_id": "USR0199",
+    "book_id": "BOOK027",
+    "started_at": "2023-10-15T17:18:02",
+    "ended_at": "2023-10-15T19:52:02",
+    "pages_read": 315,
+    "device_type": "tablet",
+    "completion_pct": 76.1
+  },
+  {
+    "session_id": "SES00537",
+    "user_id": "USR0099",
+    "book_id": "BOOK030",
+    "started_at": "2023-06-25T17:34:12",
+    "ended_at": "2023-06-25T18:42:12",
+    "pages_read": 163,
+    "device_type": "tablet",
+    "completion_pct": 60.1
+  },
+  {
+    "session_id": "SES00538",
+    "user_id": "USR0152",
+    "book_id": "BOOK002",
+    "started_at": "2023-07-30T04:09:34",
+    "ended_at": "2023-07-30T05:57:34",
+    "pages_read": 57,
+    "device_type": "desktop",
+    "completion_pct": 12.8
+  },
+  {
+    "session_id": "SES00539",
+    "user_id": "USR0132",
+    "book_id": "BOOK018",
+    "started_at": "2024-02-15T08:56:23",
+    "ended_at": "2024-02-15T11:07:23",
+    "pages_read": 173,
+    "device_type": "desktop",
+    "completion_pct": 42.6
+  },
+  {
+    "session_id": "SES00540",
+    "user_id": "USR0093",
+    "book_id": "BOOK076",
+    "started_at": "2023-10-24T12:48:31",
+    "ended_at": "2023-10-24T15:16:31",
+    "pages_read": 362,
+    "device_type": "desktop",
+    "completion_pct": 97.8
+  },
+  {
+    "session_id": "SES00541",
+    "user_id": "USR0031",
+    "book_id": "BOOK025",
+    "started_at": "2023-12-14T18:10:56",
+    "ended_at": "2023-12-14T20:14:56",
+    "pages_read": 154,
+    "device_type": "tablet",
+    "completion_pct": 42.1
+  },
+  {
+    "session_id": "SES00542",
+    "user_id": "USR0159",
+    "book_id": "BOOK023",
+    "started_at": "2024-04-23T03:40:00",
+    "ended_at": "2024-04-23T05:46:00",
+    "pages_read": 159,
+    "device_type": "tablet",
+    "completion_pct": 28.0
+  },
+  {
+    "session_id": "SES00543",
+    "user_id": "USR0185",
+    "book_id": "BOOK058",
+    "started_at": "2024-09-12T01:13:52",
+    "ended_at": "2024-09-12T02:40:52",
+    "pages_read": 165,
+    "device_type": "mobile",
+    "completion_pct": 30.3
+  },
+  {
+    "session_id": "SES00544",
+    "user_id": "USR0023",
+    "book_id": "BOOK016",
+    "started_at": "2022-05-20T05:56:40",
+    "ended_at": "2022-05-20T06:15:40",
+    "pages_read": 32,
+    "device_type": "desktop",
+    "completion_pct": 6.0
+  },
+  {
+    "session_id": "SES00545",
+    "user_id": "USR0028",
+    "book_id": "BOOK068",
+    "started_at": "2024-08-27T01:54:26",
+    "ended_at": "2024-08-27T04:28:26",
+    "pages_read": 107,
+    "device_type": "desktop",
+    "completion_pct": 40.7
+  },
+  {
+    "session_id": "SES00546",
+    "user_id": "USR0132",
+    "book_id": "BOOK005",
+    "started_at": "2024-11-03T06:02:17",
+    "ended_at": "2024-11-03T07:31:17",
+    "pages_read": 196,
+    "device_type": "mobile",
+    "completion_pct": 38.5
+  },
+  {
+    "session_id": "SES00547",
+    "user_id": "USR0060",
+    "book_id": "BOOK063",
+    "started_at": "2024-05-06T20:41:16",
+    "ended_at": "2024-05-06T22:33:16",
+    "pages_read": 81,
+    "device_type": "desktop",
+    "completion_pct": 13.6
+  },
+  {
+    "session_id": "SES00548",
+    "user_id": "USR0034",
+    "book_id": "BOOK047",
+    "started_at": "2023-12-22T17:12:09",
+    "ended_at": "2023-12-22T19:12:09",
+    "pages_read": 277,
+    "device_type": "tablet",
+    "completion_pct": 89.1
+  },
+  {
+    "session_id": "SES00549",
+    "user_id": "USR0189",
+    "book_id": "BOOK053",
+    "started_at": "2022-01-12T19:32:23",
+    "ended_at": "2022-01-12T21:22:23",
+    "pages_read": 154,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00550",
+    "user_id": "USR0075",
+    "book_id": "BOOK037",
+    "started_at": "2024-10-20T05:26:20",
+    "ended_at": "2024-10-20T06:48:20",
+    "pages_read": 91,
+    "device_type": "desktop",
+    "completion_pct": 45.5
+  },
+  {
+    "session_id": "SES00551",
+    "user_id": "USR0181",
+    "book_id": "BOOK033",
+    "started_at": "2022-01-07T11:00:17",
+    "ended_at": "2022-01-07T13:01:17",
+    "pages_read": 68,
+    "device_type": "mobile",
+    "completion_pct": 11.5
+  },
+  {
+    "session_id": "SES00552",
+    "user_id": "USR0042",
+    "book_id": "BOOK050",
+    "started_at": "2024-03-17T04:21:07",
+    "ended_at": "2024-03-17T07:09:07",
+    "pages_read": 187,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00553",
+    "user_id": "USR0151",
+    "book_id": "BOOK058",
+    "started_at": "2023-01-11T16:07:02",
+    "ended_at": "2023-01-11T18:44:02",
+    "pages_read": 384,
+    "device_type": "mobile",
+    "completion_pct": 70.6
+  },
+  {
+    "session_id": "SES00554",
+    "user_id": "USR0164",
+    "book_id": "BOOK053",
+    "started_at": "2022-03-22T03:04:43",
+    "ended_at": "2022-03-22T05:46:43",
+    "pages_read": 154,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00555",
+    "user_id": "USR0102",
+    "book_id": "BOOK025",
+    "started_at": "2023-09-19T05:21:58",
+    "ended_at": "2023-09-19T06:57:58",
+    "pages_read": 147,
+    "device_type": "desktop",
+    "completion_pct": 40.2
+  },
+  {
+    "session_id": "SES00556",
+    "user_id": "USR0062",
+    "book_id": "BOOK015",
+    "started_at": "2022-07-16T05:56:03",
+    "ended_at": "2022-07-16T08:20:03",
+    "pages_read": 106,
+    "device_type": "tablet",
+    "completion_pct": 24.5
+  },
+  {
+    "session_id": "SES00557",
+    "user_id": "USR0103",
+    "book_id": "BOOK036",
+    "started_at": "2024-05-08T21:48:41",
+    "ended_at": "2024-05-08T22:43:41",
+    "pages_read": 131,
+    "device_type": "mobile",
+    "completion_pct": 47.3
+  },
+  {
+    "session_id": "SES00558",
+    "user_id": "USR0024",
+    "book_id": "BOOK014",
+    "started_at": "2022-02-09T19:56:13",
+    "ended_at": "2022-02-09T22:02:13",
+    "pages_read": 65,
+    "device_type": "tablet",
+    "completion_pct": 14.3
+  },
+  {
+    "session_id": "SES00559",
+    "user_id": "USR0042",
+    "book_id": "BOOK004",
+    "started_at": "2024-08-18T04:25:29",
+    "ended_at": "2024-08-18T06:59:29",
+    "pages_read": 360,
+    "device_type": "mobile",
+    "completion_pct": 75.8
+  },
+  {
+    "session_id": "SES00560",
+    "user_id": "USR0151",
+    "book_id": "BOOK051",
+    "started_at": "2022-02-09T06:52:29",
+    "ended_at": "2022-02-09T07:40:29",
+    "pages_read": 118,
+    "device_type": "tablet",
+    "completion_pct": 63.8
+  },
+  {
+    "session_id": "SES00561",
+    "user_id": "USR0170",
+    "book_id": "BOOK048",
+    "started_at": "2022-10-17T19:16:51",
+    "ended_at": "2022-10-17T20:32:51",
+    "pages_read": 137,
+    "device_type": "mobile",
+    "completion_pct": 48.1
+  },
+  {
+    "session_id": "SES00562",
+    "user_id": "USR0079",
+    "book_id": "BOOK027",
+    "started_at": "2024-04-11T17:48:02",
+    "ended_at": "2024-04-11T19:05:02",
+    "pages_read": 150,
+    "device_type": "desktop",
+    "completion_pct": 36.2
+  },
+  {
+    "session_id": "SES00563",
+    "user_id": "USR0069",
+    "book_id": "BOOK007",
+    "started_at": "2023-03-04T03:25:54",
+    "ended_at": "2023-03-04T04:01:54",
+    "pages_read": 85,
+    "device_type": "tablet",
+    "completion_pct": 32.4
+  },
+  {
+    "session_id": "SES00564",
+    "user_id": "USR0006",
+    "book_id": "BOOK016",
+    "started_at": "2022-06-22T07:49:36",
+    "ended_at": "2022-06-22T10:01:36",
+    "pages_read": 310,
+    "device_type": "mobile",
+    "completion_pct": 58.1
+  },
+  {
+    "session_id": "SES00565",
+    "user_id": "USR0029",
+    "book_id": "BOOK021",
+    "started_at": "2023-03-15T18:59:07",
+    "ended_at": "2023-03-15T20:21:07",
+    "pages_read": 187,
+    "device_type": "mobile",
+    "completion_pct": 59.4
+  },
+  {
+    "session_id": "SES00566",
+    "user_id": "USR0020",
+    "book_id": "BOOK068",
+    "started_at": "2023-07-16T09:52:06",
+    "ended_at": "2023-07-16T11:00:06",
+    "pages_read": 87,
+    "device_type": "desktop",
+    "completion_pct": 33.1
+  },
+  {
+    "session_id": "SES00567",
+    "user_id": "USR0006",
+    "book_id": "BOOK055",
+    "started_at": "2022-04-25T07:06:39",
+    "ended_at": "2022-04-25T09:25:39",
+    "pages_read": 229,
+    "device_type": "mobile",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00568",
+    "user_id": "USR0056",
+    "book_id": "BOOK056",
+    "started_at": "2023-08-06T22:29:48",
+    "ended_at": "2023-08-07T00:04:48",
+    "pages_read": 167,
+    "device_type": "desktop",
+    "completion_pct": 33.3
+  },
+  {
+    "session_id": "SES00569",
+    "user_id": "USR0044",
+    "book_id": "BOOK026",
+    "started_at": "2023-04-10T02:23:35",
+    "ended_at": "2023-04-10T02:40:35",
+    "pages_read": 39,
+    "device_type": "tablet",
+    "completion_pct": 7.6
+  },
+  {
+    "session_id": "SES00570",
+    "user_id": "USR0150",
+    "book_id": "BOOK005",
+    "started_at": "2022-07-02T01:47:55",
+    "ended_at": "2022-07-02T03:29:55",
+    "pages_read": 253,
+    "device_type": "desktop",
+    "completion_pct": 49.7
+  },
+  {
+    "session_id": "SES00571",
+    "user_id": "USR0164",
+    "book_id": "BOOK076",
+    "started_at": "2022-01-08T18:57:22",
+    "ended_at": "2022-01-08T19:52:22",
+    "pages_read": 84,
+    "device_type": "desktop",
+    "completion_pct": 22.7
+  },
+  {
+    "session_id": "SES00572",
+    "user_id": "USR0034",
+    "book_id": "BOOK027",
+    "started_at": "2024-07-30T13:26:51",
+    "ended_at": "2024-07-30T13:48:51",
+    "pages_read": 34,
+    "device_type": "tablet",
+    "completion_pct": 8.2
+  },
+  {
+    "session_id": "SES00573",
+    "user_id": "USR0135",
+    "book_id": "BOOK022",
+    "started_at": "2022-12-03T00:29:30",
+    "ended_at": "2022-12-03T02:17:30",
+    "pages_read": 78,
+    "device_type": "mobile",
+    "completion_pct": 28.7
+  },
+  {
+    "session_id": "SES00574",
+    "user_id": "USR0008",
+    "book_id": "BOOK044",
+    "started_at": "2022-08-04T06:04:42",
+    "ended_at": "2022-08-04T07:15:42",
+    "pages_read": 47,
+    "device_type": "tablet",
+    "completion_pct": 11.5
+  },
+  {
+    "session_id": "SES00575",
+    "user_id": "USR0035",
+    "book_id": "BOOK037",
+    "started_at": "2023-03-02T03:01:33",
+    "ended_at": "2023-03-02T05:19:33",
+    "pages_read": 123,
+    "device_type": "mobile",
+    "completion_pct": 61.5
+  },
+  {
+    "session_id": "SES00576",
+    "user_id": "USR0092",
+    "book_id": "BOOK077",
+    "started_at": "2024-10-09T17:30:29",
+    "ended_at": "2024-10-09T19:00:29",
+    "pages_read": 129,
+    "device_type": "desktop",
+    "completion_pct": 26.4
+  },
+  {
+    "session_id": "SES00577",
+    "user_id": "USR0114",
+    "book_id": "BOOK071",
+    "started_at": "2023-09-14T06:55:26",
+    "ended_at": "2023-09-14T07:59:26",
+    "pages_read": 64,
+    "device_type": "mobile",
+    "completion_pct": 20.1
+  },
+  {
+    "session_id": "SES00578",
+    "user_id": "USR0184",
+    "book_id": "BOOK038",
+    "started_at": "2023-09-03T05:36:43",
+    "ended_at": "2023-09-03T06:17:43",
+    "pages_read": 68,
+    "device_type": "tablet",
+    "completion_pct": 12.7
+  },
+  {
+    "session_id": "SES00579",
+    "user_id": "USR0082",
+    "book_id": "BOOK024",
+    "started_at": "2022-11-16T17:57:56",
+    "ended_at": "2022-11-16T20:16:56",
+    "pages_read": 190,
+    "device_type": "desktop",
+    "completion_pct": 39.0
+  },
+  {
+    "session_id": "SES00580",
+    "user_id": "USR0111",
+    "book_id": "BOOK037",
+    "started_at": "2023-05-11T03:48:44",
+    "ended_at": "2023-05-11T06:42:44",
+    "pages_read": 124,
+    "device_type": "desktop",
+    "completion_pct": 62.0
+  },
+  {
+    "session_id": "SES00581",
+    "user_id": "USR0112",
+    "book_id": "BOOK028",
+    "started_at": "2024-05-31T00:35:15",
+    "ended_at": "2024-05-31T02:20:15",
+    "pages_read": 131,
+    "device_type": "tablet",
+    "completion_pct": 29.0
+  },
+  {
+    "session_id": "SES00582",
+    "user_id": "USR0017",
+    "book_id": "BOOK062",
+    "started_at": "2022-09-17T19:29:47",
+    "ended_at": "2022-09-17T19:52:47",
+    "pages_read": 55,
+    "device_type": "desktop",
+    "completion_pct": 16.5
+  },
+  {
+    "session_id": "SES00583",
+    "user_id": "USR0157",
+    "book_id": "BOOK055",
+    "started_at": "2023-04-01T21:29:12",
+    "ended_at": "2023-04-02T00:18:12",
+    "pages_read": 229,
+    "device_type": "tablet",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00584",
+    "user_id": "USR0139",
+    "book_id": "BOOK048",
+    "started_at": "2023-09-11T17:56:56",
+    "ended_at": "2023-09-11T18:18:56",
+    "pages_read": 16,
+    "device_type": "desktop",
+    "completion_pct": 5.6
+  },
+  {
+    "session_id": "SES00585",
+    "user_id": "USR0112",
+    "book_id": "BOOK026",
+    "started_at": "2023-07-10T17:40:56",
+    "ended_at": "2023-07-10T18:57:56",
+    "pages_read": 49,
+    "device_type": "tablet",
+    "completion_pct": 9.5
+  },
+  {
+    "session_id": "SES00586",
+    "user_id": "USR0098",
+    "book_id": "BOOK050",
+    "started_at": "2022-08-14T07:28:15",
+    "ended_at": "2022-08-14T09:03:15",
+    "pages_read": 70,
+    "device_type": "desktop",
+    "completion_pct": 37.4
+  },
+  {
+    "session_id": "SES00587",
+    "user_id": "USR0185",
+    "book_id": "BOOK002",
+    "started_at": "2023-05-26T21:08:22",
+    "ended_at": "2023-05-26T22:17:22",
+    "pages_read": 98,
+    "device_type": "desktop",
+    "completion_pct": 22.0
+  },
+  {
+    "session_id": "SES00588",
+    "user_id": "USR0062",
+    "book_id": "BOOK078",
+    "started_at": "2022-04-13T21:25:30",
+    "ended_at": "2022-04-13T23:18:30",
+    "pages_read": 120,
+    "device_type": "mobile",
+    "completion_pct": 24.4
+  },
+  {
+    "session_id": "SES00589",
+    "user_id": "USR0138",
+    "book_id": "BOOK030",
+    "started_at": "2022-06-09T21:08:34",
+    "ended_at": "2022-06-09T23:46:34",
+    "pages_read": 166,
+    "device_type": "tablet",
+    "completion_pct": 61.3
+  },
+  {
+    "session_id": "SES00590",
+    "user_id": "USR0180",
+    "book_id": "BOOK011",
+    "started_at": "2024-06-10T14:20:49",
+    "ended_at": "2024-06-10T17:20:49",
+    "pages_read": 241,
+    "device_type": "desktop",
+    "completion_pct": 56.7
+  },
+  {
+    "session_id": "SES00591",
+    "user_id": "USR0084",
+    "book_id": "BOOK043",
+    "started_at": "2022-11-04T19:34:58",
+    "ended_at": "2022-11-04T20:39:58",
+    "pages_read": 38,
+    "device_type": "desktop",
+    "completion_pct": 8.5
+  },
+  {
+    "session_id": "SES00592",
+    "user_id": "USR0131",
+    "book_id": "BOOK006",
+    "started_at": "2023-03-03T06:56:58",
+    "ended_at": "2023-03-03T08:58:58",
+    "pages_read": 90,
+    "device_type": "desktop",
+    "completion_pct": 21.3
+  },
+  {
+    "session_id": "SES00593",
+    "user_id": "USR0046",
+    "book_id": "BOOK044",
+    "started_at": "2024-07-07T08:27:21",
+    "ended_at": "2024-07-07T10:20:21",
+    "pages_read": 109,
+    "device_type": "mobile",
+    "completion_pct": 26.6
+  },
+  {
+    "session_id": "SES00594",
+    "user_id": "USR0075",
+    "book_id": "BOOK003",
+    "started_at": "2024-09-26T21:37:49",
+    "ended_at": "2024-09-27T00:19:49",
+    "pages_read": 190,
+    "device_type": "desktop",
+    "completion_pct": 100.0
+  },
+  {
+    "session_id": "SES00595",
+    "user_id": "USR0075",
+    "book_id": "BOOK019",
+    "started_at": "2023-09-18T17:52:29",
+    "ended_at": "2023-09-18T18:16:29",
+    "pages_read": 54,
+    "device_type": "tablet",
+    "completion_pct": 9.3
+  },
+  {
+    "session_id": "SES00596",
+    "user_id": "USR0011",
+    "book_id": "BOOK046",
+    "started_at": "2024-09-28T14:58:45",
+    "ended_at": "2024-09-28T15:17:45",
+    "pages_read": 12,
+    "device_type": "mobile",
+    "completion_pct": 7.1
+  },
+  {
+    "session_id": "SES00597",
+    "user_id": "USR0109",
+    "book_id": "BOOK041",
+    "started_at": "2023-03-03T16:34:19",
+    "ended_at": "2023-03-03T18:10:19",
+    "pages_read": 192,
+    "device_type": "desktop",
+    "completion_pct": 39.3
+  },
+  {
+    "session_id": "SES00598",
+    "user_id": "USR0021",
+    "book_id": "BOOK078",
+    "started_at": "2023-05-02T11:59:51",
+    "ended_at": "2023-05-02T14:20:51",
+    "pages_read": 243,
+    "device_type": "desktop",
+    "completion_pct": 49.5
+  },
+  {
+    "session_id": "SES00599",
+    "user_id": "USR0079",
+    "book_id": "BOOK063",
+    "started_at": "2024-02-06T08:55:20",
+    "ended_at": "2024-02-06T11:54:20",
+    "pages_read": 435,
+    "device_type": "mobile",
+    "completion_pct": 72.9
+  },
+  {
+    "session_id": "SES00600",
+    "user_id": "USR0098",
+    "book_id": "BOOK016",
+    "started_at": "2022-02-15T11:56:33",
+    "ended_at": "2022-02-15T13:08:33",
+    "pages_read": 42,
+    "device_type": "mobile",
+    "completion_pct": 7.9
+  }
+]

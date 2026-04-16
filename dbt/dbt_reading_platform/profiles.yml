@@ -1,0 +1,7 @@
+reading_platform:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: /opt/airflow/data/reading_platform.db
+      threads: 1

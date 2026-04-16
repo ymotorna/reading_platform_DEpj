@@ -1,0 +1,31 @@
+country_code,country_name,region,continent
+US,United States,Northern America,Americas
+GB,United Kingdom,Northern Europe,Europe
+DE,Germany,Western Europe,Europe
+FR,France,Western Europe,Europe
+CA,Canada,Northern America,Americas
+AU,Australia,Australia and New Zealand,Oceania
+IN,India,Southern Asia,Asia
+BR,Brazil,South America,Americas
+MX,Mexico,Central America,Americas
+JP,Japan,Eastern Asia,Asia
+KR,South Korea,Eastern Asia,Asia
+IT,Italy,Southern Europe,Europe
+ES,Spain,Southern Europe,Europe
+NL,Netherlands,Western Europe,Europe
+SE,Sweden,Northern Europe,Europe
+NO,Norway,Northern Europe,Europe
+PL,Poland,Eastern Europe,Europe
+UA,Ukraine,Eastern Europe,Europe
+RU,Russia,Eastern Europe,Europe
+ZA,South Africa,Southern Africa,Africa
+NG,Nigeria,Western Africa,Africa
+EG,Egypt,Northern Africa,Africa
+AR,Argentina,South America,Americas
+CL,Chile,South America,Americas
+SG,Singapore,South-eastern Asia,Asia
+NZ,New Zealand,Australia and New Zealand,Oceania
+PT,Portugal,Southern Europe,Europe
+CH,Switzerland,Western Europe,Europe
+AT,Austria,Western Europe,Europe
+BE,Belgium,Western Europe,Europe
