@@ -72,7 +72,7 @@ load_new_reviews = PythonOperator(
 )
 
 
-# execution queue
+# execution pipeline
 load_new_payments >> load_new_reding_sessions >> load_new_reviews
 
 

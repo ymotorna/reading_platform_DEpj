@@ -79,7 +79,7 @@ load_new_users = PythonOperator(
 
 
 
-# execution queue
+# execution pipeline
 load_new_authors >> load_new_books >> load_new_subscriptions >> load_new_users
 
 
