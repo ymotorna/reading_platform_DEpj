@@ -15,7 +15,8 @@ authors as (
 )
 
 select b.*,
-       a.*
+       a.author_name,
+       a.author_nationality
 from books b
 left join authors a
     on a.author_id = b.author_id

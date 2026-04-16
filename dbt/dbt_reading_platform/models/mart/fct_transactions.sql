@@ -33,7 +33,7 @@ dim_date as (
 
 joined as (
     select
-        {{ dbt_utils.generate_surrogate_key(['s.subscription_id', 'p.payment_id']) }} as transaction_sk,
+        {{ dbt_utils.generate_surrogate_key(['s.subscription_sk', 'p.payment_sk']) }} as transaction_sk,
         s.subscription_id,
         p.payment_id,
         u.user_sk,
