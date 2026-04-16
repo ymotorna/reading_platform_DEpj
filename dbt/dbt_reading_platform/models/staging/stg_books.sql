@@ -1,10 +1,10 @@
--- raw -> stg \\ +sk
+-- raw (source) -> stg \\ +sk
 
 select
     {{ dbt_utils.generate_surrogate_key(['book_id']) }} as book_sk,
     *
 
-from {{ ref('raw_books') }}
+from {{ source('external_source', 'books') }}
 
 
 

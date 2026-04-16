@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: external_source
+    schema: raw
+    tables:
+      - name: payments
+      - name: books
+      - name: authors
+      - name: reading_sessions
+      - name: reviews
+      - name: subscriptions
+      - name: users

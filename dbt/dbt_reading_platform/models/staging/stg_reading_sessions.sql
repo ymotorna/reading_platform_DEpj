@@ -1,10 +1,10 @@
--- raw -> stg \\
+-- raw (source) -> stg \\ +sk
 
 select
     {{ dbt_utils.generate_surrogate_key(['session_id']) }} as session_sk,
     *
 
-from {{ ref('raw_reading_sessions') }}
+from {{ source('external_source', 'reading_sessions') }}
 
 
 
