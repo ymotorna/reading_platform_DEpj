@@ -5,3 +5,9 @@ RUN python -m venv dbt_venv && \
     . dbt_venv/bin/activate && \
     pip install --no-cache-dir dbt-core dbt-duckdb "duckdb==1.4.4" && \
     deactivate
+
+# + dbt packages into venv
+RUN . dbt_venv/bin/activate && \
+    cd /usr/local/airflow/dbt/dbt_reading_platform && \
+    dbt deps && \
+    deactivate

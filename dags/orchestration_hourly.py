@@ -1,17 +1,29 @@
 from airflow import DAG
 from airflow.operators.bash import BashOperator
-from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 from datetime import datetime, timedelta
 import logging
+from airflow.operators.python import PythonOperator
+import etl_minio_function
 
 logger = logging.getLogger(__name__)
 
-DBT_PJ_DIR = '/usr/local/airflow/dbt/dbt_reading_platform'
-DBT_VENV = '/usr/local/airflow/dbt_venv/bin/activate'
+dbt_dir = '/usr/local/airflow/dbt/dbt_reading_platform'
+dbt_venv = '/usr/local/airflow/dbt_venv/bin/activate'
 
 
 # ------------------------------------------------------------------
+# MiniO (json+large csv) -> DuckDB  \\  ETL  \\  payments/reading_sessions/reviews info \\ structured+large/semi-structured data \\  @hourly
+def etl_payments(task_instance):
+    etl_minio_function.etl_minio('payments', 'last_change_at')
 
+def etl_reading_sessions(task_instance):
+    etl_minio_function.etl_minio('reading_sessions', 'ended_at')
+
+def etl_reviews(task_instance):
+    etl_minio_function.etl_minio('reviews', 'created_at')
+
+
+# ------------------------------------------------------------------
 # failure callback func
 def failure_callback(context):
     logger.error(
@@ -33,41 +45,44 @@ default_args = {
 }
 
 dag = DAG(
-    "reading_platform_orchestration",
+    "hourly_pipeline",
     default_args=default_args,
     schedule="@hourly",
-    catchup=False
+    catchup=False,
+    max_active_runs=1
 )
 
 
 # ---------------------------------------------
-#  trigger dag from minio_to_duckdb.py  \\  Minio (json+large csv)  \\  @hourly, dynamic data  \\  payments/sessions/reviews
-trigger_minio = TriggerDagRunOperator(
-    task_id="trigger_minio_dag",
-    trigger_dag_id="reading_platform_minio",
-    wait_for_completion=True,
+# tasks for Minio etl  \\  @hourly, dynamic data  \\  payments/sessions/reviews
+
+load_new_payments = PythonOperator(
+    task_id="new_payments",
+    python_callable=etl_payments,
+    dag=dag
+)
+
+load_new_reading_sessions = PythonOperator(
+    task_id="new_reading_sessions",
+    python_callable=etl_reading_sessions,
+    dag=dag
+)
+
+load_new_reviews = PythonOperator(
+    task_id="new_reviews",
+    python_callable=etl_reviews,
     dag=dag
 )
 
 
-# refresh seeds  (needed?)
-dbt_seed = BashOperator(
-    task_id="dbt_seed",
-    bash_command=(
-        f"source {DBT_VENV} && "
-        f"cd {DBT_PJ_DIR} && "
-        f"dbt seed --full-refresh"
-    ),
-    dag=dag
-)
 
-
-# run dbt hourly models
+# ---------------------------------------------
+# run dbt hourly models  \\  fct
 dbt_build_hourly = BashOperator(
     task_id="dbt_build_hourly",
     bash_command=(
-        f"source {DBT_VENV} && "
-        f"cd {DBT_PJ_DIR} && "
+        f"source {dbt_venv} && "
+        f"cd {dbt_dir} && "
         f"dbt build --select tag:hourly"
     ),
     dag=dag
@@ -75,7 +90,7 @@ dbt_build_hourly = BashOperator(
 
 
 # execution pipeline
-trigger_minio >> dbt_seed >> dbt_build_hourly
+load_new_payments >> load_new_reading_sessions >> load_new_reviews >> dbt_build_hourly
 
 
 

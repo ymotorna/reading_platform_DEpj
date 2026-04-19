@@ -1,6 +1,9 @@
 -- user metrics + window funcs \\ pull data from fct tables + dim_user
 
-{{ config(materialized='table') }}
+{{ config(
+    materialized='table',
+    tags=['daily']
+) }}
 
 with users as (
 
@@ -106,6 +109,3 @@ final as (                    -- window funcs
         dense_rank() over(order by books_completed desc) as books_completed_rank,
         dense_rank() over(order by lifetime_payments desc) as revenue_rank
     from joined
-)
-
-select * from final

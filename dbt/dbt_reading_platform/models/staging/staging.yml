@@ -1,10 +1,3 @@
-# add descriptions for cols + sk cols w/ test for them (unique, not_null)
-# add data_tests for vals:
-  # PK uniqueness
-  # not null
-  # accepted vals
-  # relationships bw  tbls
-
 version: 2
 
 models:
@@ -24,7 +17,7 @@ models:
       - name: nationality
         data_tests:
           - accepted_values:
-              values: ["American","British","French","Japanese","German","Spanish","Brazilian","Canadian","Australian","Italian"]
+              values: ["RU","KR","CL","AT","AR","BR","PL","EG","DE","UA","ES","SG","US","NZ","NL","IN","CA","FR","MX","ZA","NG","IT"]
 
   - name: stg_books
     description: "Catalogue of all books available on the platform."
@@ -37,17 +30,19 @@ models:
         data_tests:
           - unique
           - not_null
-      - name: author_sk
+      - name: author_id
         description: "FK to stg_authors."
         data_tests:
           - not_null
           - relationships:
               to: ref('stg_authors')
-              field: author_sk
-      - name: genre
+              field: author_id
+      - name: genre_id
         data_tests:
-          - accepted_values:
-              values: ["Fiction","Mystery","Sci-Fi","Romance","Thriller","Fantasy","Biography","Self-Help","History","Horror"]
+          - not_null
+          - relationships:
+              to: ref('genres')
+              field: genre_id
 
   - name: stg_users
     description: "Core user registry including demographic and status data."
@@ -80,12 +75,12 @@ models:
         data_tests:
           - unique
           - not_null
-      - name: user_sk
+      - name: user_id
         data_tests:
           - not_null
           - relationships:
               to: ref('stg_users')
-              field: user_sk
+              field: user_id
       - name: plan_type
         data_tests:
           - accepted_values:
@@ -102,12 +97,18 @@ models:
         data_tests:
           - unique
           - not_null
-      - name: subscription_sk
+      - name: subscription_id
         data_tests:
           - not_null
           - relationships:
               to: ref('stg_subscriptions')
-              field: subscription_sk
+              field: subscription_id
+      - name: user_id
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('stg_users')
+              field: user_id
       - name: status
         data_tests:
           - accepted_values:
@@ -120,16 +121,18 @@ models:
         data_tests:
           - unique
           - not_null
-      - name: user_sk
+      - name: user_id
         data_tests:
+          - not_null
           - relationships:
               to: ref('stg_users')
-              field: user_sk
-      - name: book_sk
+              field: user_id
+      - name: book_id
         data_tests:
+          - not_null
           - relationships:
               to: ref('stg_books')
-              field: book_sk
+              field: book_id
 
   - name: stg_reviews
     description: "User-submitted book reviews and ratings."
@@ -138,6 +141,18 @@ models:
         data_tests:
           - unique
           - not_null
+      - name: user_id
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('stg_users')
+              field: user_id
+      - name: book_id
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('stg_books')
+              field: book_id
       - name: rating
         data_tests:
           - accepted_values:

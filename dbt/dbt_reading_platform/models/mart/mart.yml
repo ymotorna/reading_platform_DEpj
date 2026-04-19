@@ -167,12 +167,11 @@ models:
           - unique
           - not_null
 
-      - name: country
-        description: Two-letter ISO country code of the user's registered location.
+      - name: country_code
         data_tests:
           - not_null
           - accepted_values:
-              values: ["US","GB","DE","FR","JP","BR","CA","AU","IT","ES","MX","IN","PL","NL","SE"]
+              values: [ "RU","KR","CL","AT","AR","BR","PL","EG","DE","UA","ES","SG","US","NZ","NL","IN","CA","FR","MX","ZA","NG","IT" ]
 
       - name: signup_at
         description: Date the user completed account registration.

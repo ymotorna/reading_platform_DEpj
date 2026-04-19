@@ -9,6 +9,5 @@ data/
 .venv/
 dbt/dbt_reading_platform/target/
 dbt/dbt_reading_platform/logs/
-dbt/dbt_reading_platform/dbt_packages/
 include/*.db
 include/*.duckdb
