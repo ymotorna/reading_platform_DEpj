@@ -2,14 +2,14 @@
 
 {{ config(
     materialized='table',
-    tags=['daily']
+    tags=['hourly']
 ) }}
 
 with users as (
 
     select user_sk,
         user_id,
-        country,
+        country_code,
         signup_at,
         birth_year,
         preferred_genres,
@@ -99,13 +99,11 @@ joined as (
     left join metrics m on u.user_sk = m.user_sk
     left join review_metrics r on u.user_sk = r.user_sk
     left join revenue_metrics p on u.user_sk = p.user_sk
-),
+)
 
-final as (                    -- window funcs
-
-    select
-        *,
-        dense_rank() over(order by total_pages_read desc) as pages_read_rank,
-        dense_rank() over(order by books_completed desc) as books_completed_rank,
-        dense_rank() over(order by lifetime_payments desc) as revenue_rank
-    from joined
+select
+    *,
+    dense_rank() over(order by total_pages_read desc) as pages_read_rank,
+    dense_rank() over(order by books_completed desc) as books_completed_rank,
+    dense_rank() over(order by lifetime_payments desc) as revenue_rank
+from joined

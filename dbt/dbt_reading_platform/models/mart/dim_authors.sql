@@ -29,7 +29,8 @@ final as (
         a.name,
         a.nationality,
         a.birth_year,
-        a.bio_snippet
+        a.bio_snippet,
+        a.added_at
 )
 
 select * from final

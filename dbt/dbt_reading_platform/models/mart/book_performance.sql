@@ -1,6 +1,9 @@
 -- metrics + window funcs \\ pull data from fct tables + dim_books
 
-{{ config(materialized='table') }}
+{{ config(
+    materialized='table',
+    tags=['hourly']
+) }}
 
 with books as (
     select *
@@ -66,17 +69,10 @@ joined as (
         on b.book_sk = r.book_sk
     left join social_metrics s
         on b.book_sk = s.book_sk
-),
-
-final as (
-
-    select *,
-        avg(avg_rating) over(partition by genre) as genre_avg_rating,
-        avg(completion_rate) over(partition by genre) as genre_avg_completion_rate
-    from joined
 )
 
-select * from final
-
-
+select *,
+    avg(avg_rating) over(partition by genre_id) as genre_avg_rating,
+    avg(completion_rate) over(partition by genre_id) as genre_avg_completion_rate
+from joined
 
