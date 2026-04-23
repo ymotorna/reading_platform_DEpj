@@ -67,9 +67,7 @@ def etl_minio(tbl, col_as_watermark):
                                 last_change_at::TIMESTAMP
                             from read_csv_auto('s3://my-reading-platform/payments.csv')
                             where last_change_at::timestamp > '{last_loaded_changes}'
-                            on conflict (payment_id) do update set
-                                status = excluded.status,
-                                last_change_at = excluded.last_change_at;
+                            on conflict (payment_id) do nothing;
                             """)
 
         elif tbl == 'reading_sessions':
